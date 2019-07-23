@@ -8,6 +8,8 @@ if len(sys.argv) <= 1:
 # Create a server socket, bind it to a port and start listening
 tcpSerSock = socket(AF_INET, SOCK_STREAM)
 # Fill in start
+tcpSerSock.bind(('localhost',8888))
+tcpSerSock.listen(5)
 # Fill in end
 
 while 1:
@@ -15,7 +17,8 @@ while 1:
 	print('Ready to serve...')
 	tcpCliSock, addr = tcpSerSock.accept()
 	print('Received a connection from:', addr)
-    message = # Fill in start
+	# Fill in start 
+    message = tcpCliSock.recv(1024)
               # Fill in End
 	print(message)
 	# Extract the filename from the given message
@@ -34,6 +37,7 @@ while 1:
 		tcpCliSock.send("HTTP/1.0 200 OK\r\n")            
 		tcpCliSock.send("Content-Type:text/html\r\n")
         # Fill in start
+        for
         # Fill in end
 			print('Read from cache')   
 	# Error handling for file not found in cache
