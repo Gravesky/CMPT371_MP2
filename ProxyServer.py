@@ -40,7 +40,6 @@ while 1:
         nloop = range(0,len(outputdata))
         for k in nloop:
         	tcpCliSock.send(outputdata[k])
-        	print('msg: Reading from the Cache.')
         # Fill in end
 			print('Read from cache')   
 	# Error handling for file not found in cache
