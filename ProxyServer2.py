@@ -8,7 +8,7 @@ if len(sys.argv) <= 1:
 # Create a server socket, bind it to a port and start listening
 tcpSerSock = socket(AF_INET, SOCK_STREAM)
 # Fill in start
-tcpSerSock.bind(('127.0.0.1',12001))
+tcpSerSock.bind(('127.0.0.1',12000))
 tcpSerSock.listen(1)
 # Fill in end
 
@@ -23,7 +23,7 @@ while 1:
         print(message)
         # Extract the filename from the given message
         print(message.split()[1])
-        filename = message.split()[1].partition("/")[2]
+        filename = message.decode().split()[1].partition("/")[2]
         print(filename)
         fileExist = "false"
         filetouse = "/" + filename
@@ -61,6 +61,7 @@ while 1:
                                 # Read the response into buffer
                                 # Fill in start
                                 buff = fileobj.readlines()
+                                print ('---file buffer---', buff)
                                 final = []
                                 for line in buff:
                                     l = line.replace('href="/','href="http://' + filename + '/')
