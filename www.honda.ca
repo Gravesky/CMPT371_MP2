@@ -1,0 +1,16 @@
+HTTP/1.0 301 Moved Permanently
+Content-Type: text/html; charset=UTF-8
+Location: https://www.honda.ca/
+Vary: Origin
+Server: 
+X-Powered-By: 
+SID_P1: 3
+X-UA-Compatible: IE=Edge,chrome=1
+X-ASPNET-VERSION: 
+X-ASPNETMVC-VERSION: 
+X-Frame-Options: SAMEORIGIN
+Date: Wed, 31 Jul 2019 04:09:27 GMT
+Content-Length: 144
+
+<head><title>Document Moved</title></head>
+<body><h1>Object Moved</h1>This document may be found <a HREF="https://www.honda.ca/">here</a></body>

@@ -1,0 +1,2433 @@
+HTTP/1.0 500 Internal Server Error
+Date: Wed, 31 Jul 2019 04:17:12 GMT
+X-Powered-By: Servlet/3.0
+X-Akamai-GTMO: NGBS
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+Connection: close
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+
+<!doctype html>
+<html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta charset="utf-8">
+<link rel="shortcut icon" type="image/x-icon" href="/resources/ford/general/img/favicon.ico" />
+<script type="text/javascript">var __params = { site : "bs" , peflip : "http://quickquotefoc.ford.ca/cc/loader.js?region=CA&id=spc&make=Ford" , wowBP3url : "http://shop.ford.ca/showroom/?linktype=build" , make : "Ford" , baseURL : "http://www.ford.ca" , canonicalURL : "/" , anchorPage : "page" , domain : "ford.ca" }; var AllowedDomains =new Array(); AllowedDomains[0] = "blog.ford.ca"; AllowedDomains[1] = "racing.ford.com"; AllowedDomains[2] = "corporate.ford.com";</script> <script type="text/javascript">
+var log = {
+trace: function(m1, m2, m3){},
+debug: function(m1, m2, m3){},
+info: function(m1, m2, m3){},
+warn: function(m1, m2, m3){},
+error: function(m1, m2, m3){},
+fatal: function(m1, m2, m3){}
+};
+</script>
+<!--mp_linkcode_begins-->
+<script src="http://www.ford.ca/ngtemplates/ngassets/com/forddirect/ng/mp_linkcode.js"></script>
+<!--mp_linkcode_ends-->
+<script type="text/javascript">
+/* Motion Point - presume to be used for Spanish Translation of site. Code is not invoked for users.*/
+MP.UrlLang='mp_js_current_lang';
+MP.SrcUrl=decodeURIComponent('mp_js_orgin_url');
+MP.oSite=decodeURIComponent('mp_js_origin_baseUrl');
+MP.tSite=decodeURIComponent('mp_js_translated_baseUrl');
+MP.init();
+window.onload = function() {
+var langlinks = document.querySelectorAll('.langLink');
+for (var i = 0; i < langlinks.length; i++) {
+langlinks.item(i).onclick = function() {
+var lang = this.getAttribute('data-lang');
+var url = this.getAttribute('data-href');
+var tSite = MP.tSite.replace('http://', '').replace('https://', '');
+url = url.replace('http://', '').replace('https://', '');
+MP.switchLanguage(tSite.search(url) != -1 ? MP.oSite : url, lang, true);
+return false;
+}
+}
+}
+</script>
+<link rel="stylesheet" type="text/css" href="http://www.ford.ca/ngtemplates/ngassets/mergedassets/ford/skins/ford/library-aggregate.css"/>
+<link rel="stylesheet" type="text/css" href="http://www.ford.ca/ngtemplates/ngassets/mergedassets/ford/skins/ford/template-aggregate.css"/>
+<link rel="stylesheet" type="text/css" href="http://www.ford.ca/ngtemplates/ngassets/mergedassets/ford/views/brand-home/template-aggregate.css"/>
+<script type="text/javascript">
+if (document.documentElement.style.MozTransform || document.documentElement.style.MozTransform === ''){ // gecko 1.9.1 inference
+WebFontConfig = {
+custom: { families: ['fordngbs-antenna','fordngbs-antenna-bold-italic','fordngbs-antenna-bold','fordngbs-antenna-italic','fordngbs-antenna-re','fordngbs-antenna-re-bold-italic','fordngbs-antenna-re-bold','fordngbs-antenna-re-italic','fordngbs-antenna-small','fordngbs-antenna-small-bold','fordngbs-antenna-small-bolditalic','fordngbs-antenna-small-italic','fordngbs-antenna-extra-light','fordngbs-antenna-condensed-extra-light', 'fordngbs-antenna-comp-extra-light', 'fordngbs-franklingothic-medium', 'fordngbs-franklingothic-heavy'],
+urls: ['http://www.ford.ca/ngtemplates/ngassets/mergedassets/ford/views/brand-home/fonts.css'] }
+};
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = 'http://www.ford.ca/ngtemplates/ngassets/js/webfont.js';
+document.getElementsByTagName('head')[0].appendChild(script);
+} else {
+document.write('<link rel="stylesheet" type="text/css" href="http://www.ford.ca/ngtemplates/ngassets/mergedassets/ford/views/brand-home/fonts.css"/>')
+}
+</script>
+<!-- Merged Library -->
+<script src="http://www.ford.ca/ngtemplates/ngassets/mergedassets/ford/skins/ford/library-aggregate-head.js"></script>
+<!-- Merged Templates -->
+<script src="http://www.ford.ca/ngtemplates/ngassets/mergedassets/ford/skins/ford/template-aggregate-head.js"></script>
+<title>Ford – New Cars, Trucks, SUVs, Hybrids &amp; Crossovers | Ford Vehicles </title>
+<meta name="description" content="The Official Ford Site to research, learn and shop for all new Ford Vehicles. View photos, videos, specs, compare competitors, build and price, search inventory and more on Ford.ca." />
+<meta name="keywords" content="Ford, Car, Cars, Truck, Trucks, SUV, SUVs, Crossover, Crossovers" />
+<meta name="robots" content="noodp">
+<!-- TODO: this needs to allow for SOME query stings -->
+<link rel="canonical" href="http://www.ford.ca/" />
+<meta property="fb:app_id" content="170221116387342" />
+<meta property="fb:admins" content="1152014306,653620605" />
+<script language="javascript" type="text/javascript" src="http://www.ford.ca/resources/ford/general/js/mbox-stub.js"></script>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1663936937223281');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1663936937223281&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+</head>
+<!--[if lt IE 7]><body class="yui-skin-fmc skin-ford ie oldie"><![endif]-->
+<!--[if IE 7]><body class="yui-skin-fmc skin-ford ie7 ie oldie"><![endif]-->
+<!--[if IE 8]><body class="yui-skin-fmc skin-ford ie8 ie oldie"><![endif]-->
+<!--[if IE 9]><body class="yui-skin-fmc skin-ford ie9 ie oldie"><![endif]-->
+<!--[if gt IE 9]><body class="yui-skin-fmc skin-ford ie"><![endif]-->
+<!--[if !IE]><!--><body class="yui-skin-fmc skin-ford"><!--<![endif]-->
+<div id="td_topLevelCont"></div>
+<STYLE TYPE="text/css" MEDIA="screen">
+div#page.view-brand-home {
+background:url(/resources/ford/general/img/Fusion_Sport_Homepage_1200x640_EN_2.jpg) no-repeat 50% 0;
+}
+</STYLE>
+<div id="page" class="view-brand-home "
+>
+<script type="text/javascript">
+var dcdebug = false;
+if (self !== top || dcdebug === true) {
+//Dealerconnection specific code
+jQuery("#page").addClass("dcview");
+/*var $C = YAHOO.util.Cookie;
+var dcViewCookie = $C.get("dcView");
+if (dcViewCookie === null) {
+//Check URL for querystring and set cookie
+} else {
+jQuery("#page").addClass("dcview");
+}*/
+}
+</script>
+<div id="header" class="">
+<div id="globalnav" class="ng-widget globalnav-header "
+>
+<script>
+td_site.pricing.init('http://www.ford.ca/services');
+//alert(screen.width+"--"+screen.height);
+</script>
+<!--
+Expression modelNode.nameplate.navigation is undefined on line 91, column 55 in com/forddirect/ng/widgets/globalnav-new/globalnav-header.ftm.----------
+==&gt; if (modelNode.nameplate.navigation.image1?? &amp;&amp; modelNode.nameplate.navigation.image1?has_content) [on line 91, column 49 in com/forddirect/ng/widgets/globalnav-new/globalnav-header.ftm]
+in user-directive widgetInstance.init [on line 59, column 25 in macros/skin.ftm]
+in user-directive skin.widget [on line 172, column 49 in default-ford.ftl]
+in user-directive show [on line 574, column 1 in default-ford.ftl]
+in include path [on line 16, column 9 in default.ftl]
+in user-directive show [on line 22, column 1 in default.ftl]
+----------
+-->
+<!-- [Additional FTL error: Expression modelNode.nameplate.navigation is undefined on line 91, column 55 in com/forddirect/ng/widgets/globalnav-new/globalnav-header.ftm.] -->
+<div id="spriteGNAV" data-url="//www.ford.ca/sprite_globalnav/globalnav.css?nameplates=truck-f-1502019;truck-ranger2019;truck-transit%20connect2019;truck-super%20duty2019;truck-transit2019;hybrid-fusion%20energi2019;hybrid-fusion%20hybrid2019;car-fiesta2019;car-fusion2019;car-mustang2019;car-taurus2019;crossover-ecosport2019;suv-escape2019;crossover-edge2019;crossover-flex2019;suv-expedition2019;suv-explorer2020;&amp;cacheHash=718154171&amp;make=Ford"></div>
+<link rel="stylesheet" type="text/css" href="//www.ford.ca/sprite_globalnav/globalnav.css?nameplates=truck-f-1502019;truck-ranger2019;truck-transit%20connect2019;truck-super%20duty2019;truck-transit2019;hybrid-fusion%20energi2019;hybrid-fusion%20hybrid2019;car-fiesta2019;car-fusion2019;car-mustang2019;car-taurus2019;crossover-ecosport2019;suv-escape2019;crossover-edge2019;crossover-flex2019;suv-expedition2019;suv-explorer2020;&amp;cacheHash=718154171&amp;make=Ford"/>
+<div id="global-nav" class="clearfix fluid">
+<ul class="top-links clearfix preventNavHide">
+<li class="logo follow">
+<a href="http://www.ford.ca">
+<img src="//www.ford.ca/resources/ford/general/globalnav/images/ford-oval-stacked@x2.png" title="Ford">
+</a>
+</li>
+<li class="link">
+<a data-segment="cars" class="cars" href="http://www.ford.ca/new-cars?gnav=header-cars" data-href="http://www.ford.ca/new-cars?gnav=header-cars">Cars</a>
+</li>
+<li class="link">
+<a data-segment="crossoversAndSuvs" class="crossoversAndSuvs" href="http://www.ford.ca/new-suvs-crossovers?gnav=header-suvs" data-href="http://www.ford.ca/new-suvs-crossovers?gnav=header-suvs">CUVs & SUVs</a>
+</li>
+<li class="link">
+<a data-segment="trucksAndVans" class="trucksAndVans" href="http://www.ford.ca/new-trucks?gnav=header-trucks" data-href="http://www.ford.ca/new-trucks?gnav=header-trucks">Trucks & Vans</a>
+</li>
+<li class="link ">
+<a data-segment="shoppingTools" class="shoppingTools"
+data-href="http://www.ford.ca?gnav=header-tools">
+Shopping Tools
+</a>
+</li>
+<li class="link ">
+<a data-segment="serviceTools" class="serviceTools"
+href="http://www.ford.ca/service?gnav=header-owners"
+data-href="http://www.ford.ca/service?gnav=header-owners">
+For Owners
+</a>
+</li>
+<li class="link odd follow">
+<a data-segment="community" class="community"
+href="http://blog.ford.ca/posts/topics/community/?gnav=header-community"
+data-href="http://blog.ford.ca/posts/topics/community/?gnav=header-community">
+Community
+</a>
+</li>
+<li class="link odd">
+<a data-segment="findADealer" class="findADealer"
+href="http://www.ford.ca/dealerships/locate/?gnav=header-finddealer"
+data-href="http://www.ford.ca/dealerships/locate/?gnav=header-finddealer">
+Find a Dealer
+</a>
+</li>
+<li class="link odd exit">
+<a data-segment="Blog" class="Blog"
+href="http://blog.ford.ca/?gnav=header-blog"
+target="_blank"
+data-href="http://blog.ford.ca/?gnav=header-blog">
+Blog
+</a>
+</li>
+<li class="link odd">
+<a class="langLink" data-href="http://fr.ford.ca" href="//fr.ford.ca" data-lang ="fr" mporgnav="">Fran&ccedil;ais</a>
+</li>
+<li class="link ">
+<a data-segment="search" class="search"
+href="http://www.ford.ca/search/"
+data-href="http://www.ford.ca/search/">
+<span>Search</span>
+</a>
+</li>
+</ul>
+<script>
+//fix NG-35301
+jQuery(".top-links.preventNavHide li a").click(function(e){
+e.preventDefault();
+});
+</script>
+<div class="bottom">
+<div class="segments preventNavHide">
+<div class="segment cars hidden">
+<ul class="vehicles clearfix">
+</ul>
+</div>
+<div class="segment crossoversAndSuvs hidden">
+<ul class="vehicles clearfix">
+</ul>
+</div>
+<div class="segment trucksAndVans hidden">
+<ul class="vehicles clearfix">
+<li class="vehicle addOn list-1 last">
+<a href="http://www.ford.ca/commercial-trucks?gnav=header-trucks" class="commercialTrucks" data-vehicle="addOn:commercialTrucks">
+<div class="imgWrapper">
+<img class="image" data-src="//www.ford.ca/resources/ford/general/globalnav/images/thumbs/commtruck_thumb.png">
+</div>
+<div class="info">
+<div class="border-top">
+<h4 class="name">Commercial Trucks</h4>
+</div>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div class="segment shoppingTools clearfix hidden">
+<div class="column build-price">
+<a class="tools-top right-border" href="http://shop.ford.ca/showroom/?linktype=build&gnav=header-tools">
+<h1>Build & Price <span class="icon"></span></h1>
+<p>Configure a vehicle the way you want- from colors to options - and get a Net Price.</p>
+</a>
+<div class="tools-bottom">
+<ul>
+<li>
+<span class="iconWrapper brochures"></span>
+<a class="" href="http://shop.ford.ca/showroom?linktype=brochures&gnav=header-tools">Brochures & Guides</a>
+</li>
+<li>
+<span class="iconWrapper compare"></span>
+<a class="" href="http://shop.ford.ca/showroom?linktype=compare&gnav=header-tools">Compare Competitors</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="column search-dealer">
+<a class="tools-top right-border" href="http://shop.ford.ca/showroom?linktype=inventory&gnav=header-tools">
+<h1>Search Dealer Inventory <span class="icon"></span></h1>
+<p>Search the inventory of a dealership near you for the exact vehicle you want.</p>
+</a>
+<div class="tools-bottom">
+<ul>
+<li>
+<span class="iconWrapper dealer"></span>
+<a class="" href="http://www.ford.ca/dealerships/locate/results/?gnav=header-tools">Find a Dealer</a>
+</li>
+<li>
+<span class="iconWrapper incentives"></span>
+<a class="" href="http://www.ford.ca/region/national/?gnav=header-tools">Incentives & Offers</a>
+</li>
+<li>
+<span class="iconWrapper scheduleatestdrive"></span>
+<a class="" href="http://www.ford.ca/test-drive/?gnav=header-tools">Schedule a Test Drive</a>
+</li>
+<li>
+<span class="iconWrapper certified"></span>
+<a class="" href="http://www.ford.ca/certified-used/?gnav=header-tools">Certified Pre-Owned</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="column get-updates">
+<a class="tools-top get-updates-link " href="http://www.ford.ca/?guflip=enabled&gnav=header-tools">
+<h1>Get Updates <span class="icon"></span></h1>
+<p>Sign up for email updates</p>
+</a>
+<div class="tools-bottom">
+<ul>
+<li>
+<span class="iconWrapper credit"></span>
+<a class="" href="https://www.ford.ca/finance/?gnav=header-tools">Ford Credit Canada</a>
+</li>
+<li>
+<span class="iconWrapper apply"></span>
+<a class="" href="https://www.ford.ca/finance/online-credit-application?gnav=header-tools">To Apply for Credit</a>
+</li>
+<li>
+<span class="iconWrapper estimate"></span>
+<a class="payment-estimator-link" href="http://shop.ford.ca/showroom?linktype=estimatepayment&gnav=header-tools">Estimate Your Payment</a>
+</li>
+<li>
+<span class="iconWrapper tradein"></span>
+<a class="" href="http://www.ford.ca/trade-in/?gnav=header-tools">Trade-In Value</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="segment serviceTools clearfix hidden">
+<div class="column ouroffers">
+<a class="tools-top right-border" href="http://www.ford.ca/service/ourOffers/?gnav=header-owners">
+<h1>Our Offers <span class="icon"></span></h1>
+<p>What ever your Service needs, we have you covered.</p>
+</a>
+<div class="tools-bottom">
+<ul>
+<li>
+<a class="" href="http://www.ford.ca/service/ourOffers/theWorks/?gnav=header-owners" >The Works & The Diesel Works</a>
+</li>
+<li>
+<a class="" href="http://www.ford.ca/service/ourOffers/tiresAndBrakes/?gnav=header-owners" >Tires & Brakes</a>
+</li>
+<li>
+<a class="" href="http://www.ford.ca/service/ourOffers/PartsWarranty/?gnav=header-owners" >Ford Parts Warranty</a>
+</li>
+<li>
+<a class="" href="http://www.ford.ca/service/ourOffers/ownerAdvantageRewards/?gnav=header-owners" >Owner Advantage Rewards</a>
+</li>
+<li>
+<a class="" href="http://www.ford.ca/service/ourOffers/winterSafetyPackage/?gnav=header-owners" >Winter Safety Package</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="column ourservices">
+<a class="tools-top right-border" href="http://www.ford.ca/service/ourServices/?gnav=header-owners">
+<h1>Our Services <span class="icon"></span></h1>
+<p>
+With over one million combined hours of Ford specific training, our Technicians will keep your Ford running like-new.
+</p>
+</a>
+<div class="tools-bottom">
+<ul>
+<li>
+<a class="" href="http://www.ford.ca/service/ourServices/fordService/?gnav=header-owners" >Ford Service</a>
+</li>
+<li>
+<a class="" href="http://www.ford.ca/service/ourParts/?gnav=header-owners" >Our Parts</a>
+</li>
+<li>
+<a class="" href="http://www.ford.ca/service/ourServices/scheduledMaintenance/?gnav=header-owners" >Scheduled Maintenance</a>
+</li>
+<li>
+<a class="" href="http://www.ford.ca/service/roadsideAssistance/?gnav=header-owners" >Roadside Assistance</a>
+</li>
+<li>
+<a class="" href="http://www.ford.ca/service/quicklane/?gnav=header-owners" >Quick Lane</a>
+</li>
+<li>
+<a class="" href="http://www.ford.ca/service/prepaidMaintenance/?gnav=header-owners" >Prepaid Maintenance</a>
+</li>
+<li>
+<a class="" href="http://www.ford.ca/service/wholesale/?gnav=header-owners" >Wholesale</a>
+</li>
+<li>
+<a class="" href="http://www.ford.ca/service/fordProtect/?gnav=header-owners" >Ford Protect</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="column customersupport">
+<a class="tools-top " href="http://www.ford.ca/service/customerSupport/?gnav=header-owners">
+<h1>Customer Support <span class="icon"></span></h1>
+<p>How can we help?</p>
+</a>
+<div class="tools-bottom">
+<ul>
+<li>
+<a class="" href="http://www.ford.ca/service/customerSupport/emailUs/?gnav=header-owners" >Email Us</a>
+</li>
+<li>
+<a class="" href="http://www.ford.ca/service/customerSupport/contactInformation/?gnav=header-owners" >Contact Information</a>
+</li>
+<li>
+<a class="" href="http://www.ford.ca/service/videos/?gnav=header-owners" >Videos</a>
+</li>
+<li>
+<a class="" href="http://www.ford.ca/technology/sync/?gnav=header-owners" >SYNC</a>
+</li>
+<li>
+<a class="" href="http://www.ford.ca/syncmyride/?gnav=header-owners" >SYNC Support</a>
+</li>
+<li>
+<a class="" href="http://www.ford.ca/service/ourServices/safetyRecalls/?gnav=header-owners" >Recall Check</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="segment community clearfix hidden">
+</div>
+<div class="segment findADealer clearfix hidden">
+<div id="lad-header-form-ford" class="ng-widget lad-header-form-ford "
+>
+<h1>Please enter your Postal Code</h1>
+<div class="goto-input zip-form" data-metricstag="gnav=header-finddealer" data-host="http://www.ford.ca" data-homepage="true">
+<input type="text" placeholder="" value="" />
+<span class="wrap-right-arrow"><a class="right-arrow"></a></span>
+</div>
+<a id="advanced-search-link" href="http://www.ford.ca/dealerships/locate?gnav=header-finddealer">Advanced Search</a>
+</div>
+</div>
+<div class="segment Blog clearfix hidden">
+</div>
+<div class="segment Francais clearfix hidden">
+</div>
+<div class="segment search clearfix hidden">
+<div class="goto-input">
+<div id="gnav-search-endeca" class="ng-widget sitesearch-input "
+>
+<div class="label" style="display:block;"></div>
+<div class="search yui-skin-fmc">
+<div id="searchMsg">Start new search<span class="colon">:</span></div>
+<div class="search-box">
+<form id='globalSearchForm' name='globalSearchForm' action='//www.ford.ca/search/' method='GET' class='site-search-form pngimg' >
+<label class="search-magnifier-icon">
+<input type='text' id='f:searchInputString' name="f:searchInputString" value="" class='site-search-input' />
+</label>
+<div class="search-button">
+<input type='submit' id='f:search' name="f:search" value=" " class='search-go' />
+</div>
+<input type="hidden" class="formID" id='formID-globalSearchForm' name='formID' value='globalSearchForm'/>
+</form>
+</div>
+<div class="searchBottom"><!-- IE6 Hack --></div>
+</div>
+<div class="separator"><!-- IE6 Hack --></div>
+</div>
+</div>
+</div>
+</div>
+<div class="information columns clearfix hidden preventNavHide">
+<div class="column left">
+<div class="accordion">
+<div class="nameplate">
+<div class="buttonWrapper">
+<div class="button" data-vehicle="nameplate">
+<span class="year"></span>
+<span class="name"></span>
+<span class="arrow"></span>
+</div>
+</div>
+<div class="wrapper">
+<ul class="top-info clearfix"></ul>
+<ul class="bottom-info clearfix"></ul>
+</div>
+</div>
+<div class="specialty">
+<h3 class="separator"></h3>
+<ul></ul>
+</div>
+</div>
+</div>
+<div class="column right">
+<ul class="ctas"></ul>
+</div>
+</div>
+<ul class="links clearfix hidden preventNavHide"></ul>
+</div>
+<div id="gnav-templates" style="display: none">
+<div class="bottom-link">
+<li class="link" data-name="{name}"><a href="{link}">{text}</a></li>
+</div>
+<div class="wrapper-top-info">
+<li class="item clearfix"><div class="left">{name}</div><div class="right">{value}</div></li>
+</div>
+<div class="wrapper-bottom-info-item">
+<li class="item">{text}</li>
+</div>
+<div class="wrapper-bottom-info-disclaimer">
+<li class="bottom-info-disclaimer">{text}</li>
+</div>
+<div class="cta-button-link">
+<li class="cta">
+<a href="{link}" class="action {style}">{text}</a>
+</li>
+</div>
+<div class="specialty">
+<li class="{id}">
+<div class="buttonWrapper">
+<div class="button" data-vehicle="{id}" href="{link}">
+<span class="icon"><img data-src="{icon}" /></span>
+<span class="name">{name}</span>
+<span class="arrow"></span>
+</div>
+</div>
+<div class="wrapper">
+<ul class="top-info clearfix"></ul>
+<ul class="bottom-info clearfix"></ul>
+</div>
+</li>
+</div>
+<div class="addonLinks">
+<li class="{id}">
+<div class="buttonWrapper">
+<a class="button" data-vehicle="{id}" href="{link}">
+<span class="icon"><img data-src="{icon}" /></span>
+<span class="name">{name}</span>
+<span class="arrow"></span>
+</a>
+</div>
+<div class="wrapper">
+<ul class="top-info clearfix"></ul>
+<ul class="bottom-info clearfix"></ul>
+</div>
+</li>
+</div>
+</div>
+<div id="gnav-json" style="display: none">
+{ "segments": { "cars": { "bottomLinks": [ {"text": "Cars Overview", "name": "overview", "link": "http://www.ford.ca/new-cars?gnav=header-cars"}, {"text": "Hybrids &amp; EVs", "name": "hybrids", "link": "http://www.ford.ca/new-hybrids-evs?gnav=header-cars"}, {"text": "Certified Pre-Owned", "name": "certified", "link": "http://www.ford.ca/certified-used?gnav=header-cars"}, {"text": "Future Vehicles", "name": "future", "link": "http://www.ford.ca/future-vehicles?gnav=header-cars"} ] , "addOns": { } }, "crossoversAndSuvs": { "bottomLinks": [ {"text": "CUVs &amp; SUVs Overview", "name": "overview", "link": "http://www.ford.ca/new-suvs-crossovers?gnav=header-suvs"}, {"text": "Certified Pre-Owned", "name": "certified", "link": "http://www.ford.ca/certified-used?gnav=header-suvs"}, {"text": "Future Vehicles", "name": "future", "link": "http://www.ford.ca/future-vehicles?gnav=header-suvs"} ] , "addOns": { } }, "trucksAndVans": { "bottomLinks": [ {"text": "Trucks Overview", "name": "overview", "link": "http://www.ford.ca/new-trucks?gnav=header-trucks"}, {"text": "Certified Pre-Owned", "name": "certified", "link": "http://www.ford.ca/certified-used?gnav=header-trucks"}, {"text": "Future Vehicles", "name": "future", "link": "http://www.ford.ca/future-vehicles?gnav=header-trucks"} ] , "addOns": { "commercialTrucks": { "hideBottomCtas": [ "certified" ], "thumbnail": "/resources/ford/general/globalnav/images/thumbs/commtruck_thumb.png", "title": "&lt;b&gt;COMMERCIAL TRUCKS&lt;/b&gt;", "copy": "Our Commercial Trucks and Vans are Built Ford Tough&lt;sup&gt;&amp;reg;&lt;/sup&gt; to help you get your job done right.", "contentImage": "//www.ford.ca/resources/ford/general/globalnav/images/large_images/C7414817_COMF_650_750_34FrntPassBvrgTrck_mj_709x407.jpg", "ctas": [ { "text": "Vehicle Line-up", "link": "http://www.ford.ca/commercial-trucks/?gnav=header-trucks" } , { "text": "Business Preferred Network", "link": "http://www.ford.ca/business-preferred-network/?gnav=header-trucks" } ] } } } } } </div>
+<div id="ad-choices-logo">
+<a id="_bapw-link-header" href="#" target="_blank" style="text-decoration:none !important">
+<div class="ad-choices-image"></div>
+</a>
+</div>
+</div>
+<script type="text/javascript">
+</script>
+</div>
+</div>
+<div id="view-container">
+<div id="view" class="">
+<div id="view-bd" class="view-bd">
+<div style="position:relative;width:960px;height:345px;">
+<style type="text/css">
+a.f150Link{
+background: url("/resources/ford/general/img/icons/arrow_normal.png") no-repeat scroll right bottom rgba(0, 0, 0, 0);
+left: 20px !important;
+padding: 10px 0 0 40px;
+top: 70px !important;
+}
+a.f150Link:hover{
+background: url("/resources/ford/general/img/icons/arrow_hover.png") no-repeat right bottom transparent;
+}
+a.mustangLink{
+background: url("/resources/ford/general/img/icons/arrow_normal.png") no-repeat right bottom transparent;
+height: 100px;
+left: 25px;
+top: 245px;
+padding: 10px 0 0 40px;
+position: relative;
+width: 508px;
+display: block;
+}
+a.mustangLink:hover{
+background: url("/resources/ford/general/img/icons/arrow_hover.png") no-repeat right bottom transparent;
+height: 100px;
+left: 25px;
+top: 245px;
+padding: 10px 0 0 40px;
+position: relative;
+width: 508px;
+display: block;
+}
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+div#page.view-brand-home {
+background-size: 100% !important;
+background-position: -100% 0 !important;
+}
+}
+</style>
+<!-- Focus -->
+<a style="position: absolute; display: block; width: 945px; height: 362px; left: 8px; top: 34px;" href="/cars/fusion/2017?intcmp=pro-foc-home-focus-foc-vhp-fusion-150518"></a>
+<!-- old stuff
+<a style="position: absolute; display: block; width: 322px; height: 314px; left: 329px; top: 75px;" href="/suvs/explorer"></a>
+<a style="position: absolute; display: block; width: 296px; height: 272px; left: 658px; top: 78px;" href="/suvs/escape"></a>
+-->
+</div>
+<div class="stacked-cap stacked-cap-top"></div>
+<div class="stacked-box">
+<div class="homepage">
+<div id="homepage-billboard">
+<div id="homepage-nameplate" class="ng-widget homepage-nameplate "
+>
+</div>
+</div>
+<div id="billboardSocialMediaLinks">
+<span>Follow Ford</span>
+<ul>
+<li><a href="http://www.facebook.com/FordCanada" onclick="javascript:return externalUrl('http://www.facebook.com/FordCanada');" class="socialMediaLinks" id="fb" > </a></li>
+<li><a href="http://twitter.com/FordCanada" onclick="javascript:return externalUrl('http://twitter.com/FordCanada');" class="socialMediaLinks" id="twitter" > </a></li>
+<li><a href="http://youtube.com/FordCanada" onclick="javascript:return externalUrl('http://youtube.com/FordCanada');" class="socialMediaLinks" id="youTube" > </a></li>
+<li><a href="https://www.instagram.com/fordcanada/" onclick="javascript:return externalUrl('https://www.instagram.com/fordcanada/');" class="socialMediaLinks" id="instagram" > </a></li>
+</ul>
+</div>
+</div>
+<div id="homepage-promos" class="ng-widget promotional-area "
+>
+<div class="promo-tiles">
+<ul
+><li class="inline-block homepage width-2" id="homepage-0">
+<div id="ng-widget-0" class="ng-widget promotional-tile "
+>
+<div id="promo:homepage:promotion_1" class="ng-widget promo-custom-image "
+>
+<!-- error define your metrics -->
+<a href="http://www.ford.ca/region/ontario/?md=Focus&yr=2016&intcmp=pro-foc-home-none-foc-incent-none-160601"
+rel="ford_promo"
+class="promo promo-promotion_1"
+data-querystring=""
+id=""
+metricArg="">
+<!-- MTX-1379 Only third image's metrics should be fired. -->
+<img src="http://www.ford.ca/resources/ford/general/promotions/FEB_e-spot_1x2_enF.png"
+title='Offers & Incentives'
+class=' pngimg'
+/>
+</a>
+</div>
+</div>
+</li
+><li class="inline-block homepage width-1" id="homepage-1">
+<div id="ng-widget-1" class="ng-widget promotional-tile "
+>
+<div id="promo:homepage:promotion_2" class="ng-widget promo-custom-image "
+>
+<!-- error define your metrics -->
+<a href="http://www.ford.ca/suvs/escape/?intcmp=pro-foc-home-escape-foc-vhp-escape-150601"
+rel="ford_promo"
+class="promo promo-promotion_2"
+data-querystring=""
+id=""
+metricArg="">
+<!-- MTX-1379 Only third image's metrics should be fired. -->
+<img src="http://www.ford.ca/resources/ford/general/promotions/FORD_ESPOT_April_6_web.png"
+title='2017 Escape'
+class=' pngimg'
+/>
+</a>
+</div>
+</div>
+</li
+><li class="inline-block homepage width-1" id="homepage-2">
+<div id="ng-widget-2" class="ng-widget promotional-tile "
+>
+<div id="promo:homepage:promotion_3" class="ng-widget promo-custom-image "
+>
+<!-- error define your metrics -->
+<a href="http://www.ford.ca/cars/focus/features/?intcmp=pro-foc-home-none-foc-feat-focus-150403#page=Feature33"
+rel="ford_promo"
+class="promo promo-promotion_3"
+data-querystring=""
+id=""
+metricArg="">
+<!-- MTX-1379 Only third image's metrics should be fired. -->
+<img src="http://www.ford.ca/resources/ford/general/promotions/Consumers_digest_ESPOT_EN_version_2_april_27.png"
+title='Consumer Digest'
+class=' pngimg'
+onclick='ngbs.metrics.click("promoReferralExit");'
+/>
+</a>
+</div>
+</div>
+</li
+><li class="inline-block homepage width-1" id="homepage-3">
+<div id="ng-widget-3" class="ng-widget promotional-tile "
+>
+<div id="promo:homepage:promotion_4" class="ng-widget promo-custom-image "
+>
+<!-- error define your metrics -->
+<a href="https://www.fordpass.ca?fmccmp=pro-foc-home-none-foc-home-none-160606"
+rel="ford_promo"
+class="promo promo-promotion_4"
+data-querystring=""
+id=""
+metricArg="">
+<!-- MTX-1379 Only third image's metrics should be fired. -->
+<img src="http://www.ford.ca/resources/ford/general/promotions/FP_1x1_eSpot_May25-2.png"
+title='Ford Pass'
+class=' pngimg'
+/>
+</a>
+</div>
+</div>
+</li
+><li class="inline-block last-of-type homepage width-1" id="homepage-4">
+<div id="ng-widget-4" class="ng-widget promotional-tile "
+>
+<div id="promo:homepage:promotion_5" class="ng-widget promo-custom-image "
+>
+<!-- error define your metrics -->
+<a href="http://www.ford.ca/service/ourServices/tornadoHunters/?intcmp=pro-foc-home-none-foc-serv-none-160309"
+rel="ford_promo"
+class="promo promo-promotion_5"
+data-querystring=""
+id=""
+metricArg="">
+<!-- MTX-1379 Only third image's metrics should be fired. -->
+<img src="http://www.ford.ca/resources/ford/general/promotions/TH_espot_1x3_THTribute.png"
+title='Tornado Hunter'
+class=' pngimg'
+/>
+</a>
+</div>
+</div>
+</li
+></ul>
+</div>
+</div>
+</div>
+<div class="stacked-cap stacked-cap-bottom"></div>
+</div>
+<div id="flip-container">
+<div id="ng-widget-5" class="ng-widget axz-price-update "
+>
+<!-- set up a default plantype for xml -->
+<!-- read content (header, disclimer, content) from xml: -->
+<div class="lincoln-matte"></div>
+<div id="axz-price-update">
+<div id="ng-widget-6" class="ng-widget bs-panel "
+>
+<div class="liquidRounding " >
+<span class="tl quoin"
+style=" margin-right:4px;
+height:4px;
+background-position: 0 0;"></span>
+<span class="tr quoin"
+style=" margin-top:-4px;
+margin-left:4px;
+height:4px;
+background-position: 100% 0;"></span>
+<div class="content">
+<div class="hd"><div class="tl"></div><h2 class="headerText">
+Welcome <span class="PlanType">AXZ Plan</span> participant.
+</h2><a class="container-close"><span>Close</span></a><div class="tr"></div></div>
+<div class="bd" id="bs-panel-baseDiv">
+<p>
+<b>Now you can view exclusive price savings on our Build & Price Shopping Tool</b>
+</p>
+<p>
+<b>Note:</b>
+<span class="PlanType">AXZ Plan</span> pricing information is not available on all Ford websites.
+In addition, some vehicles, trims or options you select may not qualify for <span class="PlanType">AXZ Plan</span>s.
+Also, some dealers may choose not to participate in <span class="PlanType">AXZ Plan</span> pricing.
+Contact your local dealer to determine their level of participation in the Program and final vehicle pricing.
+</p>
+<p>
+<b>What happens if I close this site before I’m finished? </b></br>
+If you close your window or tab, you must re-access the site through the <span class="PlanType">AXZ Plan</span> Pricing website to ensure that
+all eligible plan pricing is visible. If you need additional information concerning the <span class="PlanType">AXZ Plan</span>s, please refer
+back to you’re <span class="PlanType">AXZ Plan</span> Pricing website for complete details.
+</p>
+<div>
+<div class="disclaimer">
+AXZ Plan pricing, including AXZ Plan option pricing, is exclusively for eligible Ford Motor Company employees,
+friends and family-members of eligible employees, and Ford Motor Company eligible partners. Restrictions apply.
+See your Ford or Lincoln dealer for complete details and qualifications. Ford Motor Company reserves the right
+to modify the terms of this Plan at any time.
+</div>
+</div>
+</div>
+<div class="ft"><div class="bl"></div><div class="br"></div></div>
+<div id="ScrollPaneParent">
+<div class="ScrollPaneContainer">
+<div class="SPContentWrapper"></div>
+<div class="SPVerticalBar sp-scroll-bar">
+<div class="SPVertUpArrow"></div>
+<div class="SPVertBarBody">
+<div class="SPVertScroller">
+<div class="SPVertScrollerUp"></div>
+<div class="SPVertScrollerBody">
+<div class="SPVertScrollerMiddle"></div>
+</div>
+<div class="SPVertScrollerDown"></div>
+</div>
+</div>
+<div class="SPVertDownArrow"></div>
+</div>
+<div class="SPHorizontalBar sp-scroll-bar">
+<div class="SPHorLeftArrow"></div>
+<div class="SPHorBarBody">
+<div class="SPHorScroller">
+<div class="SPHorScrollerLeft"></div>
+<div class="SPHorScrollerBody">
+<div class="SPHorScrollerBodyLeft"></div>
+<div class="SPHorScrollerMiddle"></div>
+<div class="SPHorScrollerBodyRight"></div>
+</div>
+<div class="SPHorScrollerRight"></div>
+</div>
+</div>
+<div class="SPHorRightArrow"></div>
+</div>
+</div>
+</div>
+</div>
+<span class="bl quoin"
+style=" margin-right: 4px;
+background-position: 0 -4px;
+height: 4px;"></span>
+<span class="br quoin"
+style=" margin-top: -4px;
+margin-left: 4px;
+background-position: 100% -4px;
+height: 4px;"></span>
+</div>
+</div>
+<div class="rounded-shadow"><div class="tl quoin"></div><div class="tr quoin"></div><div class="shadow-content"></div><div class="bl quoin"></div><div class="br quoin"></div></div>
+</div>
+<div class="lincoln-matte"></div>
+</div>
+<div id="get-updates-flip" class="ng-widget get-updates-flip "
+>
+<div class="lincoln-matte"></div>
+<div id="ng-widget-7" class="ng-widget bs-panel "
+>
+<div class="liquidRounding " >
+<span class="tl quoin"
+style=" margin-right:4px;
+height:4px;
+background-position: 0 0;"></span>
+<span class="tr quoin"
+style=" margin-top:-4px;
+margin-left:4px;
+height:4px;
+background-position: 100% 0;"></span>
+<div class="content">
+<div class="hd"><div class="tl"></div><h2 class="headerText">Get Updates</h2><a class="container-close"><span>Close</span></a><div class="tr"></div></div>
+<div class="bd" id="bs-panel-baseDiv">
+<div id="get-updates-form-widget" class="ng-widget get-updates-form "
+>
+<div id="get-updates-wrapper" class="get-updates-wrapper">
+<form id='get-updates-form' name='get-updates-form' action='javascript:void(0);' method='get' class='frm_get-updates-form' >
+<fieldset>
+<div class="notes-horizontal">
+<p>
+Enter your e-mail and contact information below for communications, including emails, about Ford Motor Company of Canada, Limited (Ford of Canada) and the Lincoln Motor Company (Lincoln), our newest vehicles, product updates, services, events, news, offers, promotions, customized ads, and more. You may withdraw consent at any time.
+</p>
+</div>
+<div id="get_updates_global_error" class="get_updates_error">
+<span class="error-indicator-icon"></span>
+<span class="error-description">
+Mail and/or Email box(es) must be checked
+</span>
+</div>
+<div class="communication-checkbox">
+<input type="checkbox" id="mail-checkbox" tabindex="0"
+name="communication-mode" value="mail" class="communication-mode"
+/>
+<span class="notes-horizontal"><b>Mail - </b>Get product news and announcements by mail.</span>
+<br/>
+<input type="checkbox" id="email-checkbox"
+name="communication-mode" value="email" class="communication-mode"
+checked
+/>
+<span class="notes-horizontal"><b>Email - </b>Get product news and announcements delivered electronically.</span>
+<br/>
+</div>
+<div class="required-notes-horizontal">
+(<span class="optionality-indicator">*</span>Required Fields)
+</div>
+<div id="get_updates_instructional_error" class="get_updates_error">
+<span class="error-indicator-icon"></span>
+<span class="error-description inline-block">The highlighted fields must be completed correctly:</span>
+<!-- sizeOfError: 1
+[element]
+fieldsSet
+(
+[text]
+[element]
+copy
+(
+[text]
+Required Fields
+)
+[text]
+[element]
+error
+(
+[text]
+The highlighted fields must be completed correctly:
+)
+[text]
+)
+-->
+</div>
+<div id="gu-firstName" class="form-field necessary">
+<label for="get-updates-first-name" class="inline-block">
+<span class="optionality-indicator">*</span>
+First Name
+</label>
+<div class="field-input inline-block">
+<input type='text' id='f:get-updates-first-name' name="f:get-updates-first-name" value="" class='input-field necessary' />
+</div>
+<span class="error-indicator-icon"></span>
+</div>
+<div id="gu-lastName" class="form-field necessary">
+<label for="get-updates-last-name" class="inline-block">
+<span class="optionality-indicator">*</span>
+Last Name
+</label>
+<div class="field-input inline-block">
+<input type='text' id='f:get-updates-last-name' name="f:get-updates-last-name" value="" class='input-field necessary' />
+</div>
+<span class="error-indicator-icon"></span>
+</div>
+<div id="gu-email" class="form-field necessary">
+<label for="get-updates-email" class="inline-block">
+<span class="optionality-indicator">*</span>
+E-mail
+</label>
+<div class="field-input inline-block">
+<input type='text' id='f:get-updates-email' name="f:get-updates-email" value="" class='input-field necessary' />
+</div>
+<span class="error-indicator-icon"></span>
+</div>
+<div id="gu-companyName" class="form-field hidden">
+<label for="get-updates-company-name" class="inline-block">
+<span class="optionality-indicator"></span>
+Company Name
+</label>
+<div class="field-input inline-block">
+<input type='text' id='f:get-updates-company-name' name="f:get-updates-company-name" value="" class='input-field hidden' />
+</div>
+<span class="error-indicator-icon"></span>
+</div>
+<div id="gu-ext" class="form-field hidden">
+<label for="get-updates-ext" class="inline-block">
+<span class="optionality-indicator"></span>
+Ext
+</label>
+<div class="field-input inline-block">
+<input type='text' id='f:get-updates-ext' name="f:get-updates-ext" value="" class='input-field hidden' />
+</div>
+<span class="error-indicator-icon"></span>
+</div>
+<div class="time-to-buy">
+<div id="gu-timeToBuy" class="form-field optional">
+<input id="f:get-updates-time-to-buy" type="hidden" name="f:get-updates-time-to-buy" value="" class="input-field optional"/>
+</div>
+<h4>When do you plan to acquire your new vehicle?</h4>
+<p>
+<label class="inline-block"><input class="gu-timeToBuy" type="radio" name="gu-timeToBuy" value="A" />0-3 months</label>
+<label class="inline-block"><input class="gu-timeToBuy" type="radio" name="gu-timeToBuy" value="B" />4-6 months</label>
+<label class="inline-block"><input class="gu-timeToBuy" type="radio" name="gu-timeToBuy" value="C" />7-12 months</label>
+<label class="inline-block"><input class="gu-timeToBuy" type="radio" name="gu-timeToBuy" value="D" />12+ months</label>
+<label class="last-of-type inline-block"><input class="gu-timeToBuy" type="radio" name="gu-timeToBuy" value="E" />No definitive plans</label>
+</p>
+</div>
+<div class="select-vehicles">
+<div id="gu-selectVehicles" class="form-field">
+<input id="f:get-updates-select-vehicles" type="hidden" name="f:get-updates-select-vehicles" value="" class="input-field optional"/>
+<span class="error-indicator-icon"></span>
+<span class="error-description">Please select information on at least one vehicle. (You may select up to three.)</span>
+</div>
+<div id="nameplate-selector" class="ng-widget nameplate-selector nameplate-selector"
+>
+<h3>Select Vehicles</h3>
+<p>Get information about your preferred vehicles (select up to three).</p>
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td valign="top">
+<ul class="life-cycle-stage-list">
+<div id="current-vehicle-list-holder">
+<li class="inline-block selector">
+<ul class="nameplate-list">
+<li>
+<label>
+<input class="nameplate-id current" type="checkbox" name="nameplate-id"
+value="Ford|EcoSport|2019|crossover|EcoSport|053"
+alt="2019 EcoSport"
+/>
+EcoSport
+</label>
+</li>
+<li>
+<label>
+<input class="nameplate-id current" type="checkbox" name="nameplate-id"
+value="Ford|Edge|2019|crossover|Edge|100"
+alt="2019 Edge"
+/>
+Edge
+</label>
+</li>
+<li>
+<label>
+<input class="nameplate-id current" type="checkbox" name="nameplate-id"
+value="Ford|Escape|2019|suv|Escape|053"
+alt="2019 Escape"
+/>
+Escape
+</label>
+</li>
+<li>
+<label>
+<input class="nameplate-id current" type="checkbox" name="nameplate-id"
+value="Ford|Expedition|2019|suv|Expedition|007"
+alt="2019 Expedition"
+/>
+Expedition
+</label>
+</li>
+<li>
+<label>
+<input class="nameplate-id current" type="checkbox" name="nameplate-id"
+value="Ford|Explorer|2020|suv|Explorer|"
+alt="2020 Explorer"
+/>
+Explorer
+</label>
+</li>
+<li>
+<label>
+<input class="nameplate-id current" type="checkbox" name="nameplate-id"
+value="Ford|F-150|2019|truck|F-150|008"
+alt="2019 F-150"
+/>
+F-150
+</label>
+</li>
+<li>
+<label>
+<input class="nameplate-id current" type="checkbox" name="nameplate-id"
+value="Ford|Fiesta|2019|car|Fiesta|250"
+alt="2019 Fiesta"
+/>
+Fiesta
+</label>
+</li>
+<li>
+<label>
+<input class="nameplate-id current" type="checkbox" name="nameplate-id"
+value="Ford|Flex|2019|crossover|Flex|111"
+alt="2019 Flex"
+/>
+Flex
+</label>
+</li>
+<li>
+<label>
+<input class="nameplate-id current" type="checkbox" name="nameplate-id"
+value="Ford|Fusion|2019|car|Fusion|251"
+alt="2019 Fusion"
+/>
+Fusion
+</label>
+</li>
+</ul>
+</li>
+<li class="inline-block selector last-of-type">
+<ul class="nameplate-list last-of-type">
+<li>
+<label>
+<input class="nameplate-id current" type="checkbox" name="nameplate-id"
+value="Ford|Fusion Energi|2019|hybrid|Fusion Energi|048"
+alt="2019 Fusion Energi"
+/>
+Fusion Energi
+</label>
+</li>
+<li>
+<label>
+<input class="nameplate-id current" type="checkbox" name="nameplate-id"
+value="Ford|Fusion Hybrid|2019|hybrid|Fusion Hybrid|"
+alt="2019 Fusion Hybrid"
+/>
+Fusion Hybrid
+</label>
+</li>
+<li>
+<label>
+<input class="nameplate-id current" type="checkbox" name="nameplate-id"
+value="Ford|Mustang|2019|car|Mustang|002"
+alt="2019 Mustang"
+/>
+Mustang
+</label>
+</li>
+<li>
+<label>
+<input class="nameplate-id current" type="checkbox" name="nameplate-id"
+value="Ford|Ranger|2019|truck|Ranger|008"
+alt="2019 Ranger"
+/>
+Ranger
+</label>
+</li>
+<li>
+<label>
+<input class="nameplate-id current" type="checkbox" name="nameplate-id"
+value="Ford|SuperDuty|2019|truck|Super Duty|012"
+alt="2019 Super Duty"
+/>
+Super Duty
+</label>
+</li>
+<li>
+<label>
+<input class="nameplate-id current" type="checkbox" name="nameplate-id"
+value="Ford|Taurus|2019|car|Taurus|109"
+alt="2019 Taurus"
+/>
+Taurus
+</label>
+</li>
+<li>
+<label>
+<input class="nameplate-id current" type="checkbox" name="nameplate-id"
+value="Ford|Transit VanWagon|2019|truck|Transit|328"
+alt="2019 Transit"
+/>
+Transit
+</label>
+</li>
+<li>
+<label>
+<input class="nameplate-id current" type="checkbox" name="nameplate-id"
+value="Ford|Transit Connect|2019|truck|Transit Connect|328"
+alt="2019 Transit Connect"
+/>
+Transit Connect
+</label>
+</li>
+</ul>
+</li>
+</div>
+</ul>
+</td>
+<td valign="top">
+<table id="vehicle-list">
+<tr id="header-row">
+<td id="future-vehicles">
+<div class="first-of-type show selected ">Future Vehicles</div>
+</td>
+<td id="commercial-vehicles">
+<div class="first-of-type show selected ">Commercial Vehicles</div>
+</td>
+</tr>
+<tr id="content-row">
+<td id="future-vehicles-list" class="bordered">
+<ul class="nameplate-list last-of-type">
+<li>
+<input class="nameplate-id future" type="checkbox" name="nameplate-id"
+value="Ford|C-MAX|2013|car|C-MAX|128"
+alt="2013 C-MAX"
+/>
+2013 C-MAX
+</li>
+<li>
+<input class="nameplate-id future" type="checkbox" name="nameplate-id"
+value="Ford|Focus ST|2013|car|Focus ST|422"
+alt="2013 Focus ST"
+/>
+2013 Focus ST
+</li>
+<li>
+<input class="nameplate-id future" type="checkbox" name="nameplate-id"
+value="Ford|Fusion Hybrid|2013|car|Fusion Hybrid|251"
+alt="2013 Fusion Hybrid"
+/>
+2013 Fusion Hybrid
+</li>
+<li class="blankline"> <br> </li>
+<li class="blankline"> <br> </li>
+<li class="blankline"> <br> </li>
+<li class="blankline"> <br> </li>
+<li class="blankline"> <br> </li>
+</ul>
+</td>
+<td id="commercial-vehicles-list" class="bordered">
+<ul class="nameplate-list">
+<li>
+<label>
+<input class="nameplate-id commercial" type="checkbox" name="nameplate-id"
+value="Ford|Transit Chassis|2019|commercial-truck|Transit Chassis Cab (CC) - Cutaway (CA)|132"
+alt="2019 Transit Chassis Cab (CC) - Cutaway (CA)"
+/>
+Transit Chassis Cab (CC) - Cutaway (CA)
+</label>
+</li>
+<li>
+<label>
+<input class="nameplate-id commercial" type="checkbox" name="nameplate-id"
+value="Ford|F-150 Commercial|2019|commercial-truck|F-150|008"
+alt="2019 F-150"
+/>
+F-150
+</label>
+</li>
+<li>
+<label>
+<input class="nameplate-id commercial" type="checkbox" name="nameplate-id"
+value="Ford|Transit Connect Commercial|2019|commercial-truck|Transit Connect|331"
+alt="2019 Transit Connect"
+/>
+Transit Connect
+</label>
+</li>
+<li>
+<label>
+<input class="nameplate-id commercial" type="checkbox" name="nameplate-id"
+value="Ford|Econoline Cutaway|2019|commercial-truck|E-Series Cutaway|334"
+alt="2019 E-Series Cutaway"
+/>
+E-Series Cutaway
+</label>
+</li>
+<li>
+<label>
+<input class="nameplate-id commercial" type="checkbox" name="nameplate-id"
+value="Ford|SuperDuty Commercial|2019|commercial-truck|Super Duty Pickup|335"
+alt="2019 Super Duty Pickup"
+/>
+Super Duty Pickup
+</label>
+</li>
+<li>
+<label>
+<input class="nameplate-id commercial" type="checkbox" name="nameplate-id"
+value="Ford|Transit Commercial|2019|commercial-truck|Transit|TransitCommercial"
+alt="2019 Transit"
+/>
+Transit
+</label>
+</li>
+<li>
+<label>
+<input class="nameplate-id commercial" type="checkbox" name="nameplate-id"
+value="Ford|Chassis Cab|2019|commercial-truck|Chassis Cab|336"
+alt="2019 Chassis Cab"
+/>
+Chassis Cab
+</label>
+</li>
+<li>
+<label>
+<input class="nameplate-id commercial" type="checkbox" name="nameplate-id"
+value="Ford|F-650-750|2019|commercial-truck|F-650/F-750|337"
+alt="2019 F-650/F-750"
+/>
+F-650/F-750
+</label>
+</li>
+<li>
+<label>
+<input class="nameplate-id commercial" type="checkbox" name="nameplate-id"
+value="Ford|StrippedChassis|2019|commercial-truck|Stripped Chassis|338"
+alt="2019 Stripped Chassis"
+/>
+Stripped Chassis
+</label>
+</li>
+<li>
+<label>
+<input id="fordTruckCommercialConnection" class="nameplate-id commercial" type="checkbox" name="nameplate-id"
+value="Ford|Truck Commercial Connection|2011|truck|Truck Commercial Connection|329"
+alt="Ford Truck Commercial Connection"
+/>
+Ford Truck Commercial Connection
+</label>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div id="gu-terms" class="form-field hidden">
+<label for="get-updates-terms" class="inline-block">
+<span class="optionality-indicator"></span>
+Privacy consent
+</label>
+<div class="field-input inline-block">
+<input type='text' id='f:get-updates-terms' name="f:get-updates-terms" value="" class='input-field hidden' />
+</div>
+<span class="error-indicator-icon"></span>
+</div>
+<div class="terms-conditions">
+<div id="gu-terms" class="form-field optional">
+<input id="f:get-updates-terms" type="hidden" name="get-updates-terms" value="" class="input-field optional"/>
+</div>
+<label class="inline-block" style="width:600px">
+<div class="termsCheckBox">
+<input type="checkbox" checked class="get-updates-terms" name="get-updates-terms" value="" id="get-updates-terms" style="display:none;"/>
+<div class="disclaimer">
+To review Ford of Canada's Privacy Policy, including your right to access or correct your information, opt-out (deletion from marketing lists), our service provider practices, and storage of data in the U.S. please <a href='/help/privacy' rel='popover'>click here</a>. If you have any questions you may also contact a Customer Service Representative at 1-800-565-FORD (3673) or write us at The Canadian Road P.O. Box 2000, Oakville, Ontario, Canada L6K 0C8.</div>
+</div>
+</label>
+</div>
+<br />
+<div class="submit">
+<input type="submit" value="Submit" class="inputSubmit"/>
+</div>
+</fieldset>
+<input type="hidden" class="formID" id='formID-get-updates-form' name='formID' value='get-updates-form'/>
+</form>
+</div>
+<div id="submission-confirmation" class="submission-confirmation hide">
+<p class="thankyou-text">Thank you. We will be sure to send you any updates on your requested vehicles when available.
+</p>
+<h3 class="selected-vehicles">Vehicles Selected</h3>
+<ul class="selected-models-list"></ul>
+</div>
+<div id="lead-submission" class="lead-submission">
+<div class="lead-submission-flash-container">
+</div>
+</div>
+</div>
+</div>
+<div class="ft"><div class="bl"></div><div class="br"></div></div>
+<div id="ScrollPaneParent">
+<div class="ScrollPaneContainer">
+<div class="SPContentWrapper"></div>
+<div class="SPVerticalBar sp-scroll-bar">
+<div class="SPVertUpArrow"></div>
+<div class="SPVertBarBody">
+<div class="SPVertScroller">
+<div class="SPVertScrollerUp"></div>
+<div class="SPVertScrollerBody">
+<div class="SPVertScrollerMiddle"></div>
+</div>
+<div class="SPVertScrollerDown"></div>
+</div>
+</div>
+<div class="SPVertDownArrow"></div>
+</div>
+<div class="SPHorizontalBar sp-scroll-bar">
+<div class="SPHorLeftArrow"></div>
+<div class="SPHorBarBody">
+<div class="SPHorScroller">
+<div class="SPHorScrollerLeft"></div>
+<div class="SPHorScrollerBody">
+<div class="SPHorScrollerBodyLeft"></div>
+<div class="SPHorScrollerMiddle"></div>
+<div class="SPHorScrollerBodyRight"></div>
+</div>
+<div class="SPHorScrollerRight"></div>
+</div>
+</div>
+<div class="SPHorRightArrow"></div>
+</div>
+</div>
+</div>
+</div>
+<span class="bl quoin"
+style=" margin-right: 4px;
+background-position: 0 -4px;
+height: 4px;"></span>
+<span class="br quoin"
+style=" margin-top: -4px;
+margin-left: 4px;
+background-position: 100% -4px;
+height: 4px;"></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="ng-power-nav">
+<div id="ng-widget-8" class="ng-widget shoppingtools-sticky-nav no-js"
+>
+<script>jQuery('.shoppingtools-sticky-nav').removeClass('no-js');</script>
+<input type="hidden" id="shop-nav-config" data-incentives-url="http://www.ford.ca/region/national/"
+data-collapsible="true"
+data-collapsible-el="#shop-nav-list"
+data-animation-speed="300"
+/>
+<div id="shop-nav-title">
+<span class="title-text">Shopping Tools</span>
+<span id="shop-nav-trigger"></span>
+<span id="shop-nav-title-corner"></span>
+</div>
+<ul id="shop-nav-list">
+<li class="shop-nav-item ">
+<a href="http://shop.ford.ca/showroom/?linktype=build" data-metrics="bp" >Build & Price</a>
+</li>
+<li class="shop-nav-item ">
+<a href="http://www.ford.ca/?guflip=enabled" data-metrics="fd" rel="get-updates-link">Get Updates</a>
+</li>
+<li class="shop-nav-item ">
+<a href="http://shop.ford.ca/showroom?linktype=inventory" data-metrics="si" >Search Inventory</a>
+</li>
+<li class="shop-nav-item ">
+<a href="http://www.ford.ca/dealerships/locate/results/" data-metrics="pe" >Find a Dealer</a>
+</li>
+<li class="shop-nav-item incentives">
+<a href="http://www.ford.ca/region/national/" data-metrics="io" >Local Offers</a>
+<div id="incentives-div">
+<input type="text" maxlength="7" />
+<span>Postal Code</span>
+</div>
+<a data-metrics="io" class="shopp-nav-click" id="incentives-submit"></a>
+</li>
+</ul>
+<div id="shop-nav-bottom-space"></div>
+</div>
+</div>
+<div id="view-ft">
+<div id="ng-widget-9" class="ng-widget brand-footer brand-footer"
+>
+<ul>
+<li id="bf-vehicles" class="inline-block">
+<div>
+<h2 class="liquidRounding footer-nameplate-name" >
+<span class="tl quoin"
+style=" margin-right:3px;
+height:3px;
+background-position: 0 0;"></span>
+<span class="tr quoin"
+style=" margin-top:-3px;
+margin-left:3px;
+height:3px;
+background-position: 100% 0;"></span>
+<div class="content">
+Vehicles </div>
+<span class="bl quoin"
+style=" margin-right: 3px;
+background-position: 0 -3px;
+height: 3px;"></span>
+<span class="br quoin"
+style=" margin-top: -3px;
+margin-left: 3px;
+background-position: 100% -3px;
+height: 3px;"></span>
+</h2>
+<ul class="links">
+<li><a href="http://www.ford.ca/new-cars/?gnav=footer-vehicles">Cars</a></li>
+<!-- Skip this as we want to club crossover and suvs as CUVs and SUVs -->
+<li><a href="http://www.ford.ca/new-suvs-crossovers/?gnav=footer-vehicles">CUVs & SUVs</a></li>
+<li><a href="http://www.ford.ca/new-trucks/?gnav=footer-vehicles">Trucks</a></li>
+<li><a href="http://www.ford.ca/new-hybrids-evs/?gnav=footer-vehicles">Hybrids & EVs</a></li>
+<li><a href="http://www.ford.ca/commercial-trucks/?gnav=footer-vehicles">Commercial</a></li>
+<li><a href="http://shop.ford.ca/showroom/?gnav=footer-vehicles">All Vehicles</a></li>
+<li><a href="http://www.fleet.ford.ca/?gnav=footer-vehicles" onclick="oMetricsTracker.fleetVehicles();" target="_blank">Fleet Vehicles</a></li>
+<li><a href="http://www.lincolncanada.com?gnav=footer-vehicles">Lincoln</a></li>
+<li><a href="http://www.ford.ca/mobility/?gnav=footer-vehicles">Mobility</a></li>
+</ul>
+</div>
+</li>
+<li id="bf-ownership" class="ownership inline-block">
+<div>
+<h2 class="liquidRounding " >
+<span class="tl quoin"
+style=" margin-right:3px;
+height:3px;
+background-position: 0 0;"></span>
+<span class="tr quoin"
+style=" margin-top:-3px;
+margin-left:3px;
+height:3px;
+background-position: 100% 0;"></span>
+<div class="content">
+For Owners </div>
+<span class="bl quoin"
+style=" margin-right: 3px;
+background-position: 0 -3px;
+height: 3px;"></span>
+<span class="br quoin"
+style=" margin-top: -3px;
+margin-left: 3px;
+background-position: 100% -3px;
+height: 3px;"></span>
+</h2>
+<ul class="links">
+<li><a href="http://www.ford.ca/service/ourOffers/?gnav=footer-owners">Our Offers</a></li>
+<li><a href="http://www.ford.ca/service/ourServices/?gnav=footer-owners">Our Services</a></li>
+<li><a href="http://accessories.ford.ca?gnav=footer-owners" onclick="oMetricsTracker.accessoriesLink(encodeURIComponent('http://accessories.ford.ca?gnav=footer-owners'));">Accessories Store</a></li>
+<li><a href="http://www.ford.ca/service/roadsideAssistance/?gnav=footer-owners">Roadside Assistance</a></li>
+<li><a href="http://www.ford.ca/service/ourParts/?gnav=footer-owners">Our Parts</a></li>
+<li><a href="http://www.ford.ca/service/quicklane/?gnav=footer-owners">Quick Lane</a></li>
+<li><a href="http://www.ford.ca/service/fordProtect/?gnav=footer-owners">Ford Protect</a></li>
+<li><a href="http://www.ford.ca/service/prepaidMaintenance/?gnav=footer-owners">Prepaid Maintenance</a></li>
+<li><a href="http://www.ford.ca/service/wholesale/?gnav=footer-owners">Wholesale</a></li>
+<li><a href="http://www.ford.ca/service/customerSupport/?gnav=footer-owners">Customer Support</a></li>
+<li><a href="http://www.ford.ca/service/videos/?gnav=footer-owners">Videos</a></li>
+<li><a href="http://www.ford.ca/service/ourServices/safetyRecalls/?gnav=footer-owners">Recall Check</a></li>
+</ul>
+</div>
+</li>
+<li id="bf-shopping-tools" class="shopping-tools inline-block">
+<div>
+<h2 class="liquidRounding " >
+<span class="tl quoin"
+style=" margin-right:3px;
+height:3px;
+background-position: 0 0;"></span>
+<span class="tr quoin"
+style=" margin-top:-3px;
+margin-left:3px;
+height:3px;
+background-position: 100% 0;"></span>
+<div class="content">
+Shopping Tools </div>
+<span class="bl quoin"
+style=" margin-right: 3px;
+background-position: 0 -3px;
+height: 3px;"></span>
+<span class="br quoin"
+style=" margin-top: -3px;
+margin-left: 3px;
+background-position: 100% -3px;
+height: 3px;"></span>
+</h2>
+<div id="shopping-tools-list" class="ng-widget shopping-tools-list "
+>
+<div>
+<ul class="categories" >
+<li class="category inline-block first-of-type ">
+<div>
+<h3>Research</h3>
+<ul class="links">
+<li class= "buildandprice ">
+<a class="buildandprice "
+href="http://shop.ford.ca/showroom/?linktype=build&gnav=footer-tools" onclick=""
+rel="">
+<span >Build &amp; Price</span>
+</a>
+</li>
+<li class= "brochures ">
+<a class="brochures "
+href="http://shop.ford.ca/showroom?linktype=brochures&gnav=footer-tools" onclick=""
+rel="">
+<span >Brochures</span>
+</a>
+</li>
+<li class= "competitive-compare ">
+<a class="competitive-compare "
+href="http://shop.ford.ca/showroom?linktype=compare&gnav=footer-tools" onclick=""
+rel="">
+<span >Compare Vehicles</span>
+</a>
+</li>
+<li class= "get-updates ">
+<a class="get-updates launch-get-updates-flip"
+href="http://www.ford.ca/?guflip=enabled&gnav=footer-tools" onclick=""
+rel="get-updates-link">
+<span >Get Updates</span>
+</a>
+</li>
+<li class= "schedule-testdrive ">
+<a class="schedule-testdrive "
+href="http://www.ford.ca/test-drive/?gnav=footer-tools" onclick=""
+rel="">
+<span >Schedule a Test Drive</span>
+</a>
+</li>
+<li class= "certified-preowned ">
+<a class="certified-preowned "
+href="http://www.ford.ca/certified-used/?gnav=footer-tools" onclick=""
+rel="">
+<span >Certified Pre-owned</span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="category inline-block ">
+<div>
+<h3>Price &amp; Locate</h3>
+<ul class="links">
+<li class= "locate-dealer ">
+<a class="locate-dealer "
+href="http://www.ford.ca/dealerships/locate/results/?gnav=footer-tools" onclick=""
+data-appendzip="zip" id="locatedealer-footer"
+rel="">
+<span >Find a Dealer</span>
+</a>
+</li>
+<li class= "incentives-offers ">
+<a class="incentives-offers "
+href="http://www.ford.ca/region/national/?gnav=footer-tools" onclick=""
+rel="">
+<span >Incentives &amp; Offers</span>
+</a>
+</li>
+<li class= "reserve ">
+<a class="reserve reserve-now"
+href="?gnav=footer-tools" onclick=""
+rel="">
+<span >Reserve Now</span>
+</a>
+</li>
+<li class= "searchdealerinventory ">
+<a class="searchdealerinventory "
+href="http://shop.ford.ca/showroom?linktype=inventory&gnav=footer-tools" onclick=""
+data-appendzip="zipcode"
+rel="">
+<span >Search Dealer Inventory</span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="category inline-block last-of-type">
+<div>
+<h3>Financing</h3>
+<ul class="links">
+<li class= "apply-credit ">
+<a class="apply-credit "
+href="https://www.ford.ca/finance/online-credit-application?gnav=footer-tools" onclick=""
+target="_blank"
+rel="">
+<span >To Apply for Credit</span>
+</a>
+</li>
+<li class= "payment-estimator hide-pe ">
+<a id="payment-estimator-mini-link" class="payment-estimator-link "
+href="http://shop.ford.ca/showroom?linktype=estimatepayment&gnav=footer-tools" onclick=""
+rel="">
+<span >Estimate Your Payment</span>
+</a>
+</li>
+<li class= "trade-in ">
+<a class="trade-in "
+href="http://www.ford.ca/trade-in/?gnav=footer-tools" onclick=""
+rel="">
+<span >Trade-in Value</span>
+</a>
+</li>
+<li class= "ford-credit ">
+<a class="ford-credit "
+href="https://www.ford.ca/finance/?gnav=footer-tools" onclick=""
+target="_blank"
+rel="">
+<span >Ford Credit Canada</span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+<li id="bf-ford-story" class="inline-block last-of-type">
+<div>
+<h2 class="liquidRounding " >
+<span class="tl quoin"
+style=" margin-right:3px;
+height:3px;
+background-position: 0 0;"></span>
+<span class="tr quoin"
+style=" margin-top:-3px;
+margin-left:3px;
+height:3px;
+background-position: 100% 0;"></span>
+<div class="content">
+More About Ford </div>
+<span class="bl quoin"
+style=" margin-right: 3px;
+background-position: 0 -3px;
+height: 3px;"></span>
+<span class="br quoin"
+style=" margin-top: -3px;
+margin-left: 3px;
+background-position: 100% -3px;
+height: 3px;"></span>
+</h2>
+<ul class="links">
+<li><a href="http://www.ford.ca/corporate/?gnav=footer-aboutford">About Ford</a></li>
+<li><a href="http://www.ford.ca/heritage/?gnav=footer-aboutford">Heritage</a></li>
+<li><a href="http://www.ford.ca/careers/overview/?gnav=footer-aboutford">Careers</a></li>
+<li><a href="http://www.ford.ca/sponsorship/?gnav=footer-aboutford">Sponsorship</a></li>
+<li><a href="http://corporate.ford.com?gnav=footer-aboutford" onclick="oMetricsTracker.globalCorporate();" target="_blank">Global Corporate</a></li>
+<li><a target="_blank" href="http://blog.ford.ca/?gnav=footer-aboutford" onclick="oMetricsTracker.BlogFooterLink();">Ford Blog</a></li>
+<li><a href="http://www.ford.ca/technology/sync/?gnav=footer-aboutford">SYNC</a></li>
+<li><a href="http://racing.ford.com/home.html?gnav=footer-aboutford" target="_blank" onclick="oMetricsTracker.racingExitMetrics();">Racing</a></li>
+<li><a href="http://www.ford.ca/service/customerSupport/?gnav=footer-aboutford">Customer Support</a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id="footerSocialMediaLinks" >
+<span>Follow Ford</span>
+<ul>
+<li><a href="http://www.facebook.com/FordCanada" onclick="javascript:return externalUrl('http://www.facebook.com/FordCanada');" class="socialMediaLinks" id="fb" > </a></li>
+<li><a href="http://twitter.com/FordCanada" onclick="javascript:return externalUrl('http://twitter.com/FordCanada');" class="socialMediaLinks" id="twitter" > </a></li>
+<li><a href="http://youtube.com/FordCanada" onclick="javascript:return externalUrl('http://youtube.com/FordCanada');" class="socialMediaLinks" id="youTube" > </a></li>
+<li><a href="https://www.instagram.com/fordcanada/" onclick="javascript:return externalUrl('https://www.instagram.com/fordcanada/');" class="socialMediaLinks" id="instagram" > </a></li>
+</ul>
+</div>
+</div>
+<div id="browserRejection" class="ng-widget xml-page browserRejection"
+>
+<style>
+/*
+* jReject (jQuery Browser Rejection Plugin)
+* Version 1.1.0
+* URL: http://jreject.turnwheel.com/
+* Description: jReject is a easy method of rejecting specific browsers on your site
+* Author: Steven Bower (TurnWheel Designs) http://turnwheel.com/
+* Copyright: Copyright (c) 2009-2014 Steven Bower under dual MIT/GPL license.
+*/
+#jr_overlay {
+top: 0;
+left: 0;
+padding: 0;
+margin: 0;
+z-index: 2147483646;
+position: absolute;
+}
+#jr_wrap {
+position: absolute;
+width: 100%;
+z-index: 2147483647;
+padding: 0;
+margin: 0;
+}
+#jr_inner {
+font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Verdana, sans-serif;
+font-size: 12px;
+background: #FFF;
+border: 1px solid #CCC;
+color: #4F4F4F;
+margin: 0 auto;
+height: auto;
+padding: 20px;
+position: relative;
+box-sizing: content-box;
+}
+#jr_header {
+display: block;
+color: #333;
+padding: 5px;
+padding-bottom: 0;
+margin: 0;
+font-family: Helvetica, Arial, sans-serif;
+font-weight: bold;
+font-size: 1.3em;
+margin-bottom: 0.5em;
+}
+#jr_inner p {
+padding: 5px;
+margin: 0;
+}
+#jr_inner ul {
+list-style-image: none;
+list-style-position: outside;
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+#jr_inner ul li {
+cursor: pointer;
+float: left;
+width: 120px;
+height: 122px;
+margin: 0 10px 10px 10px;
+padding: 0;
+text-align: center;
+}
+#jr_inner li a {
+color: #333;
+font-size: 0.8em;
+text-decoration: none;
+padding: 0;
+margin: 0;
+}
+#jr_inner li a:hover {
+text-decoration: underline;
+}
+#jr_inner .jr_icon {
+width: 100px;
+height: 100px;
+margin: 1px auto;
+padding: 0;
+background: transparent no-repeat scroll left top;
+cursor: pointer;
+}
+#jr_close {
+clear: both;
+padding: 0;
+margin: 0;
+}
+#jr_close a {
+color: #000;
+display: block;
+width: auto;
+margin: 0;
+padding: 0;
+text-decoration: underline;
+}
+#jr_close p {
+padding: 10px 0 0 0;
+margin: 0;
+}
+</style>
+<script>
+/*
+* jReject (jQuery Browser Rejection Plugin)
+* Version 1.1.0
+* URL: http://jreject.turnwheel.com/
+* Description: jReject is a easy method of rejecting specific browsers on your site
+* Author: Steven Bower (TurnWheel Designs) http://turnwheel.com/
+* Copyright: Copyright (c) 2009-2014 Steven Bower under dual MIT/GPLv2 license.
+*/
+(function($){$.reject=function(options){var opts=$.extend(true,{reject:{all:false,msie:6},display:[],browserShow:true,browserInfo:{chrome:{text:'Google Chrome',url:'http://www.google.com/chrome/',},firefox:{text:'Mozilla Firefox',url:'http://www.mozilla.com/firefox/'},safari:{text:'Safari',url:'http://www.apple.com/safari/download/'},msie:{text:'Internet Explorer',url:'http://www.microsoft.com/windows/Internet-explorer/'}},header:'Did you know that your Internet Browser is out of date?',paragraph1:'Your browser is out of date, and may not be compatible with '+'our website. A list of the most popular web browsers can be '+'found below.',paragraph2:'Just click on the icons to get to the download page',close:true,closeMessage:'By closing this window you acknowledge that your experience '+'on this website may be degraded',closeLink:'Close This Window',closeURL:'#',closeESC:true,closeCookie:false,cookieSettings:{path:'/',expires:0},imagePath:'./images/',overlayBgColor:'#000',overlayOpacity:0.8,fadeInTime:'fast',fadeOutTime:'fast',analytics:false},options);if(opts.display.length<1){opts.display=['chrome','firefox','safari','opera','msie'];}if($.isFunction(opts.beforeReject)){opts.beforeReject();}if(!opts.close){opts.closeESC=false;}var browserCheck=function(settings){var layout=settings[$.layout.name],browser=settings[$.browser.name];return!!(settings['all']||(browser&&(browser===true||$.browser.versionNumber<=browser))||settings[$.browser.className]||(layout&&(layout===true||$.layout.versionNumber<=layout))||settings[$.os.name]);};if(!browserCheck(opts.reject)){if($.isFunction(opts.onFail)){opts.onFail();}return false;}if(opts.close&&opts.closeCookie){var COOKIE_NAME='jreject-close';var _cookie=function(name,value){if(typeof value!='undefined'){var expires='';if(opts.cookieSettings.expires!==0){var date=new Date();date.setTime(date.getTime()+(opts.cookieSettings.expires*1000));expires="; expires="+date.toGMTString();}var path=opts.cookieSettings.path||'/';document.cookie=name+'='+encodeURIComponent((!value)?'':value)+expires+'; path='+path;return true;}else{var cookie,val=null;if(document.cookie&&document.cookie!==''){var cookies=document.cookie.split(';');var clen=cookies.length;for(var i=0;i<clen;++i){cookie=$.trim(cookies[i]);if(cookie.substring(0,name.length+1)==(name+'=')){var len=name.length;val=decodeURIComponent(cookie.substring(len+1));break;}}}return val;}};if(_cookie(COOKIE_NAME)){return false;}}var html='<div id="jr_overlay"></div><div id="jr_wrap"><div id="jr_inner">'+'<h1 id="jr_header">'+opts.header+'</h1>'+(opts.paragraph1===''?'':'<p>'+opts.paragraph1+'</p>')+(opts.paragraph2===''?'':'<p>'+opts.paragraph2+'</p>');var displayNum=0;if(opts.browserShow){html+='<ul>';for(var x in opts.display){var browser=opts.display[x];var info=opts.browserInfo[browser]||false;if(!info||(info['allow']!=undefined&&!browserCheck(info['allow']))){continue;}var url=info.url||'#';html+='<li id="jr_'+browser+'"><div class="jr_icon"></div>'+'<div><a href="'+url+'">'+(info.text||'Unknown')+'</a>'+'</div></li>';++displayNum;}html+='</ul>';}html+='<div id="jr_close">'+(opts.close?'<a href="'+opts.closeURL+'">'+opts.closeLink+'</a>'+'<p>'+opts.closeMessage+'</p>':'')+'</div>'+'</div></div>';var element=$('<div>'+html+'</div>');var size=_pageSize();var scroll=_scrollSize();element.bind('closejr',function(){if(!opts.close){return false;}if($.isFunction(opts.beforeClose)){opts.beforeClose();}$(this).unbind('closejr');$('#jr_overlay,#jr_wrap').fadeOut(opts.fadeOutTime,function(){$(this).remove();if($.isFunction(opts.afterClose)){opts.afterClose();}});var elmhide='embed.jr_hidden, object.jr_hidden, select.jr_hidden, applet.jr_hidden';$(elmhide).show().removeClass('jr_hidden');if(opts.closeCookie){_cookie(COOKIE_NAME,'true');}return true;});var analytics=function(url){if(!opts.analytics){return false;}var host=url.split(/\/+/g)[1];try{ga('send','event','External','Click',host,url);}catch(e){try{_gaq.push(['_trackEvent','External Links',host,url]);}catch(e){}}};var openBrowserLinks=function(url){analytics(url);window.open(url,'jr_'+Math.round(Math.random()*11));return false;};element.find('#jr_overlay').css({width:size[0],height:size[1],background:opts.overlayBgColor,opacity:opts.overlayOpacity});element.find('#jr_wrap').css({top:scroll[1]+(size[3]/4),left:scroll[0]});element.find('#jr_inner').css({minWidth:displayNum*100,maxWidth:displayNum*140,width:$.layout.name=='trident'?displayNum*155:'auto'});element.find('#jr_inner li').css({background:'transparent url("'+opts.imagePath+'background_browser.gif")'+'no-repeat scroll left top'});element.find('#jr_inner li .jr_icon').each(function(){var self=$(this);self.css('background','transparent url('+opts.imagePath+'browser_'+(self.parent('li').attr('id').replace(/jr_/,''))+'.gif)'+' no-repeat scroll left top');self.click(function(){var url=$(this).next('div').children('a').attr('href');openBrowserLinks(url);});});element.find('#jr_inner li a').click(function(){openBrowserLinks($(this).attr('href'));return false;});element.find('#jr_close a').click(function(){$(this).trigger('closejr');if(opts.closeURL==='#'){return false;}});$('#jr_overlay').focus();$('embed, object, select, applet').each(function(){if($(this).is(':visible')){$(this).hide().addClass('jr_hidden');}});$('body').append(element.hide().fadeIn(opts.fadeInTime));$(window).bind('resize scroll',function(){var size=_pageSize();$('#jr_overlay').css({width:size[0],height:size[1]});var scroll=_scrollSize();$('#jr_wrap').css({top:scroll[1]+(size[3]/4),left:scroll[0]});});if(opts.closeESC){$(document).bind('keydown',function(event){if(event.keyCode==27){element.trigger('closejr');}});}if($.isFunction(opts.afterReject)){opts.afterReject();}return true;};var _pageSize=function(){var xScroll=window.innerWidth&&window.scrollMaxX?window.innerWidth+window.scrollMaxX:(document.body.scrollWidth>document.body.offsetWidth?document.body.scrollWidth:document.body.offsetWidth);var yScroll=window.innerHeight&&window.scrollMaxY?window.innerHeight+window.scrollMaxY:(document.body.scrollHeight>document.body.offsetHeight?document.body.scrollHeight:document.body.offsetHeight);var windowWidth=window.innerWidth?window.innerWidth:(document.documentElement&&document.documentElement.clientWidth?document.documentElement.clientWidth:document.body.clientWidth);var windowHeight=window.innerHeight?window.innerHeight:(document.documentElement&&document.documentElement.clientHeight?document.documentElement.clientHeight:document.body.clientHeight);return[xScroll<windowWidth?xScroll:windowWidth,yScroll<windowHeight?windowHeight:yScroll,windowWidth,windowHeight];};var _scrollSize=function(){return[window.pageXOffset?window.pageXOffset:(document.documentElement&&document.documentElement.scrollTop?document.documentElement.scrollLeft:document.body.scrollLeft),window.pageYOffset?window.pageYOffset:(document.documentElement&&document.documentElement.scrollTop?document.documentElement.scrollTop:document.body.scrollTop)];};})(jQuery);(function($){$.browserTest=function(a,z){var u='unknown',x='X',m=function(r,h){for(var i=0;i<h.length;i=i+1){r=r.replace(h[i][0],h[i][1]);}return r;},c=function(i,a,b,c){var r={name:m((a.exec(i)||[u,u])[1],b)};r[r.name]=true;if(!r.opera){r.version=(c.exec(i)||[x,x,x,x])[3];}else{r.version=window.opera.version();}if(/safari/.test(r.name)){var safariversion=/(safari)(\/|\s)([a-z0-9\.\+]*?)(\;|dev|rel|\s|$)/;var res=safariversion.exec(i);if(res&&res[3]&&res[3]<400){r.version='2.0';}}else if(r.name==='presto'){r.version=($.browser.version>9.27)?'futhark':'linear_b';}if(/msie/.test(r.name)&&r.version===x){var ieVersion=/rv:(\d+\.\d+)/.exec(i);r.version=ieVersion[1];}r.versionNumber=parseFloat(r.version,10)||0;var minorStart=1;if(r.versionNumber<100&&r.versionNumber>9){minorStart=2;}r.versionX=(r.version!==x)?r.version.substr(0,minorStart):x;r.className=r.name+r.versionX;return r;};a=(/Opera|Navigator|Minefield|KHTML|Chrome|CriOS/.test(a)?m(a,[[/(Firefox|MSIE|KHTML,\slike\sGecko|Konqueror)/,''],['Chrome Safari','Chrome'],['CriOS','Chrome'],['KHTML','Konqueror'],['Minefield','Firefox'],['Navigator','Netscape']]):a).toLowerCase();$.browser=$.extend((!z)?$.browser:{},c(a,/(camino|chrome|crios|firefox|netscape|konqueror|lynx|msie|trident|opera|safari)/,[['trident','msie']],/(camino|chrome|crios|firefox|netscape|netscape6|opera|version|konqueror|lynx|msie|rv|safari)(:|\/|\s)([a-z0-9\.\+]*?)(\;|dev|rel|\s|$)/));$.layout=c(a,/(gecko|konqueror|msie|trident|opera|webkit)/,[['konqueror','khtml'],['msie','trident'],['opera','presto']],/(applewebkit|rv|konqueror|msie)(\:|\/|\s)([a-z0-9\.]*?)(\;|\)|\s)/);$.os={name:(/(win|mac|linux|sunos|solaris|iphone|ipad)/.exec(navigator.platform.toLowerCase())||[u])[0].replace('sunos','solaris')};if(!z){$('html').addClass([$.os.name,$.browser.name,$.browser.className,$.layout.name,$.layout.className].join(' '));}};$.browserTest(navigator.userAgent);}(jQuery));
+options = {
+// Specifies which browsers/versions will be blocked
+reject : {
+all: false, // Apple Safari
+chrome35: true, // Google Chrome
+chrome36: true, // Google Chrome
+chrome37: true, // Google Chrome
+chrome38: true, // Google Chrome
+chrome39: true, // Google Chrome
+firefox22: true, // Mozilla Firefox
+firefox23: true, // Mozilla Firefox
+firefox24: true, // Mozilla Firefox
+firefox25: true, // Mozilla Firefox
+firefox26: true, // Mozilla Firefox
+firefox27: true, // Mozilla Firefox
+firefox28: true, // Mozilla Firefox
+firefox29: true, // Mozilla Firefox
+firefox30: true, // Mozilla Firefox
+firefox31: true, // Mozilla Firefox
+firefox32: true, // Mozilla Firefox
+firefox33: true, // Mozilla Firefox
+firefox34: true, // Mozilla Firefox
+msie10: true, // Microsoft Internet Explorer
+msie9: true, // Microsoft Internet Explorer
+msie8: true, // Microsoft Internet Explorer
+msie7: true, // Microsoft Internet Explorer
+msie6: true, // Microsoft Internet Explorer
+opera: true, // Opera
+konqueror: true, // Konqueror (Linux)
+unknown: true // Everything else
+},
+display: [], // What browsers to display and their order (default set below)
+browserShow: true, // Should the browser options be shown?
+browserInfo: { // Settings for which browsers to display
+chrome: {
+// Text below the icon
+text: 'Google Chrome',
+// URL For icon/text link
+url: 'http://www.google.com/chrome/',
+// (Optional) Use "allow" to customized when to show this option
+// Example: to show chrome only for IE users
+// allow: { all: false, msie: true }
+},
+firefox: {
+text: 'Mozilla Firefox',
+url: 'http://www.mozilla.com/firefox/'
+},
+safari: {
+text: 'Safari',
+url: 'http://www.apple.com/safari/download/'
+},
+msie: {
+text: 'Internet Explorer',
+url: 'http://www.microsoft.com/windows/Internet-explorer/'
+}
+},
+// Pop-up Window Text
+header: 'Did you know that your Internet Browser is out of date?',
+paragraph1: 'Your browser is out of date, and may not be compatible with '+
+'our website. A list of the most popular web browsers can be '+
+'found below.',
+paragraph2: 'Just click on the icons to get to the download page',
+// Allow closing of window
+close: true,
+// Message displayed below closing link
+closeMessage: 'By closing this window you acknowledge that your experience '+
+'on this website may be degraded',
+closeLink: 'Close This Window',
+closeURL: '#',
+// Allows closing of window with esc key
+closeESC: true,
+// Use cookies to remmember if window was closed previously?
+closeCookie: true,
+// Cookie settings are only used if closeCookie is true
+cookieSettings: {
+// Path for the cookie to be saved on
+// Should be root domain in most cases
+path: '/',
+// Expiration Date (in seconds)
+// 0 (default) means it ends with the current session
+expires: 0
+},
+// Path where images are located
+imagePath: '/resources/ford/general/microsites/BrowserRejection/images/',
+// Background color for overlay
+overlayBgColor: '#000',
+// Background transparency (0-1)
+overlayOpacity: 0.8,
+// Fade in time on open ('slow','medium','fast' or integer in ms)
+fadeInTime: 'fast',
+// Fade out time on close ('slow','medium','fast' or integer in ms)
+fadeOutTime: 'fast',
+// Google Analytics Link Tracking (Optional)
+// Set to true to enable
+// Note: Analytics tracking code must be added separately
+analytics: false
+};
+function getUrlParameter(sParam)
+{
+var sPageURL = window.location.search.substring(1);
+var sURLVariables = sPageURL.split('&');
+for (var i = 0; i < sURLVariables.length; i++)
+{
+var sParameterName = sURLVariables[i].split('=');
+if (sParameterName[0] == sParam)
+{
+return sParameterName[1];
+}
+}
+}
+var outdatedBrowserBypass = getUrlParameter('outdatedBrowserBypass');
+if(!outdatedBrowserBypass || outdatedBrowserBypass != "true") {
+jQuery.reject(options); // Default Settings
+}
+//return false;
+</script>
+<div id="page-content">
+</div>
+</div>
+</div>
+<div id="disclaimers" class="ng-widget disclaimers "
+>
+<div class="wrap">
+<div id="view-disclaimers">View Additional Disclosures</div>
+<div id="view-cookies"><a href="http://www.ford.ca/useofcookies/">View Use of Cookies</a></div>
+<div id="disclaimer-flip" class="ng-widget group-flip "
+>
+<div class="buttons">
+<a class="close button">Close</a>
+</div>
+<h3>Additional Disclosures</h3>
+<dl>
+<dt id="disclaimer"></dt>
+<dd id="disclaimerFordImage">Images shown are for reference purposes only. US images may be shown on this website. Images may not necessarily represent the configurable options selected or available on the vehicle or the models shown. Ford Motor Company of Canada, Limited is not responsible for typographical or other errors, including data transmission, display, or software errors, that may appear on the site.</dd>
+<dt id="disclaimer"></dt>
+<dd id="disclaimerFordCaBoilerplate">Vehicle offers: Dealers may sell or lease for less. Offers may be cancelled at any time without notice (except in Quebec). See your Ford Dealer for complete offer details or call the Ford Customer Relationship Centre at 1-800-565-3673. For factory orders, a customer may either take advantage of raincheckable eligible Ford retail customer promotional incentives/offers available at the time of vehicle factory order or time of vehicle delivery, but not both or combinations thereof.</dd>
+<dt id="disclaimer"></dt>
+<dd id="disclaimerFordCaBoilerplateLegalNOSYMBOLPS">Service offers: Offers may be cancelled or changed at any time without notice.See Service Advisor for complete details. Applicable taxes and provincial levies not included. Dealer may sell for less.Only available at participating locations.</dd>
+<dt id="disclaimer"></dt>
+<dd id="disclaimerFordCaSyncConnect">SYNC Connect is an optional feature on select 2017 MY vehicles and includes SYNC Connect service, for 5 years from the vehicle sale date as recorded by the dealer, through use of FordPass on select smartphones. Subscription fees apply after 5 years. FordPass is available to download via the App Store® or Google Play™, late availability, Spring 2016. Message and data rates may apply. Service may be limited by mobile phone network coverage area. FordPass Terms and Privacy Policy apply.</dd>
+<dt id="disclaimer1">1</dt>
+<dd id="disclaimerStartingAt">Based on MSRP (Manufacturer's Suggested Retail Price) after currently applicable adjustments have been applied. Excludes options, freight (except in Quebec), AC Tax (except in Quebec), Green Levy (if applicable, and except in Quebec), license, fuel fill charge, insurance, dealer PDI (except in Quebec), PPSA (if financed or leased. PPSA not applicable in Quebec), RDPRM fee up of $48 and third party service fee of $4 (only in Quebec , if leased), administration fees (except in Quebec), and taxes. Dealers may sell or lease for less. See your local dealer for details.</dd>
+<dt id="disclaimer2">2</dt>
+<dd id="disclaimerMPG">Estimated Fuel consumption ratings based on Government of Canada approved test methods. Le/100 km is the Government of Canada equivalent measure of gasoline fuel efficiency for electric mode operation. Refer to "Specs" portion of applicable vehicle page for engine and transmission details. Actual fuel consumption will vary.</dd>
+<dt id="disclaimer3">3</dt>
+<dd id="disclaimerBluetoothTrademark">The Bluetooth word mark is a trademark of the Bluetooth SIG, Inc. All rights reserved.</dd>
+<dt id="disclaimer4">4</dt>
+<dd id="disclaimerBluetooth">You must have a Bluetooth<sup>&reg;</sup>-enabled phone paired to your SYNC system. The Bluetooth word mark is a trademark of the Bluetooth SIG, Inc.</dd>
+<dt id="disclaimer5">5</dt>
+<dd id="disclaimer911Assist">The vehicle's electrical system (including the Battery), the wireless service provider's signal and a connected mobile phone all must be available and operating for 911 Assist to function properly. These systems may become damaged in a crash. The paired mobile phone must be connected to Sync and the 911 Assist feature enabled in order for 911 to be dialed. Mobile phone charges may apply.</dd>
+<dt id="disclaimer6">6</dt>
+<dd id="disclaimerSYNC">Some mobile phones and some digital media players may not be fully compatible. Don't drive while distracted. Use voice-operated systems when possible; don't use handheld devices while driving. SYNC with MyFord Touch voice recognition and screens available in English, French and Spanish. Some features may be locked out while the vehicle is in gear.</dd>
+<dt id="disclaimer7">7</dt>
+<dd id="disclaimerHandsFreeLiftGate–2017Explorer">Some driver input required. Requires having available Intelligent Access key on your person.</dd>
+<dt id="disclaimer8">8</dt>
+<dd id="disclaimerInflatableSeatBelt">Always wear your safety belt and secure children in the rear seat.</dd>
+<dt id="disclaimer9">9</dt>
+<dd id="disclaimerActiveParkAssist">Some driver input required. Driver-assist features are supplemental and do not replace the driver's attention, judgment and need to control the vehicle.</dd>
+<dt id="disclaimer10">10</dt>
+<dd id="disclaimerDriverAssist">Driver-assist features are supplemental and do not replace the driver's attention, judgment and need to control the vehicle.</dd>
+<dt id="disclaimer11">11</dt>
+<dd id="disclaimerPremiumFuel">Figures achieved with 93-octane premium fuel.</dd>
+<dt id="disclaimer12">12</dt>
+<dd id="disclaimerDistractedDriving">Do not drive while distracted.</dd>
+<dt id="disclaimer13">13</dt>
+<dd id="disclaimerSiriusXM">SiriusXM Satellite Radio subscriptions sold after 6-month prepaid period expires. Subscriptions are governed by SiriusXM Customer Agreement; see sirius.ca.</dd>
+<dt id="disclaimer14">14</dt>
+<dd id="disclaimerSony">Sony and Clear Phase are registered trademarks of Sony Corporation. Live Acoustics is a trademark of the Sony Corporation. All rights reserved. </dd>
+<dt id="disclaimer15">15</dt>
+<dd id="disclaimerSOSPost-CrashAlertSystem">Always wear your safety belt and secure children in the rear seat. SOS hardware may become damaged or the battery may lose power in a crash, which could prevent operation. Not all crashes will activate an airbag or safety belt pretensioner.</dd>
+<dt id="disclaimer16">16</dt>
+<dd id="disclaimerHandsFreeLiftGate">Some driver input required. Requires having available Intelligent Access key on your person. Not available with Class II Trailer</dd>
+<dt id="disclaimer17">17</dt>
+<dd id="disclaimerClassIITrailerTowPackage">Equipped with the Class II Trailer Tow Package.</dd>
+<dt id="disclaimer18">18</dt>
+<dd id="disclaimerMyFordMobileApp">MyFord Mobile subscription complimentary for three years from vehicle sale date as recorded by the dealer on 2018 Fusion Energi, and Focus BEV, five years on older Fusion Energi, Cmax Energi, and Focus BEV vechicles. Subscription required after complimentary period ends. MyFord Mobile requires a compatible 2.5G independent cellular network. Evolving technology and cellular networks may affect future functionality. AeroVironment<sup>&trade;</sup> is a trademark of AeroVironment, Inc.</dd>
+<dt id="disclaimer19">19</dt>
+<dd id="disclaimerAdvanceTrac-TrailerSwayControl">Remember that even advanced technology cannot overcome the laws of physics. It's always possible to lose control of a vehicle due to inappropriate driver input for the conditions.</dd>
+<dt id="disclaimer20">20</dt>
+<dd id="disclaimerTowing-TrailerSwayControl">When properly equipped. </dd>
+<dt id="disclaimer21">21</dt>
+<dd id="disclaimerActiveGrilleShutters">Located between the grille opening and the radiator, the active grille shutter automatically opens and closes to maintain the ideal engine operating temperature and helps improve fuel efficiency by maximizing the aerodynamic efficiency of the grille opening and the engine cooling system.</dd>
+<dt id="disclaimer22">22</dt>
+<dd id="disclaimerMSRP">MSRP is the Manufacturer's Suggested Retail Price only and excludes options, freight, AC Tax, Green Levy (if applicable), license, fuel fill charge, insurance, dealer PDI, PPSA (if financed or leased. PPSA not applicable in Quebec), RDPRM fee up of $47 and third party service fee of $4 (only in Quebec , if leased), administration fees, and taxes. Dealers may sell or lease for less. See your local dealer for details.</dd>
+<dt id="disclaimer23">23</dt>
+<dd id="disclaimerDownPayment">Down Payment - The amount of money you are able to pay towards the purchase or lease a vehicle which results in a lower amount to be financed or leased. If you want to include a trade-in amount, please add it to the trade-in field</dd>
+<dt id="disclaimer24">24</dt>
+<dd id="disclaimerTradeIn">Trade-in-Value - The estimated amount you can expect to receive from a dealer for a trade-in vehicle. Trade-in value subject to dealer evaluation of your vehicle.</dd>
+<dt id="disclaimer25">25</dt>
+<dd id="disclaimerTerm">Term by months - A Lease term is the number of scheduled months in your lease agreement. If you finance the purchase of your vehicle, the term represents the number of months you agree to pay off the contract with your scheduled payments.</dd>
+<dt id="disclaimer26">26</dt>
+<dd id="disclaimerChooseARate">APR - Must finance through Ford Credit Canada Company. Subject to Ford Credit Canada Company lending criteria. Not all buyers will qualify for the lowest APR. Only available on approved credit. This is a sample transaction for estimation purposes only. Contact your local dealer for full program details. Some restrictions/conditions may apply.</dd>
+<dt id="disclaimer27">27</dt>
+<dd id="disclaimerEnterOwnAPR">Your entered rate - A rate you enter manually to estimate a payment. This rate is for estimation purposes only. You may not be able to finance your vehicle at this rate.</dd>
+<dt id="disclaimer28">28</dt>
+<dd id="disclaimerAnnualKMs">Lessee is responsible for charges applicable on excess distance travelled over the “Annual KMs” stated.</dd>
+<dt id="disclaimer29">29</dt>
+<dd id="disclaimerDeliveryAllowance">Delivery Allowances are not combinable with any fleet consumer incentives.</dd>
+<dt id="disclaimer31">31</dt>
+<dd id="disclaimerStewardshipFee">Based on MSRP (Manufacturer's Suggested Retail Price) and includes freight, AC Tax, Green Levy (if applicable), currently applicable adjustments and incentives, options and accessories (where selected), but excludes license, fuel fill charge, insurance, dealer PDI (except in Quebec), PPSA (if financed or leased. PPSA not applicable in Quebec), RDPRM fee up of $48 and third party service fee of $4 (only in Quebec, if leased), and administration fees (except in Quebec). Dealers may sell or lease for less. See your local dealer for details.</dd>
+<dt id="disclaimer32">32</dt>
+<dd id="disclaimerIncentives">Offer samples shown may not be available to all customers and may be subject to restrictions on combinability with other currently available incentives. Offers listed are available at the time of posting and are subject to change, cancellation and expiration. Restrictions apply. See your local dealer for complete details.</dd>
+<dt id="disclaimer33">33</dt>
+<dd id="disclaimerNetPrice">Based on MSRP (Manufacturer's Suggested Retail Price) and includes freight, AC Tax, Green Levy (if applicable), currently applicable adjustments and incentives, options and accessories (where selected), down payment and/or trade-in value where input by user, and applicable government sales taxes when selected by user (except when using tool with lease path selected) but excludes, license, fuel fill charge, insurance, dealer PDI (except in Quebec), PPSA (if financed or leased. PPSA not applicable in Quebec), RDPRM fee up of $48 and third party service fee of $4 (only in Quebec , if leased), and administration fees (except in Quebec). Dealers may sell or lease for less. See your local dealer for details.</dd>
+<dt id="disclaimer34">34</dt>
+<dd id="disclaimerEstimatedVehiclePrice">Based on MSRP (Manufacturer's Suggested Retail Price) and includes freight, AC Tax, Green Levy (if applicable), applicable government sales taxes, when selected by user (except in lease path portion of the tool), currently applicable adjustments and incentives, trade-in value and down payment (where entered), and options (where selected) but excludes accessories, license, fuel fill charge, insurance, dealer PDI (except in Quebec), PPSA (if financed or leased. PPSA not applicable in Quebec), RDPRM fee up of $47 and third party service fee of $4 (only in Quebec , if leased), and administration fees (except in Quebec). Dealers may sell or lease for less. See your local dealer for details.</dd>
+<dt id="disclaimer35">35</dt>
+<dd id="disclaimerMonthlyPaymentFinance">Estimated payment: Finance - The Payment shown is an estimate of the principal and interest you can expect to pay monthly (or every two weeks) on a Ford Credit retail installment contract, and includes an estimate of the delivery and destination charges. Payments do not include registration fees, and other applicable dealer fees. "Every two weeks" payment amounts are calculated by taking the sum of twelve (12) monthly payments and dividing by 26 periods. Please consult with your local dealership for actual vehicle payment information. </dd>
+<dt id="disclaimer36">36</dt>
+<dd id="disclaimerMonthlyPaymentLease">Estimated payment: Lease - The Payment shown is an estimate of the monthly (or every two weeks) amount you can expect to pay on a Ford Credit lease contract. Payments do not include PPSA (if financed or leased. PPSA not applicable in Quebec), RDPRM fee up of $48 and third party service fee of $4 (only in Quebec , if leased), registration, security deposit (if applicable), NSF fees (where applicable), excess wear and tear, late fees, dealer fees and applicable taxes and other charges. Every 2 weeks payment amounts are calculated by taking the sum of twelve (12) monthly payments and dividing by 26 periods. Please consult with your local dealership for actual vehicle payment information. Annual kilometrage restrictions apply. Excess kilometrage charges are 12&cents;per km for Fiesta, Focus, C-Max, Fusion and Escape; 16&cents;per km for E-Series, Mustang, Taurus, Edge, Flex, Explorer, F-Series, MKS, MKX, MKZ, MKT, MKC, Transit and Transit Connect; 20&centsper km for Expedition and Navigator, plus applicable taxes. Excess kilometrage charges subject to change, see your local dealer for details.</dd>
+<dt id="disclaimer37">37</dt>
+<dd id="disclaimerElectricVehicle">Electric Vehicle Incentive (the "Incentive") is provided by the provincial governments of British Columbia and Quebec (each a "Participating Province"). The Incentive is subject to cancellation or change by any Participating Province without notice. Ford Motor Company of Canada, Limited is not responsible for any changes to or cancellation of the Incentive and makes no representations about eligibility. For more information about the Incentive, please consult your provincial government or Ford dealer. Rebate amount varies by eligible vehicle and payment option. The Incentive is applied after applicable taxes are calculated for Quebec; the Incentive is applied before applicable taxes are calculated for British Columbia. Certain conditions apply.</dd>
+<dt id="disclaimer38">38</dt>
+<dd id="disclaimerOptionPackagePrice">The Option Package price is a manufacturer's suggested price. The monthly payment displayed is an example only, based on the borrowing details selected in the vehicle payment calculator. Prices and monthly payments may vary. Options and Options Packages are subject to availability. Dealer may sell for less. See your local dealer for details.</dd>
+<dt id="disclaimer39">39</dt>
+<dd id="disclaimerPaymentEstimator">This payment estimator is a tool to help you estimate your scheduled payments and does not make any representation as to actual payment amounts. The payments calculated using this tool are estimates only. The estimated selling price and the interest rate that you enter to use this payment estimator tool are for your estimation/comparison purposes only. The actual prices and payments may vary and dealers may sell for less.
+Additional payments may be required under the terms of any finance or lease agreement that you may enter into and in the case of a lease, you may be required to pay excess kilometre and wear and tear charges.
+You must qualify for credit to finance or lease a vehicle subject to Ford Credit Canada Company lending criteria and you may not be able to finance/lease a vehicle at the rate you have chosen. Please contact your local Dealer for information regarding price, payments and rates.
+</dd>
+<dt id="disclaimer41">41</dt>
+<dd id="disclaimerHALO">
+Some driver input required. Requires having available Intelligent Access key on your person.
+</dd>
+<dt id="disclaimer43">43</dt>
+<dd id="disclaimerCostco">Offer only valid from October 2 to October 31, 2018 (the "Offer Period"), to resident Canadians with an eligible Costco membership on or before October 1, 2018. Receive $1,000 towards the purchase or lease of a new 2018/2019 Ford model (excluding 2018 C-MAX, 2019 Fusion with gas engine, 2018/2019 Focus, Fiesta, F-150 Raptor, Shelby<sup>&reg;</sup> GT350/GT350R Mustang, Ford GT, all Cutaway/Chassis Cab and F-650/F-750) (each an "Eligible Vehicle"). Limit one (1) offer per each Eligible Vehicle purchase or lease per Costco membership number. Offer is transferable to persons domiciled with an eligible Costco member. Customer may use the $1,000 offer as a down payment or choose to receive a rebate cheque from Ford Motor Company of Canada, Limited but not both. Applicable taxes calculated before the offer amount is deducted.</dd>
+<dt id="disclaimer44">44</dt>
+<dd id="disclaimerpurchasefinancing">Valid between October 2 and November 30, 2018 (the "Offer Period"). Receive $5,187 in total value with the purchase or lease of a new 2018 F-150 (excluding Raptor) during the Offer Period. Total value is a combination of $2,500 delivery allowance and a $2,687 MSRP value (applicable regional tax excluded) winter performance package, which includes: four (4) winter tires, four (4) steel wheels and four (4) tire pressure monitoring system sensors; F-150 Raptor is not eligible for delivery allowance or winter performance package promotion. Delivery allowances are not combinable with any fleet consumer incentives. Winter performance package is not applicable to any Fleet (other than small fleets with an eligible FIN) or Government customers and not combinable with CPA, GPC, CFIP or Daily Rental Allowances. Vehicle handling characteristics, tire load index and speed rating may not be the same as factory-supplied all-season tires. Winter tires are meant to be operated during winter conditions and may require a higher cold inflation pressure than all-season tires. Some conditions apply. Consult your Ford of Canada Dealer for details, including applicable warranty coverage.</dd>
+<dt id="disclaimer46">46</dt>
+<dd id="disclaimerWinterSafetyPackage">Ford is the best-selling line of SUV in Canada based on Canadian Vehicle Manufacturers’ Association statistical sales report up to year end 2016-2017.</dd>
+<dt id="disclaimer47">47</dt>
+<dd id="serviceOffer1">Ford Protection Plan ("FPP") is only available for purchasers of Ford or Motorcraft<sup>&reg;</sup> replacement parts for non-commercial cars and light trucks. FPP provides coverage (part only, labour and towing excluded) beyond the expiry of the standard Parts & Accessory Warranty. If a FPP-eligible Ford or Motorcraft<sup>&reg</sup> part fails due to a defect in material or workmanship, wear out or rust through, it will be replaced at no charge as long as the original purchaser of the part owns the vehicle on which the part was installed. Coverage varies between over-the-counter and dealer-installed parts. See your local Ford Store for complete coverage details and limitations.</dd>
+<dt id="disclaimer48">48</dt>
+<dd id="disclaimerPandS">Genuine Ford and Motorcraft® replacement brake pads and shoes are tested to ensure braking performance meets or exceeds the requirements in Canada Motor Vehicle Safety Standards (CMVSS) 105-Hydraulic and Electric Brake System, and 135-Light Vehicle Brake Systems, as applicable.</dd>
+<dt id="disclaimer49">49</dt>
+<dd id="serviceOffer2">In order to receive a local competitor’s advertised price: (i) tires must be purchased and installed at your participating Ford Dealer; (ii) customer must present the competitor’s actual, local advertisement (containing the lower price) which must have been printed within 30 days of the sale; and (iii) the tires being purchased must be the same brand, and have the same sidewall, speed and load ratings as shown in the competitive advertisement. Offer only available at participating Ford dealerships. This offer is valid on the cost of the tire only and does not include labour costs, valve stems, mounting, balancing, disposal, and taxes. Offer does not apply to quotes or advertised prices outside of Canada, in eBay advertisements, by tire wholesalers and online tire retailers, or closeout, special order, discontinued, and clearance/liquidation offers. Offer may be cancelled or changed at any time without prior notice (except in Quebec). See your Service Advisor for details. Only available at participating locations.</dd>
+<dt id="disclaimer50">50</dt>
+<dd id="serviceOffer3">Rebate offers are manufacturer’s mail-in rebates. Rebates available on select Hankook (credit card gift card), Laufenn (credit card gift card), Continental (credit card gift card), General Tire (credit card gift card), Goodyear, Dunlop, Pirelli, Yokohama, Firestone (credit card gift card), Bridgestone (credit card gift card), Michelin, BFGoodrich, Uniroyal and Toyo. Offers are valid on qualifying sets of four tires, purchased and installed at participating locations during the respective promotion periods for each tire brand. Offers are valid on the cost of the tire(s) only and do not include labour costs, valve stems, mounting, balancing, disposal, and taxes. Amount of rebates (ranging from $35 to $100), start dates and expiration dates (ranging from September 15, 2017 to December 31, 2017) vary depending on tire manufacturer. It is the responsibility of the customer to submit the required claim forms and proof of purchase to the relevant tire manufacturer with sufficient postage by the required deadline for that rebate offer. See your Service Advisor Dealer for complete details and claim forms.</dd>
+<dt id="disclaimer51">51</dt>
+<dd id="serviceOffer4">From June 1 to July 3, 2018 to Canadian residents, receive [$6,250]/[$6,750]/[$7,250] in Total Rebates with the purchase or lease of 2017: [Fusion]/[Mustang (Excluding GT)]/[Mustang GT] (each an "Eligible Vehicle"). Total Rebates are a combination of [$5,500]/[$6,000]/[$6,500] of delivery allowance and $750 of Spring Bonus. Only one (1) Spring Bonus offer may be applied towards the purchase or lease of one (1) Eligible Vehicle. Taxes payable before Spring Bonus offer amount is deducted. Only one (1) Spring Bonus offer may be applied towards the purchase or lease of one (1) Eligible Vehicle.</dd>
+<dt id="disclaimer52">52</dt>
+<dd id="serviceOffer5">Applies to single rear wheel vehicles only. Diesel models not eligible.</dd>
+<dt id="disclaimer53">53</dt>
+<dd id="serviceOffer6">Up to 5 litres of oil. Disposal fees may be extra (except in Quebec). Does not apply to diesel engines.</dd>
+<dt id="disclaimer54">54</dt>
+<dd id="WinterSafetyPackage">Manufacturer's Suggested Retail Price (MSRP). Dealer may sell for less.</dd>
+<dt id="disclaimer55">55</dt>
+<dd id="serviceOffer7">Excludes emergency brake pads or shoes. Machining or replacement of rotors and drums available at additional cost.</dd>
+<dt id="disclaimer56">56</dt>
+<dd id="serviceOffer8">Winter safety package includes: four (4) winter tires, four (4) tire pressure monitoring sensors, and choice of four (4) steel or aluminum wheels. Some conditions apply. See Dealer for details. Vehicle handling characteristics, tire load index and speed rating may not be the same as factory supplied all-season tires. Winter tires are meant to be operated during winter conditions and may require a higher cold inflation pressure than all-season tires. Consult your Ford of Canada Dealer for details including applicable warranty coverage</dd>
+<dt id="disclaimer57">57</dt>
+<dd id="serviceOffer9">Storage term is at the Dealer's sole discretion, up to a maximum of one year.</dd>
+<dt id="disclaimer58">58</dt>
+<dd id="serviceOffer10">Offer applies to single rear wheel vehicles. Taxes and disposal fees extra (except in Quebec) are extra. Diesel Exhaust Fluid (DEF) excluded. Dual rear wheel models qualify at additional cost. Up to 16 litres of oil.</dd>
+<dt id="disclaimer59">59</dt>
+<dd id="disclaimerTheWorksGasMileage">Improved fuel efficiency depends on model, year and condition of vehicle.</dd>
+<dt id="disclaimer60">60</dt>
+<dd id="disclaimerRYR">6000-series aluminum alloy. Lighter EPA curb weight, versus predecessor generation.</dd>
+<dt id="disclaimer61">61</dt>
+<dd id="disclaimerMayBlitzLegal">Up to 700 pounds lighter, EPA curb weight, versus predecessor generation.</dd>
+<dt id="disclaimer62">62</dt>
+<dd id="disclaimerFirstTimeBuyerProgram">
+The combined electric and gasoline driving range of the 2017 Fusion Energi Plug-in Hybrid with 2.0L Atkinson-Cycle I-4 Fusion Energi Plug-in Hybrid Engine is 982 km. 53-litre fuel tank. Based on Government of Canada range calculation guidance. Actual range varies with conditions such as external elements, driving behaviours, vehicle maintenance and lithium-ion battery age.
+</dd>
+<dt id="disclaimer63">63</dt>
+<dd id="disclaimerGradBonusProgram">
+Availability may be limited in select regions. Contact your Local Electric and Plug-in Hybrid Certified dealer for more information.
+</dd>
+<dt id="disclaimer66">66</dt>
+<dd id="disclaimerRecycleYourRide4">From October 2 to November 16 and November 28 to 30, 2018, receive 0% APR purchase financing on new 2018 Edge, Escape for up to 60 months to qualified retail customers, on approved credit (OAC) from Ford Credit Canada Company. Not all buyers will qualify for the lowest interest rate. Example: $30,000 purchase financed at 0% APR for 60 months, monthly payment is $500.00, cost of borrowing is $0 or APR of 0% and total to be repaid is $30,000. Down payment on purchase financing offers may be required based on approved credit from Ford Credit Canada Company.</dd>
+<dt id="disclaimer67">67</dt>
+<dd id="disclaimerManufacturerRebateLegal">From October 2 to November 16 and November 28 to 30, 2018, receive 0% APR purchase financing on new 2018 F-150 XLT SuperCrew 4x4 300A (gas) models for up to 72 months to qualified retail customers, on approved credit (OAC) from Ford Credit Canada Company. Not all buyers will qualify for the lowest interest rate. Example: $30,000 purchase financed at 0% APR for 72 months, monthly payment is $416.67, cost of borrowing is $0 or APR of 0% and total to be repaid is $30,000. Down payment on purchase financing offers may be required based on approved credit from Ford Credit Canada Company.</dd>
+<dt id="disclaimer69">69</dt>
+<dd id="disclaimerApprovedCredit">Based on Canadian Vehicle Manufacturers' Association sales data for Ford and Lincoln.</dd>
+<dt id="disclaimer70">70</dt>
+<dd id="disclaimerUtility">The electric driving range of the 2017 Ford Focus Electric is 185 km. Based on Government of Canada range calculation guidance. Actual range varies with conditions such as external elements, driving behaviours, vehicle maintenance and lithium-ion battery age.</dd>
+<dt id="disclaimer72">72</dt>
+<dd id="disclaimerFuelConsumption">
+The combined electric and gasoline driving range of the 2017 C-MAX Energi Plug-in Hybrid with 2.0L Atkinson-Cycle I-4 Hybrid Engine is 917 km. 53-litre fuel tank. Based on Government of Canada range calculation guidance. Actual range varies with conditions such as external elements, driving behaviours, vehicle maintenance and lithium-ion battery age.
+</dd>
+<dt id="disclaimer73">73</dt>
+<dd id="disclaimerNameplate">Offer only valid between January 3, 2018 and January 2, 2019 (the “Program Period”) to Ford Credit Canada Company (Ford Credit) purchase finance and lease customers. Canadian resident customers who (a) are approved by Ford Credit; (b) have no previous automotive financing history; (c) do not have any derogatory credit; (d) have verified full-time employment (minimum of 6 months); (e) have verified income sufficient to meet ordinary living expenses; (f) have verified maximum vehicle payment-to-income (including add-ons) of 15%; (g) have verified maximum total debt-to-income of 50% (debt calculation including rent); (h) have a verified driver's license; and (i) have purchased all required insurance to operate the vehicle prior to delivery (each a “First Time Buyer”) can receive an incentive equaling the eligible customer's vehicle down payment (up to a maximum of $500) (the “Incentive”) towards the purchase finance or lease or factory-order (during the Program Period) of a new 2018 (as applicable based on availability) Focus, Fiesta, Fusion, Escape or EcoSport model (each an “Eligible Vehicle”). 2017 Focus, Fiesta, Fusion or Escape models may qualify as Eligible Vehicle, depending on available inventory – see dealer for details. Limit one (1) Incentive per First Time Buyer. Eligible Vehicle must be purchase financed or leased and registered in the name of the First Time Buyer. Incentive amount may be used as a down payment or received as a rebate cheque from Ford, but not both. Taxes payable before Incentive is deducted. Not combinable with any CPA/GPC or Daily Rental incentives, the Commercial Upfit Program or the Commercial Fleet Incentive Program (CFIP) or any other Targeted Offer Program including the Graduate Rebate program. See dealer for details.</dd>
+<dt id="disclaimer74">74</dt>
+<dd id="disclaimerEstimatedFuelConsumption">Offer only valid between January 3, 2018 and January 2, 2019 (the “Program Period”) to Canadian resident customers who (a) have graduated (within 2 years prior to the date of sale), or will graduate (within the next 4 months) from an accredited university undergraduate degree program, or from a two-year (48 weeks minimum) college program, or from a three-year CEGEP D.E.C. program in Quebec; (b) have graduated (within 2 years prior to the date of sale), or will graduate (within the next 4 months) from a recognized military or police academy; or (c) are a current full-time post-graduate student (Masters, Doctorate/PhD) (each an “Eligible Grad”). Eligible Grads will receive $500 (the “Incentive”) towards the purchase, lease, or factory order (during the Program Period) of a new 2018 (as applicable based on availability) Focus, Fiesta, Fusion, Escape or EcoSport model (each an “Eligible Vehicle”). 2017 Focus, Fiesta, Fusion or Escape models may qualify as Eligible Vehicle, depending on available inventory – see dealer for details. Limit one (1) Incentive per First Time Buyer. Limit one (1) Incentive per Eligible Grad. Eligible Vehicle must be purchased or leased and registered in the name of the Eligible Grad. Each customer will be required to provide proof of status in the form of (a) a copy of the customer's degree/diploma dated within 2 years prior to the vehicle sale date; (b) an official letter from the Registrar's office confirming graduation within 4 months following the vehicle sale date - the letter must state the Eligible Grad’s name and the length of the program the student is graduating from; or (c) documentation of post-graduate program enrollment and current status. Taxes payable before Incentive is deducted. Not combinable with any CPA/GPC or Daily Rental incentives, the Commercial Upfit Program or the Commercial Fleet Incentive Program (CFIP) or any other Targeted Offer Program including the First Time Buyers program. See dealer for details.</dd>
+<dt id="disclaimer75">75</dt>
+<dd id="disclaimerWarrantyOnAccessories">24 months/unlimited km limited warranty on most Genuine Ford/Motorcraft<sup>&reg;</sup> Parts and Ford Genuine Accessories (purchased from Ford or Ford Lincoln dealers or Ford dealer wholesale customers) for cars and light trucks that are found to be defective in material or workmanship. Parts, labour, and towing covered for 'dealer installed' parts/accessories; parts only are covered for 'over the counter' retail parts/accessories; parts and labour (up to a maximum of $150) covered for wholesale and fleet parts/accessories. Part and/or accessory failure due to: abuse, misuse, neglect, alteration, accident, racing; improper lubrication, repair, or installation; use in applications for which they were either not designed, or functionally intended, or not approved by Ford Motor Company of Canada, Limited; cleaning, adjustment or replacement as a part of normal maintenance; or failures caused by non-Ford parts, are not covered under this warranty. Coverage varies between over-the-counter and dealer-installed parts. See your local Ford Store for complete coverage details and limitations.</dd>
+<dt id="disclaimer76">76</dt>
+<dd id="disclaimerFPP">Dealer Selling Price is the price at which the selling dealer is willing to sell or lease the selected vehicle. Dealer Selling Price includes options, destination and delivery charges, freight, and AC Tax but excludes, without limitation, Available Incentives, Green Levy (if applicable), taxes, title and registration fees. Dealer Selling Price will be valid for 48 hours after certificate submission (excluding Sundays and nationally and provincially observed holidays); subject to vehicle availability and the terms of Ready. Shop. Go. It is possible that multiple customers may create and/or submit a deal with respect to the same vehicle. In such cases, the dealer will decide which customer to sell the vehicle to. This may be based on which customer arrives at the dealership first. The time of submission of a deal will not determine which customer the dealer sells the vehicle to. Until the contract of sale is completed, a dealer is not obliged to sell a particular vehicle to any individual customer. Please check with your dealer whether the vehicle you have selected is still available. See dealer for details. </dd>
+<dt id="disclaimer77">77</dt>
+<dd id="disclaimerRetailWinterSafetyPackage">Receive a winter performance package which includes: four (4) winter tires, four (4) steel wheels (Edge receives aluminum wheels) and four (4) tire pressure monitoring system sensors when you purchase or lease any new 2018/2019 Ford Fiesta, Focus (excluding RS), Fusion (excluding Sport), C-Max, Escape, Edge (excluding Sport), Explorer, Taurus, Flex, Expedition, EcoSport, F-150 (excluding Raptor), F-250/F-350 SRW between October 2 and November 30, 2018. This offer is not applicable to any Fleet (other than small fleets with an eligible FIN) or Government customers and not combinable with CPA, GPC, CFIP or Daily Rental Allowances. Vehicle handling characteristics, tire load index and speed rating may not be the same as factory-supplied all-season tires. Winter tires are meant to be operated during winter conditions and may require a higher cold inflation pressure than all-season tires. Some conditions apply. Consult your Ford of Canada Dealer for details, including applicable warranty coverage.</dd>
+<dt id="disclaimer78">78</dt>
+<dd id="disclaimerunlimited">36 months/unlimited km limited Parts and labour warranty on New and Remanufactured Gas Engine Assemblies (6006, 6V012, SLGB, LGB), purchased from Ford or Ford Lincoln dealers, that are found to be defective in material or workmanship. Parts, labour, and towing covered for 'dealer installed' gas engines; parts only are covered for 'over the counter' retail gas engines; parts and labour covered for wholesale and fleet gas engines. Engine failure due to: abuse, misuse, neglect, alteration, accident, racing; improper lubrication, repair, or installation; use in applications for which they were either not designed, or functionally intended, or not approved by Ford Motor Company of Canada, Limited; cleaning, adjustment or replacement as a part of normal maintenance; or failures caused by non-Ford parts, are not covered under this warranty. See your local Ford Store for complete coverage details and limitations.</dd>
+<dt id="disclaimer79">79</dt>
+<dd id="disclaimerlimited">36 months/unlimited km limited Parts and labour warranty on New and Remanufactured Transmission Assemblies (7000, 7V000, TRM, 7003, 7002), purchased from Ford or Ford Lincoln dealers, that are found to be defective in material or workmanship. Parts, labour, and towing covered for 'dealer installed' transmissions; parts only are covered for 'over the counter' retail transmissions; parts and labour covered for wholesale and fleet transmissions. Transmission failure due to: abuse, misuse, neglect, alteration, accident, racing; improper lubrication, repair, or installation; use in applications for which they were either not designed, or functionally intended, or not approved by Ford Motor Company of Canada, Limited; cleaning, adjustment or replacement as a part of normal maintenance; or failures caused by non-Ford parts, are not covered under this warranty. See your local Ford Store for complete coverage details and limitations.</dd>
+<dt id="disclaimer80">80</dt>
+<dd id="disclaimerOfferAvailable">Must be activated prior to operation.</dd>
+<dt id="disclaimer81">81</dt>
+<dd id="disclaimerOfferValid">24 months/unlimited km limited Parts and labour warranty on New and Remanufactured Diesel Engine Assemblies (6007/6V007, CALGB, Stripped (6006/6V006, SLGB) 3.2L, 6.0L, 6.4L, 6.7L, 6.9L, 7.3L I.D.I Turbo, 7.3L D.I Turbo Diesel Engine Assemblies), purchased from Ford or Ford Lincoln dealers, that are found to be defective in material or workmanship. Parts, labour, and towing covered for 'dealer installed' diesel engines; parts only are covered for 'over the counter' retail diesel engines; parts and labour covered for wholesale and fleet diesel engines. Engine failure due to: abuse, misuse, neglect, alteration, accident, racing; improper lubrication, repair, or installation; use in applications for which they were either not designed, or functionally intended, or not approved by Ford Motor Company of Canada, Limited; cleaning, adjustment or replacement as a part of normal maintenance; or failures caused by non-Ford parts, are not covered under this warranty. See your local Ford Store for complete coverage details and limitations.</dd>
+<dt id="disclaimer82">82</dt>
+<dd id="disclaimerPurchaseFinance">When properly equipped. Maximum torque of 470 lb.-ft. with available 3.5L V6 EcoBoost engine. Class is Full-Size Pickups under 8,500 lbs. GVWR based on Ford segmentation.</dd>
+<dt id="disclaimer84">84</dt>
+<dd id="disclaimerFDAF150">Class is Fullsize Pickups under 8,500 lbs (3856 kg) versus 2017 and 2018 Competitors. 2018 F-150 4x2 equipped with the 2.7L V6 EcoBoost® and 6-Speed SelectShift Automatic® Transmission, estimated fuel consumption ratings are 11.9L/100km city, 9.0L/100km hwy, 10.6L/100km combined, based on Government of Canada approved test methods. Actual fuel consumption will vary. </dd>
+<dt id="disclaimer85">85</dt>
+<dd id="disclaimerClassExclusiveEscape">When properly configured. Maximum towing of 13,200 lbs with available 3.5L V6 EcoBoost engine configuration. Class is Full-Size Pickups under 8,500 lbs. GVWR based on Ford segmentation.</dd>
+<dt id="disclaimer86">86</dt>
+<dd id="disclaimerExclusiveClaim">Maximum horsepower of 325, maximum torque of 380 lb.-ft. on 2017 Fusion Sport with 2.7L EcoBoost® V6 engine. Horsepower rating achieved with 93-octane premium fuel. Class is Midsize Sedan based on Ford segmentation.</dd>
+<dt id="disclaimer87">87</dt>
+<dd id="disclaimerratings">Miko is a trademark of Miko s.r.l. </dd>
+<dt id="disclaimer88">88</dt>
+<dd id="disclaimershortContent">F-Series is the best-selling line of pickup trucks in Canada for 51 years in a row based on Canadian Vehicle Manufacturers' Association statistical sales report up to year end 2017.</dd>
+<dt id="disclaimer89">89</dt>
+<dd id="disclaimershortContent2">When properly configured. Maximum payload of 3,270 lbs with available 5.0L V8 engine configuration. Class is Full-Size Pickups under 8,500 lbs. GVWR based on Ford segmentation.</dd>
+<dt id="disclaimer90">90</dt>
+<dd id="disclaimersync3_1">Optional feature; availability varies by model. Features/functionality vary by vehicle/model. Don’t drive while distracted. Use voice-operated systems when possible; don’t use handheld devices while driving. Some features may be locked out while the vehicle is in motion. Not all features are compatible with all phones. Message and data rates may apply. Optional Navigation system map updates cannot be received via wi-fi and require a separate update.</dd>
+<dt id="disclaimer91">91</dt>
+<dd id="disclaimersync3_2">You must have a Bluetooth<sup>®</sup>-enabled phone paired to your SYNC system. The Bluetooth word mark is a trademark of the Bluetooth SIG, Inc. HD Radio is a proprietary trademark of iBiquity Digital Corp. iPad<sup>®</sup>, iPod<sup>®</sup>, iTunes<sup>®</sup>, iPhone<sup>®</sup>, and Siri<sup>®</sup> are registered trademarks of Apple Inc. The term Wi-Fi<sup>®</sup> is a registered trademark of the Wi-Fi Alliance<sup>®</sup>. Sony is a registered trademark of the Sony Corporation.</dd>
+<dt id="disclaimer92">92</dt>
+<dd id="disclaimerF150StarSafety">Government 5-Star Safety Ratings are part of the National Highway Traffic Safety Administration's (NHTSA's) New Car Assessment Program (<a href="http://www.safercar.gov/">www.SaferCar.gov</a>).</dd>
+<dt id="disclaimer93">93</dt>
+<dd id="disclaimerSYNCAppLink">SYNC AppLink is compatible with select smartphone platforms and requires compatible apps to be installed and running on a capable smartphone while connected to SYNC. Commands may vary by phone and AppLink software. Message and data rates may apply.</dd>
+<dt id="disclaimer94">94</dt>
+<dd id="disclaimerFDARetailBonus">B&O Play is a trademark of Bang & Olufsen A/S</dd>
+<dt id="disclaimer97">97</dt>
+<dd id="disclaimerJDPowerEscape">Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Registered in the U.S. and other countries.</dd>
+<dt id="disclaimer98">98</dt>
+<dd id="disclaimerEscapeVincentric">Google, Android, Google Play and the Google Play logo are trademarks of Google LLC. </dd>
+<dt id="disclaimer99">99</dt>
+<dd id="disclaimerEdgeVincentric">FordPass is available for select smartphones. Message and data rates may apply. Service may be limited by mobile phone network coverage area. FordPass Terms and Privacy apply.</dd>
+<dt id="disclaimer102">102</dt>
+<dd id="disclaimerF150Vincentric">Based on the 2012-2013, 2015-2018 Vincentric Best Value in Canada awards analysis of the Full-Size 1/2-Ton Pickup segment.</dd>
+<dt id="disclaimer105">105</dt>
+<dd id="fseriesCVMA">Based on IHS Automotive: Polk Canadian Total New Registration data year-end data 2009 - 2015 and Canadian Vehicle Manufacturers' Association statistical sales report year end data 2016-2017 and YTD April 2018.</dd>
+<dt id="disclaimer106">106</dt>
+<dd id="disclaimerPreCollisionAssist">Driver-assist features are supplemental and do not replace the driver’s attention, judgment and need to control the vehicle. System is active at speeds between approximately 5km/h and 80 km/h. While Pre-Collision Assist with Pedestrian Detection may be especially helpful in unexpected situations, and can assist to detect walking pedestrians, it does not replace the driver and has limitations, including nighttime, low and harsh lighting conditions, vehicles moving in a different direction and certain weather conditions.</dd>
+<dt id="disclaimer107">107</dt>
+<dd id="disclaimerCPOAPR">Until October 1, 2018, customers with approved credit (OAC) from Ford Credit Canada Company may receive 2.9% APR purchase financing for 24, 36, 48, 60 and 72 months terms on all Certified Pre-Owned Ford Focus (excluding RS), Fusion and Escape of 2013 - 2018 model year; or receive 2.9% APR purchase financing for 24 months term, or 3.9% APR purchase financing for 36 and 48 months terms, or 4.9% APR purchase financing for 60 months term on all other Certified Pre-Owned Ford vehicles of 2013 - 2018 model year; or receive 4.9% APR purchase financing for 72 months term on all other Certified Pre-Owned Ford vehicles of 2015 - 2018 model year. Not all buyers will qualify for the lowest interest rate. Example: $25,000 purchase financed at 2.9% APR, monthly payment is $1,073.42/$725.93/$552.25/$448.11/$378.72 for 24/36/48/60/72 months, at 3.9% APR, monthly payment is $736.99/$563.36 for 36/48 months, at 4.9% APR, monthly payment is $470.64/$401.46 for 60/72 months; cost of borrowing at 2.9% APR is $762.08/$1,133.48/$1,508.00/$1,886.60/$2,267.84 for 24/36/48/60/72 months, at 3.9% APR is $1,531.64/$2,041.28 over 36/48 months, at 4.9% APR is $3,238.40/$3,905.12 over 60/72 months; and total to be repaid at 2.9% APR is $25,762.08/$26,133.48/$26,508.00/$26,886.60/$27,267.84 over 24/36/48/60/72 months, at 3.9% APR is $26,531.64/$27,041.28 over 36/48 months, at 4.9% APR is $28,238.40/$28,905.12 over 60/72 months. Down payment on purchase financing offers may be required based on approved credit from Ford Credit Canada Company. See dealers for details and full eligibility requirements.</dd>
+<dt id="disclaimer108">108</dt>
+<dd id="cpoQualify">Ford: 108 To qualify for Certified Pre-Owned status, each previously owned Ford brand vehicle must be of 2013 to 2018 model year and have less than 120,000 kilometres on the odometer.</dd>
+<dt id="disclaimer109">109</dt>
+<dd id="qcCredit">
+The difference between the Canadian Black Book® Estimated Trade-In Value and any remaining balance owed (if any) by you on your trade in vehicle. Actual trade-in amount subject to dealer evaluation of your vehicle.
+</dd>
+<dt id="disclaimer110">110</dt>
+<dd id="androidAuto">Available feature. Don't drive while distracted. Use voice-operated systems when possible; don't use handheld devices while driving. Android Auto is available on 2017 models with SYNC 3; owners of 2016 models with SYNC 3 are required to perform a software upgrade. Requires phone with compatible version of Android Auto and active data service. SYNC does not control Android Auto while in use. Google is solely responsible for their functionality. Message and data rates may apply. Android Auto is a trademark of Google LLC.</dd>
+<dt id="disclaimer111">111</dt>
+<dd id="appleCarPlay">Available feature. Don't drive while distracted. Use voice-operated systems when possible; don't use handheld devices while driving. Apple CarPlay is available on 2017 models with SYNC 3; owners of 2016 models with SYNC 3 are required to perform a software upgrade and purchase a hardware upgrade. Requires phone with compatible version of Apple iOS and active data service. SYNC does not control CarPlay while in use. Apple is solely responsible for their functionality. Message and data rates may apply. iPad<sup>&reg;</sup>, iPod<sup>&reg;</sup>, iTunes<sup>&reg;</sup>, iPhone<sup>&reg;</sup>, Siri<sup>&reg;</sup> and Apple CarPlay<sup>&trade;</sup> are registered trademarks of Apple Inc.Registered in the U.S. and other countries.</dd>
+<dt id="disclaimer112">112</dt>
+<dd id="syncConnect"> FordPass Connect (formerly SYNC Connect) is an optional feature on select vehicles, and is required for certain features. FordPass Connect includes a 1-year subscription for remote features excluding Wi-Fi hotspot, starting with the vehicle sale date (after which, fees apply). Subscription is subject to compatible 4G network availability. Evolving technology/cellular networks may affect future functionality. Certain restrictions, 3rd-party terms, and/or message/data rates may apply.</dd>
+<dt id="disclaimer113">113</dt>
+<dd id="bestCelling">F-150 is the best-selling truck in Canada in 2016 based on Canadian Vehicle Manufacturers' Association statistical sales report, YTD September 2016. </dd>
+<dt id="disclaimer114">114</dt>
+<dd id="parkingAndFuel">Available in select cities. Some restrictions apply.</dd>
+<dt id="disclaimer115">115</dt>
+<dd id="roadsideAssistance">Roadside assistance is subject to your vehicle’s coverage and may not be available for all makes and models of vehicles.</dd>
+<dt id="disclaimer116">116</dt>
+<dd id="telematicsPoweredByTelogis">Ford Licensed Accessory. Subscriptions for data/reporting service sold by Telogis after 1-year period expires. Subscriptions governed by Telogis Customer Agreement; see www.telogis.com/ford or your local Ford dealer for details.</dd>
+<dt id="disclaimer122">122</dt>
+<dd id="superDutyBICTowing">Maximum towing capacity of 32,500 lbs. on 2017 F-450 DRW 4x4 with 6.7L V8 diesel engine. When properly equipped with available factory-installed equipment. Class is Full-Size Heavy Duty Pickups over 8,500 lbs. GVWR based on Ford segmentation.</dd>
+<dt id="disclaimer123">123</dt>
+<dd id="superDutyBICPayload">When properly equipped. Maximum payload of 7,630 lbs. on 2017 F-350 DRW 4x2 with 6.2L V8 gas engine. Class is Full-Size Heavy Duty Pickups over 8,500 lbs. GVWR based on Ford segmentation.</dd>
+<dt id="disclaimer124">124</dt>
+<dd id="f150loyalty"> Wi-Fi hotspot includes wireless data trial that begins at time of activation and expires at the end of 3 months or when 3GB of data is used, whichever comes first (after which, data plan required). </dd>
+<dt id="disclaimer125">125</dt>
+<dd id="wifiHotspot"> Additional data plan required. See dealer for details. Hotspot can connect up to 10 Wi-Fi-capable devices, using data from the additional data plan. Once a device connects, it can automatically reconnect and use data from this additional data plan unless hotspot is removed from returning device settings or hotspot password is changed. Performance varies based on number of devices connected and other factors.</dd>
+<dt id="disclaimer136">136</dt>
+<dd id="rsg136">Based on best-in-class horsepower, torque, towing, and payload ratings on 2018 Super Duty. When properly equipped. Maximum gas horsepower of 385 on with standard 6.2L V8 gas engine 6-speed automatic transmission configurations. Maximum diesel horsepower of 450 on with standard 6.7L V8 diesel engine 6-speed automatic transmission configurations. Maximum gas torque of 430 lb.-ft. on with standard 6.2L V8 gas engine configurations. Maximum diesel torque of 935 lb.-ft. with standard 6.7L V8 diesel engine 6-speed automatic transmission configurations. Maximum conventional towing capacity of 21,000 lbs. on F-350/F-450 DRW with 6.7L diesel engine configurations. Maximum payload of 7,630 lbs. on F-350 DRW Regular Cab 4x2 with 6.2L gas engine configurations. Class is Full-Size Pickups over 8,500 lbs. GVWR based on Ford segmentation.</dd>
+<dt id="disclaimer138">138</dt>
+<dd id="rsg138">Purchase a new 2018 EcoSport starting from $23,989. Taxes payable on full amount of purchase price after total manufacturer rebate has been deducted. Offers include freight and air tax of $1,890 but exclude PPSA (if financed or leased), administration and registration fees of up to $799, fuel fill charge of up to $120, optional features, license, insurance, and all applicable taxes. Prices based on Manufacturer's Suggested Retail Price.</dd>
+<dt id="disclaimer153">153</dt>
+<dd id="rsg153">Ford Certified Pre-Owned Comprehensive Limited Warranty coverage is provided for 12 months or 20,000 kilometres (whichever comes first) from the expiration of Ford New-Vehicle Bumper-to-Bumper Limited Warranty or the date of your Certified Pre-Owned vehicle purchase, whichever comes later. The coverage provided by the Ford Certified Pre-Owned Comprehensive Limited Warranty is not as extensive as that provided under the New-Vehicle Limited Warranty. See dealer for full details.</dd>
+<dt id="disclaimer161">161</dt>
+<dd id="rsg161">Claim that states Ford is Canada’s best-selling Automotive brand nine years in a row. From 2009 to 2017.</dd>
+<dt id="disclaimer162">162</dt>
+<dd id="rsg162">Offer available from January 3, 2018 to January 2, 2019 (the "Program Period"). The Ford Mobility Program offer ("Offer") is available to Canadian residents who are physically challenged and require adaptive driving aids or mobility assistance equipment (each an "Eligible Driver") who purchase or lease a new 2018 Ford Taurus, Transit Wagon/Van, Explorer, Fiesta, Expedition, Focus RS, Transit Connect, F-150 (excluding Raptor), F-250 to F-450 (excluding chassis cabs), Fusion, Edge, Mustang EcoBoost or GT (excluding GT350/GT500), Focus, C-MAX, Escape, Flex and EcoSport (each an "Eligible Vehicle"). 2017 model year vehicles may qualify as Eligible Vehicle, depending on available inventory - see dealer for details. In order to qualify for the Offer, the Eligible Vehicle must be: (a) purchased, leased, or factory ordered during the Program Period; (b) modified with qualifying adaptive driving aids or mobility assistance equipment (see dealer for complete list of qualifying modifications); (c) modified by an approved conversion company within 6 months of vehicle delivery; and (d) purchased and registered in the Eligible Driver's name. Eligible Driver must provide to dealer a record of their physically challenged condition in the form of a doctor's note or government certificate. Only one (1) Offer may be applied towards the purchase or lease of one (1) Eligible Vehicle, up to a maximum of two (2) separate Eligible Vehicle sales per Eligible Driver. Offer is raincheckable and can be used in conjunction with most retail consumer offers made available by Ford at either the time of factory order or delivery, but not both. Offer is not available on any vehicle receiving CPA, GPC, Daily Rental Allowance, Commercial Fleet Incentive Program (CFIP) or Commercial Upfit Incentives Program. Offer is available to individuals only, commercial enterprises and business entities are not eligible. See dealer for full details.</dd>
+<dt id="disclaimer163">163</dt>
+<dd id="rsg163">The Electric Vehicle Incentive (the "Incentive") is provided by the provincial government of Ontario. Ford Motor Company of Canada, Limited is not responsible for any changes to or cancellation of the Incentive and makes no representations about eligibility. The Incentive is applicable on eligible vehicles that are factory-ordered or in dealer inventory on or before July 11, 2018, provided that such vehicles are delivered to consumers, registered, and plated by September 10, 2018 and that the incentive application submitted within 90 days of vehicle registration and plating. For more information about the Incentive, please consult the provincial government of Ontario at http://www.mto.gov.on.ca/english/vehicles/electric/electric-vehicle-incentive-program.shtml. Rebate amount varies by eligible vehicle and payment option. The Incentive is applied after applicable taxes are calculated for Ontario. Certain conditions apply.</dd>
+<dt id="disclaimer164">164</dt>
+<dd id="rsg164">Until August 31, 2018, receive $7,990 in Total Ford Employee Price Adjustments with the purchase or lease of a new 2018 Fusion Energi SE Platinum. Total Ford Employee Price Adjustments are the combination of $3,990 in Employee Price Adjustment, and $4,000 in delivery allowance. See dealer for details. Employee Price adjustments are not combinable with CPA, GPC, CFIP, Daily Rental Allowance and A/X/Z/D/F-Plan programs. Delivery allowances are not combinable with any fleet consumer incentives.</dd>
+<dt id="disclaimer165">165</dt>
+<dd id="rsg165">Quebec-only offer. Get up to $9,500 / $8,000 in total rebates towards the purchase or lease a new 2018 Ford Focus Electric / 2018 Ford Fusion Energi. The total rebate includes up to $8,000 ($6,959 before taxes) government’s rebate and a $1,500 delivery allowance on the Focus Electric and up to $4,000 ($ 3,479 before taxes) government’s rebate and a $4,000 delivery allowance on the Fusion Energi. Delivery allowances are not combinable with any fleet consumer incentives. The government’s rebate is applicable on the purchase or lease of new 2017/2018 models. Visit the Quebec government website for all the details about government rebates at http://vehiculeselectriques.gouv.qc.ca/english/</dd>
+<dt id="disclaimer166">166</dt>
+<dd id="rsg166">2018 Mustang EcoBoost® Fastback starting from $28,839 (based on Manufacturer’s Suggested Retail Price, after Manufacturer Rebate of $2,000 deducted and includes Freight and Air Tax of $1,850). Taxes payable on full amount of purchase price after total manufacturer rebate has been deducted. Offers include freight and air tax but exclude PPSA (if financed or leased), administration and registration fees of up to $799, fuel fill charge of up to $120, optional features, license, insurance, and all applicable taxes. </dd>
+<dt id="disclaimer167">167</dt>
+<dd id="rsg167">If your vehicle is inoperative and must be kept overnight for a covered repair, including recalls involving a Ford Certified Pre-Owned Comprehensive Limited Warranty covered component, you will be reimbursed up to $30 per day (including tax) for up to five days or until repair is complete, whichever comes first.</dd>
+<dt id="disclaimer168">168</dt>
+<dd id="rsg168">Included concurrently with your Ford New Vehicle Limited Warranty and most Ford Extended Service Plans. Roadside assistance is available 24 hours a day, 365 days a year across Canada or the Continental U.S. Services are provided by Sykes Assistance Services Corporation. Services include: Flat tire change; Battery jump starts; Towing assistance up to $100; Lockout assistance; Out-of-fuel assistance; Travel expense; reimbursement up to $500 for up to three days' lodging, meals and rental vehicle for travel expenses accrued when the breakdown occurs 160 Kilometres or more from home; Destination assistance covers taxi, shuttle or rental car expense up to $75 for emergency transportation to the immediate destination. See dealer for full details.</dd>
+<dt id="disclaimer169">169</dt>
+<dd id="rsg169">Cash purchase a new 2018 EcoSport S starting from $22, 875. Offer includes freight and air tax of $1,890 but excludes variable charges of license, fuel fill charge, insurance, dealer PDI (if applicable), registration, administration fees, any environmental charges or fees, and all applicable taxes. All prices are based on Manufacturer's Suggested Retail Price. Dealer transfer may be required.</dd>
+<dt id="disclaimer170">170</dt>
+<dd id="rsg170">24 months/unlimited km limited warranty on select new or remanufactured Omnicraft parts and accessories that are found to be defective in material or workmanship. Failure due to normal wear is not covered. Parts and labour covered for 'dealer-installed' parts; parts only are covered for 'over-the-counter' retail parts; parts and labour (up to a maximum of $150) covered for wholesale and fleet customers. Part failure due to: abuse, misuse, neglect, alteration, accident, racing; improper lubrication, repair, or installation; use in applications for which they were either not designed, or functionally intended, or not approved by Ford Motor Company of Canada, Limited; cleaning, adjustment or replacement as a part of normal maintenance; or failures caused by non-Ford parts, are not covered under this warranty. Warranty applies to (i) original retail purchaser of dealer installed parts and (ii) original retail or fleet purchaser or wholesale purchaser of over-the-counter parts. Coverage varies between over-the-counter and dealer-installed parts. See your local Ford Store for complete coverage details and limitations.</dd>
+<dt id="disclaimer171">171</dt>
+<dd id="rsg171">Unlimited time and km limited warranty on select new or remanufactured Omnicraft parts and accessories that are found to be defective in material or workmanship. Failure due to normal wear is not covered. Parts and labour covered for 'dealer-installed' parts; parts only are covered for 'over-the-counter' retail parts; parts and labour (up to a maximum of $150) covered for wholesale and fleet customers. Part failure due to: abuse, misuse, neglect, alteration, accident, racing; improper lubrication, repair, or installation; use in applications for which they were either not designed, or functionally intended, or not approved by Ford Motor Company of Canada, Limited; cleaning, adjustment or replacement as a part of normal maintenance; or failures caused by non-Ford parts, are not covered under this warranty. Warranty applies to (i) original retail purchaser of dealer installed parts and (ii) original retail or fleet purchaser or wholesale purchaser of over-the-counter parts. Coverage varies between over-the-counter and dealer-installed parts. See your local Ford Store for complete coverage details and limitations.</dd>
+</dl>
+</div>
+</div>
+</div>
+<div id="footer" class="">
+<div id="globalnav-footer" class="ng-widget globalnav-footer "
+>
+<div class="copyright">&copy; 2019 Ford Motor Company</div>
+<ul class="global-links">
+<li class="first-of-type">
+<a href="http://www.ford.ca/help/sitemap/">Site Map</a>
+</li>
+<li ><a href="http://www.ford.ca/help/glossary/">Glossary</a></li>
+<li><a href="http://www.ford.ca/service/customerSupport/emailUs">Site Feedback</a></li>
+<li><a href="http://www.ford.ca/service/customerSupport/#Accessibility">Accessibility</a></li>
+<li><a href="http://www.ford.ca/service/customerSupport/">Contact Us</a></li>
+<li><a href="http://www.ford.ca/help/terms/">Terms &amp; Conditions</a></li>
+<li><a href="http://www.ford.ca/help/privacy/">Privacy</a></li>
+<li><a id="_bapw-link" href="javascript:void(0);" style="text-decoration:none !important"><span style="vertical-align:middle !important">AdChoices</span></a></li>
+</ul>
+<div id="badge" class="badge">
+<a href="http://www.ford.ca" class="logo">Go Further</a>
+</div>
+<script language="javascript" type="text/javascript" charset="windows-1252" src="http://www.ford.ca/ngtemplates/ngassets/com/forddirect/ng/opinionlab/oo_engine.js"></script>
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1044358187;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1044358187/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- End Google Code for Remarketing Tag -->
+<!-- Twitter universal website tag code -->
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">twttr.conversion.trackPid('nuvhz', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=nuvhz&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=nuvhz&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+</noscript>
+<!-- End Twitter universal website tag code -->
+<!--mp_easylink_begins-->
+<script type="text/javascript" id="mpelid"
+src="//fordofcanada.mpeasylink.com/mpel/mpel.js" async></script>
+<!--mp_easylink_ends-->
+<!-- Bing Begins -->
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5175566"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5175566&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
+<!-- Bing Ends -->
+<!--FOC-25652 start-->
+<div id="adchoices" style="display:none;width: 100%;position: fixed;top: 0;right: 0;bottom: 0;left: 0;height: 100%;z-index: 2147483647;margin-top: 0px;">
+<div style="-moz-opacity: .5;-khtml-opacity: .5;-webkit-opacity: .5;opacity: .5;filter: alpha(opacity=50);width: 100%;background-color: #000;height: 100%;margin-top: 0px;"></div>
+<div style="background-color: #fff;display:block;position: absolute;z-index: 2147483657;width: 950px;left: 0;top: 0;bottom: 0;right: 0;margin: 2px auto 0;opacity: 1;max-height: 100%;padding-bottom: 65px;">
+<div id="close" style="cursor: pointer;position:absolute;top: 0;right: 0;padding: 20px;">
+<span style="color: #1b394e;margin-right: 15px;font-size: 12px;font-family: 'ford-light';float: left;line-height: 1.42857;">Close</span>
+<span class="cross"></span>
+</div>
+<div>
+<h2 style="color: #666;font-family: 'ford-light';font-size: 30px;margin: 12px 45px 10px 12px;font-weight: 500;line-height: 1.1;">AdChoices</h2>
+</div>
+<div style="border-top: 1px solid #ddd;"></div>
+<div style="overflow: auto;height: 100%;">
+<iframe src="//info.evidon.com/pub_info/3120?v=1" style="width:100%;height: 97%;border: 0px;">
+</iframe>
+</div>
+</div>
+</div>
+<!--FOC-25652 end-->
+</div>
+</div>
+</div>
+</div>
+<div class="script-container" id="brand-home">
+<script type="text/javascript" src="http://www.ford.ca/ngtemplates/ngassets/com/forddirect/ng/newMetrics.js"></script>
+<script type="text/javascript" src="http://www.ford.ca/MetricsOutputJS.jsp?page=brand-home" ></script>
+<script type="text/javascript">
+function collectPageLoadMetrics(){
+oMetricsTracker.pageMetrics();
+}
+var WTDfireMetrics = new YAHOO.util.CustomEvent ( "onWTDfireMetrics")
+_instances.bsLoader.initCompleteEvent.subscribe(collectPageLoadMetrics);
+var dataset = {
+"available" : { "site.cpoServiceURL": "http://fordcpo.forddirectweb.com" , "site.views": { "baseURL": "http://www.ford.ca" , "urlParams": "" , "externalURL": "/" , "stylizedTextURL": "/services/stylizedtext/img.png?" } }
+,
+"selected" : { "getUpdatesFlip.params": { "guflip": "disabled" , "gutitle": "Get Updates" , "gumode": "email" } , "getUpdatesForm.futureVehicles": { "Focus ST": { "make": "Ford" , "model": "Focus ST" , "year": 2013 } , "C-MAX": { "make": "Ford" , "model": "C-MAX" , "year": 2013 } , "Fusion Hybrid": { "make": "Ford" , "model": "Fusion Hybrid" , "year": 2013 } } , "getUpdatesForm.province": { "AB": "AB" , "BC": "BC" , "MB": "MB" , "NB": "NB" , "NL": "NL" , "NS": "NS" , "NT": "NT" , "NU": "NU" , "ON": "ON" , "PE": "PE" , "QC": "QC" , "SK": "SK" , "YT": "YT" } , "getUpdatesForm.inputFields": { "gu-firstName": { "name": "get-updates-first-name" , "displayText": "First Name" , "mail": "necessary" , "email": "necessary" , "both": "necessary" , "errorMessage": "Please enter your first name." } , "gu-lastName": { "name": "get-updates-last-name" , "displayText": "Last Name" , "mail": "necessary" , "email": "necessary" , "both": "necessary" , "errorMessage": "Please enter your last name." } , "gu-email": { "name": "get-updates-email" , "displayText": "E-mail" , "mail": "necessary" , "email": "necessary" , "both": "necessary" , "errorMessage": "Please enter your e-mail address." } , "gu-companyName": { "name": "get-updates-company-name" , "displayText": "Company Name" , "mail": "notrequired" , "email": "notrequired" , "both": "notrequired" , "errorMessage": "Please enter your company name." } , "gu-ext": { "name": "get-updates-ext" , "displayText": "Ext" , "mail": "notrequired" , "email": "notrequired" , "both": "notrequired" , "errorMessage": "Please enter your Ext." } , "gu-timeToBuy": { "name": "get-updates-time-to-buy" , "displayText": "When do you plan to acquire your new vehicle?" , "mail": "optional" , "email": "optional" , "both": "optional" , "errorMessage": "Please exercise at least one option." } , "gu-selectVehicles": { "name": "get-updates-select-vehicles" , "displayText": "Select Vehicles" , "mail": "notrequired" , "email": "notrequired" , "both": "notrequired" , "errorMessage": "Please select information on at least one vehicle. (You may select up to three.)" } , "gu-terms": { "name": "get-updates-terms" , "displayText": "Privacy consent" , "mail": "notrequired" , "email": "notrequired" , "both": "notrequired" , "errorMessage": "Please accept the terms and conditions." } } , "make": "Ford" , "site.touchpoints": { "findadealer": { "id": "findadealer" , "description": "Find a Dealer" , "url": "http://www.ford.ca/dealerships/locate/results/" , "displaytext": "Find a Dealer" , "relationship": "offsite" } , "lincoln-customer-support": { "id": "lincoln-customer-support" , "description": "Lincoln customer support cross reference" , "url": "http://www.lincolncanada.com/service/customerSupport/" , "displaytext": "Lincoln Customer Support" , "relationship": "offsite" } , "safetyrecalls-deeplink-ford": { "id": "safetyrecalls-deeplink" , "description": "Recall Check Deep Link" , "url": "http://www.ford.ca/service/ourServices/safetyRecalls/?vin=%vin%" , "relationship": "offsite" } , "safetyrecalls-deeplink-lincoln": { "id": "safetyrecalls-deeplink" , "description": "Recall Check Deep Link" , "url": "http://www.lincolncanada.com/ownership-service/maintain-my-lincoln/safety-recalls/?vin=%vin%" , "relationship": "offsite" } } , "site.shoppingtools": { "budgetcalculator": { "id": "budgetcalculator" , "description": "Budget Calculator" , "url": "http://www.fordcredit.com/ford-finance-tools" , "displaytext": "Budget Calculator" , "relationship": "offsite" } , "getbrochures": { "id": "getbrochures" , "description": "Brochures" , "url": "http://shop.ford.ca/showroom?linktype=brochures" , "displaytext": "Brochures & Guides" , "relationship": "offsite" } , "paymentestimator": { "id": "paymentestimator" , "description": "Payment Estimator" , "url": "http://shop.ford.ca/showroom?linktype=estimatepayment" , "displaytext": "Estimate Your Payment" , "relationship": "offsite" } , "moreaboutleasing": { "id": "moreaboutleasing" , "description": "More About Leasing" , "url": "http://www.fordcredit.com/lease-a-ford" , "displaytext": "More About Leasing" , "relationship": "offsite" } , "buildandprice": { "id": "buildandprice" , "description": "Build & Price" , "url": "http://shop.ford.ca/showroom/?linktype=build" , "displaytext": "Build & Price" , "relationship": "offsite" } , "lincoln-afs-local": { "id": "lincoln-afs-local" , "description": "Lincoln Automotive Financial Services" , "url": "http://credit.lincolncanada.ca/" , "displaytext": "Lincoln Automotive Financial Services" , "relationship": "offsite" } , "getupdates": { "id": "getupdates" , "description": "Sign up for email updates" , "url": "http://www.ford.ca/?guflip=enabled" , "displaytext": "Get Updates" , "relationship": "get-updates-link" } , "searchdealerinventory": { "id": "searchdealerinventory" , "description": "Search Dealer Inventory" , "url": "http://shop.ford.ca/showroom?linktype=inventory" , "displaytext": "Search Dealer Inventory" , "relationship": "offsite" } , "incentivesandoffers": { "id": "incentivesandoffers" , "description": "Incentives & Offers" , "url": "http://www.ford.ca/region/national/" , "displaytext": "Incentives & Offers" , "relationship": "offsite" } , "scheduleatestdrive": { "id": "scheduleatestdrive" , "description": "Schedule a Test Drive" , "url": "http://www.ford.ca/test-drive/" , "displaytext": "Schedule a Test Drive" , "relationship": "offsite" } , "payoptions": { "id": "payoptions" , "description": "Payment Options" , "url": "http://www.fordcredit.com/how-to-pay" , "displaytext": "Payment Options" , "relationship": "offsite" } , "fcpaymentestimator": { "id": "fcpaymentestimator" , "description": "Estimate Your Payment" , "url": "http://www.fordcredit.com/ford-finance-tools" , "displaytext": "Estimate Your Payment" , "relationship": "offsite" } , "applycredit-nameplate": { "id": "applycredit-nameplate" , "description": "To Apply for Credit" , "url": "https://www.onlinevehiclefinancing.com/ovfui/fcovfui?ATD_SERVLET_ACTION=CA&ATD_SERVLET_PAGE_CLASS=AAExternal&WindowStyle=P&SourceOfData=FDV" , "displaytext": "To Apply for Credit" , "relationship": "offsite" } , "leaseendprocess": { "id": "leaseendprocess" , "description": "Lease End Process" , "url": "http://www.fordcredit.com/lease-end-process" , "displaytext": "Lease End Process" , "relationship": "offsite" } , "incentivesandoffersontario": { "id": "incentivesandoffersontario" , "description": "Incentives & Offers" , "url": "http://www.ford.ca/region/ontario/" , "displaytext": "Incentives & Offers" , "relationship": "offsite" } , "tradein": { "id": "tradein" , "description": "Trade-In Value" , "url": "http://www.ford.ca/trade-in/" , "displaytext": "Trade-In Value" } , "contactfordcredit": { "id": "contactfordcredit" , "description": "Contact Ford Credit" , "url": "http://www.fordcredit.com/contact-ford-credit" , "displaytext": "Contact Ford Credit" , "relationship": "offsite" } , "moreaboutflexbuy": { "id": "moreaboutflexbuy" , "description": "More About Flex Buy" , "url": "http://www.fordcredit.com/ford-payment-plans" , "displaytext": "More About Flex Buy" , "relationship": "offsite" } , "paymentestimatorflip": { "id": "paymentestimatorflip" , "description": "Payment Estimator Flip" , "url": "http://quickquotefoc.ford.ca/cc/loader.js?region=CA&id=spc&make=Ford" , "displaytext": "Estimate Your Payment" , "relationship": "offsite" } , "comparecompetition": { "id": "comparecompetition" , "description": "Compare Vehicles" , "url": "http://shop.ford.ca/showroom?linktype=compare" , "displaytext": "Compare Vehicles" , "relationship": "offsite" } , "moreaboutfinancing": { "id": "moreaboutfinancing" , "description": "More About Financing" , "url": "http://www.fordcredit.com/buy-a-ford" , "displaytext": "More About Financing" , "relationship": "offsite" } , "certifiedpreowned": { "id": "certifiedpreowned" , "description": "Certified Preowned" , "url": "http://www.ford.ca/certified-used/" , "displaytext": "Certified Pre-Owned" , "relationship": "offsite" } , "fordcreditservices": { "id": "fordcreditservices" , "description": "Ford Credit Services Page" , "url": "https://www.ford.ca/finance/" , "displaytext": "Ford Credit Canada" , "relationship": "offsite" } , "competitivecomparison": { "id": "competitivecomparison" , "description": "Compare Vehicles" , "url": "http://shop.ford.ca/showroom?linktype=compare" , "displaytext": "Compare Vehicles" } , "findadealer": { "id": "findadealer" , "description": "Find a Dealer" , "url": "http://www.ford.ca/dealerships/locate/results/" , "displaytext": "Find a Dealer" , "relationship": "offsite" } , "trucklanding": { "id": "trucklanding" , "description": "New Trucks" , "url": "http://www.ford.ca/new/trucks/" , "displaytext": "New Trucks" , "relationship": "offsite" } , "lincoln-afs": { "id": "lincoln-afs" , "description": "Lincoln Automotive Financial Services" , "url": "http://credit.lincoln.com" , "displaytext": "Lincoln Automotive Financial Services" , "relationship": "offsite" } , "showroom": { "id": "showroom" , "description": "Showroom" , "url": "http://showroomfoc.ford.ca/Showroom.jsp?branding=1&lang=en" , "displaytext": "Showroom" , "relationship": "offsite" } , "fordCreditCanada": { "id": "fordCreditCanada" , "description": "Ford Credit Canada" , "url": "https://www.onlinevehiclefinancing.com/ovfui/fcovfui?ATD_SERVLET_ACTION=SessionExpiredPage&ATD_SERVLET_PAGE_CLASS=SessionExpiredPage" , "displaytext": "Ford Credit Canada" , "relationship": "offsite" } , "lincoln-ovf": { "id": "lincoln-ovf" , "description": "Lincoln Automotive Financial Services" , "url": "https://www.onlinevehiclefinancing.com" , "displaytext": "Lincoln Automotive Financial Services" , "relationship": "offsite" } , "applycredit": { "id": "applycredit" , "description": "To Apply for Credit" , "url": "https://www.ford.ca/finance/online-credit-application" , "displaytext": "To Apply for Credit" , "relationship": "offsite" } } , "currentView": "brand-home" , "site.currentView": "brand-home" }
+,
+"site" : { "leadSubmission.baseURL": "http://www.ford.ca" , "secure.baseURLForLeadSubmission": "https://www.ford.ca" , "search.baseURLs": { "autocomplete": "/services/search-fordfoc/JSONTypeAheadServlet.do?N=0&Di=8124&Dk=1&Dx=rel+static(rank,descend)&Dn=0&D=" } , "assetsDir": "/ngtemplates/ngassets" , "baseURL": "http://www.ford.ca" , "domain": "ford.ca" }
+,
+"user" : { "userLanguage": "eng" }
+}
+;
+</script>
+</div>
+<!-- Begin: www.iperceptions.com -->
+<script type="text/javascript">
+(function (w, d, s, l) {
+function go() {
+var js,
+fjs = d.getElementsByTagName(s)[0],
+id = "IPerceptionsJS",
+a = "async",
+b = "defer";
+if(d.getElementById(id)) { return; }
+js = d.createElement(s);
+js.src = w.location.protocol + "//ips-invite.iperceptions.com/webValidator.aspx?sdfc=292a5f69-720-25962498-f9bd-4011-b94e-1198fa2f7472&lID=1&loc=STUDY&cD=90&rF=False&iType=1&domainname=0";
+//CHECK WHAT LANGUAGE THE SITE IS CURRENTLY USING AND USE APPROPRIATE SURVEY
+try {
+//CHECK MOTION POINT GLOBAL VARIABLE FOR LANGUAGE SETTING. IF DEFAULT LANGUAGE HASN'T BEEN CHANGED, ASSUME ENGLISH.
+if(MP.UrlLang === 'fr'){
+js.src = w.location.protocol + "//ips-invite.iperceptions.com/webValidator.aspx?sdfc=292a5f69-720-25962498-f9bd-4011-b94e-1198fa2f7472&lID=2&loc=STUDY&cD=90&rF=False&iType=1&domainname=0";
+}
+} catch(e) {
+log.error ( "Attempt to access site language failed.", e);
+}
+js.id = id;
+js.type = "text/javascript";
+js[a] = a;
+js[b] = b;
+fjs.parentNode.insertBefore(js, fjs);
+}
+var c = d.cookie;
+if(!(/(^|;)\s*IPE(_S_)?720=/.test(c))) {
+if (w.addEventListener) {
+w.addEventListener(l, go, false);
+} else if (w.attachEvent) {
+w.attachEvent("on" + l, go);
+}
+}
+}) (window, document, 'script', 'load');
+</script>
+<!-- End: www.iperceptions.com -->
+<script type="text/javascript">
+// this is a function because the s.pageName variable won't
+// exist until metrics has been initialized
+function opinionLabsCustomData(){
+return s.pageName;
+}
+</script>
+<script type="text/javascript">
+td_site.pricing.registerAllPrices([]);td_site.pricing.registerAllPlans([]);
+</script>
+<!-- Merged Library -->
+<script src="http://www.ford.ca/ngtemplates/ngassets/mergedassets/ford/skins/ford/library-aggregate.js"></script>
+<!-- Merged Templates -->
+<script src="http://www.ford.ca/ngtemplates/ngassets/mergedassets/ford/skins/ford/template-aggregate.js"></script>
+<script src="http://www.ford.ca/ngtemplates/ngassets/mergedassets/ford/views/brand-home/template-aggregate.js"></script>
+<script type="text/javascript">
+YAHOO.util.Event.onDOMReady( function(){
+try {
+_instances.bsLoader.init();
+} catch(e) {
+log.error(e);
+}
+} ) ;
+</script>
+<script type="text/javascript">
+// jQuery(window).load(function() {
+// jQuery.ajax(
+// //"http://social.ford.com/wp-content/themes/insider/global_bar/globalbar.js?src=001",
+// "http://social.ford.com/wp-content/themes/insider/global_bar/globalbar.js?src=001",
+// {
+// cache: true,
+// dataType: "script"
+// }
+// );
+// });
+</script>
+<script type="text/javascript">
+function dartClickEvent(id,url){
+//these are for nav items
+var dartmetrics = "";
+var bOldmetrics = false;
+if(typeof oMetricsTracker === "undefined"){
+bOldmetrics = true;
+dartmetrics = ngbsMetricsTracker;
+}else{
+dartmetrics = oMetricsTracker;
+}
+switch(id){
+case "applyforcredit":
+try{
+dartTracker.trackEventOnClick("credapp", dartmetrics.nameplate(), 1, dartmetrics.getBrandType(), dartmetrics.revealNameplate());
+if(bOldmetrics){
+dartmetrics.applyForCreditFooterLinkMetrics();
+}else{
+dartmetrics.trackMicroData("applyForCreditFooterLink");
+}
+}catch(ee){}
+break;
+default:
+break;
+}
+document.location = url;
+}
+</script>
+<script type="text/javascript">
+jQuery(window).load(function() {
+jQuery.ajax(
+"http://www.ford.ca/ngtemplates/ngassets/com/forddirect/ng/opinionlab/oo_engine.js",
+{
+cache: true,
+dataType: "script"
+}
+);
+});
+</script>
+<script language="javascript" src="//www.everestjs.net/static/st.js"></script>
+<!-- Lightning Bolt Begins -->
+<script type="text/javascript">
+var lbTrans = '[TRANSACTION ID]';
+var lbValue = '[TRANSACTION VALUE]';
+var lbData = '[Attribute/Value Pairs for Custom Data]';
+var lb_rn = new String(Math.random()); var lb_rns = lb_rn.substring(2, 12);
+var boltProtocol = ('https:' == document.location.protocol) ? 'https://' : 'http://';
+try {
+var newScript = document.createElement('script');
+var scriptElement = document.getElementsByTagName('script')[0];
+newScript.type = 'text/javascript';
+newScript.id = 'lightning_bolt_' + lb_rns;
+newScript.src = boltProtocol + 'b3.mookie1.com/2/LB/' + lb_rns + '@x96?';
+scriptElement.parentNode.insertBefore(newScript, scriptElement);
+scriptElement = null; newScript = null;
+} catch (e) { }
+</script>
+<!-- Lightning Bolt Ends -->
+</body>
+<!--
+Diagnostics
+fordvehiclesfocb_2
+Wed Jul 31 00:17:12 EDT 2019
+-->
+</html>

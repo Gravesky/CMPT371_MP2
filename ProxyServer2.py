@@ -8,13 +8,14 @@ if len(sys.argv) <= 1:
 # Create a server socket, bind it to a port and start listening
 tcpSerSock = socket(AF_INET, SOCK_STREAM)
 # Fill in start
-tcpSerSock.bind(('127.0.0.1',8888))
+PT = 12000
+tcpSerSock.bind(('127.0.0.1',PT))
 tcpSerSock.listen(1)
 # Fill in end
 
 while 1:
         # Strat receiving data from the client
-        print('Ready to serve...')
+        print('Ready to serve...',PT)
         tcpCliSock, addr = tcpSerSock.accept()
         print('Received a connection from:', addr)
         # Fill in start
@@ -34,6 +35,7 @@ while 1:
                         # Check wether the file exist in the cache
                         f = open(filetouse[1:], "r")                      
                         outputdata = f.readlines()
+                        print("-------------------------------------------------------------CACHE HIT--------------------------------------------------------------\n")
                         print("outputdata >>> \n")
                         print(outputdata)
                         print("\n---the end ---\n")
@@ -58,6 +60,7 @@ while 1:
 
                 # Error handling for file not found in cache
                 except IOError:
+                        print("-------------------------------------------------------------NOT IN CACHE--------------------------------------------------------------\n")
                         if fileExist == "false": 
                                 # Create a socket on the proxyserver
                                 c = socket(AF_INET, SOCK_STREAM)# Fill in start
@@ -107,7 +110,7 @@ while 1:
                                 #tcpCliSock.send("Content-Type:text/html\r\n")
                                 # Fill in end
         except:
-                print(">>> message is empty? <<< here is the message ---> ",message, "\n")
+                print(">>>ERROR CHECK THE MSG<<< here is the message ---> ",message, "\n")
         
         # Close the client and the server sockets    
         tcpCliSock.close() 

@@ -1,0 +1,695 @@
+HTTP/1.0 200 OK
+Server: shield
+Date: Wed, 31 Jul 2019 04:06:13 GMT
+Content-Type: text/html
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Cache-Control: : max-age=60
+X-Shield-Request-Id: f4ec8020fed30664f5311af43e4719fd
+Via: 1.1 google
+
+﻿
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Cache-control" content="max-age=60">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="Expires" content="Tue, 20 Aug 1996 14:25:27 GMT">
+<meta http-equiv="refresh" content="900">
+
+<title>minghui.org 法轮大法明慧网|法轮功真相大全</title>
+<meta name="keywords" content="明慧网,法轮功,法轮大法,李洪志,第一手迫害报导,修炼,真相期刊,真相广播,minghui.org,Falun Gong,Falun Dafa,Li Hongzhi,persecution,truth">
+<meta name="description" content="法轮大法明慧网成立于九九年六月。明慧网的主旨在于用来自中国大陆的第一手资料，揭露中共对法轮功的迫害，讲清法轮功真相，弥补迫害给大陆大法弟子修炼环境带来的损失。为反迫害、讲真相、福益有缘，明慧网在大陆法轮功学员中建立了广泛的信息渠道，每天提供迫害真相、法轮功学员的修炼心得、海外报道、报纸期刊广播电视及多语种明慧网等等真相信息。">
+
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="/pub/cmh2015/master.css?v=20190725" />
+<link rel="stylesheet" type="text/css" href="/pub/p7pmm/p7PMMh04.css" />
+<link rel="stylesheet" type="text/css" href="/pub/p7hgm/p7hgm04.css" />
+<link rel="stylesheet" type="text/css" href="/pub/p7irm/p7IRM01.css" />
+<link rel="stylesheet" type="text/css" href="/pub/cmh2015/css/liquidcarousel.css" />
+<script type="text/javascript" src="/pub/scripts/swfobject.js"></script>
+<script type="text/javascript" src="/pub/p7pmm/p7PMMscripts.js"></script>
+<script type="text/javascript" src="/pub/p7hgm/p7HGMscripts.js"></script>
+<script type="text/javascript" src="/pub/p7irm/p7IRMscripts.js"></script>
+<script type="text/javascript" src="/pub/cmh2015/js/jquery-1.8.2.js"></script>
+<script type="text/javascript" src="/pub/cmh2015/js/jquery-ui-1.9.0.custom.min.js"></script>
+<script type="text/javascript" src="/pub/cmh2015/js/jquery-ui-tabs-rotate.js"></script>
+<script type="text/javascript" src="/pub/cmh2015/js/jquery.liquidcarousel.js"></script>
+
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		$("#fp_feature").tabs({fx:{opacity: "toggle"}}).tabs("rotate", 8000, true);
+	});
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "https://www.minghui.org/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "http://search.minghui.org/cgi-bin/search.php?str={search_term}",
+    "query-input": "required name=search_term"
+   }
+}
+</script>
+</head>
+<body>
+<div id="master_container">
+	<div id="content">
+		<div id="fp_date">2019年07月30日 星期二 &nbsp;己亥年六月廿八日&nbsp;&nbsp;（<a href="http://search.minghui.org/appx/gb/wnl.aspx">万年历</a>）</div>
+
+		<div id="fp_container1">
+			
+<!-- ############################################################################################################################################################# -->
+			<div id="fp_container1_1">
+				
+				<div id="fp_feature">
+					<div id="fragment-1" class="ui-tabs-panel" style=""><a href="/mh/articles/2019/7/30/佛州法轮大法交流会召开-390811.html"  target="_blank"><img src="/mh/article_images/2019-7-29-florida-fahui-2019_f.jpg" alt="佛州法轮大法交流会召开" /></a><div class="info"><a href="/mh/articles/2019/7/30/佛州法轮大法交流会召开-390811.html"  target="_blank"><h1>佛州法轮大法交流会召开</h1></a><a href="/mh/articles/2019/7/30/佛州法轮大法交流会召开-390811.html"><h2></h2></a><a href="/mh/articles/2019/7/30/佛州法轮大法交流会召开-390811.html"  target="_blank"><p>七月二十日，在法轮功反迫害的第二十周年之际，来自佛罗里达各地的部份法轮功学员聚集在奥兰多市，召开了二零一九年佛罗里达州法轮大法法会。十八位新老法轮功学员在法会上交流了自己的修炼心得。</p></a></div></div><div id="fragment-2" class="ui-tabs-panel" style=""><a href="/mh/articles/2019/7/29/加政要呼吁禁止迫害人权者入境-390761.html"  target="_blank"><img src="/mh/article_images/2019-7-29-canada-supports_f.jpg" alt="加政要呼吁禁止迫害人权者入境" /></a><div class="info"><a href="/mh/articles/2019/7/29/加政要呼吁禁止迫害人权者入境-390761.html"  target="_blank"><h1>加政要呼吁禁止迫害人权者入境</h1></a><a href="/mh/articles/2019/7/29/加政要呼吁禁止迫害人权者入境-390761.html"  target="_blank"><p>在加拿大有很多一直支持法轮功学员反迫害的政要，呼吁加拿大禁止迫害人权者入境，支持惩罚迫害责任人的措施。</p></a></div></div><div id="fragment-3" class="ui-tabs-panel" style=""><a href="/mh/articles/2019/7/28/德国学员在音乐节上讲真相-媒体报道-390730.html"  target="_blank"><img src="/mh/article_images/2019-7-28-germany-bayreuther-festspiele_f.jpg" alt="德国学员在音乐节上讲真相 媒体报道" /></a><div class="info"><a href="/mh/articles/2019/7/28/德国学员在音乐节上讲真相-媒体报道-390730.html"  target="_blank"><h1>德国学员在音乐节上讲真相 媒体报道</h1></a><a href="/mh/articles/2019/7/28/德国学员在音乐节上讲真相-媒体报道-390730.html"><h2></h2></a><a href="/mh/articles/2019/7/28/德国学员在音乐节上讲真相-媒体报道-390730.html"  target="_blank"><p>七月二十五日是德国著名的古典音乐节——拜罗伊特歌剧节的开幕式。从这天到二十八日（周日），法轮功学员们在拜罗伊特古城的步行街的广场上搭起了真相点。</p></a></div></div><div><ul class="ui-tabs-nav"><li class="ui-tabs-nav-item" id="nav-fragment-1"><a href="#fragment-1"><img src="/mh/article_images/2019-7-29-florida-fahui-2019_f.jpg" alt="佛州法轮大法交流会召开" /></a></li><li class="ui-tabs-nav-item" id="nav-fragment-2"><a href="#fragment-2"><img src="/mh/article_images/2019-7-29-canada-supports_f.jpg" alt="加政要呼吁禁止迫害人权者入境" /></a></li><li class="ui-tabs-nav-item" id="nav-fragment-3"><a href="#fragment-3"><img src="/mh/article_images/2019-7-28-germany-bayreuther-festspiele_f.jpg" alt="德国学员在音乐节上讲真相 媒体报道" /></a></li></ul></div>
+				<!-- end of #fp_feature --></div>
+				
+<!-- ============================================================================================================================================================= -->
+				<div class="fp_navigation">
+					<a href="/mh/articles/2019/7/30/todaynews.html">浏览全部今日文章</a>&nbsp;|
+					<a href="/mh/articles/2019/7/29/" title="前一天"><div class="bCalendar_arrow"><img class="arrow_left_active" src="/images/arrow_set4_15x15.gif" /></div></a><a href="/mh/2019.html">按日浏览</a><div class="bCalendar_arrow"><img class="arrow_right_disabled" src="/images/arrow_set4_15x15.gif" /></div>
+				</div>
+				<div id="fp_todaynews">
+				
+						<div id="fp_todaynews_xinwen_shishi_title">
+							<div><a href="/mh/articles/2019/7/30/todaynews.html"><img src="/pub/cmh2015/images/todaynews_text_xinwen_shishi.png" /></a></div>
+						</div>
+						<div id="fp_todaynews_greetings">
+							<ul>
+								<li><a href="/mh/articles/2019/7/30/反迫害二十年-佛州法轮功学员烛光夜悼（图）-390812.html" title="反迫害二十年　佛州法轮功学员烛光夜悼（图）2019年07月30日" target="_blank"><img src="/mh/article_images/2019-7-30-mh-florida-720_f.jpg" /><h1>反迫害二十年　佛州法轮功学员烛光夜悼（图）</h1><p>法轮功学员聚集在奥兰多市中心的伊奥拉湖畔，点燃蜡烛，悼念那些因坚持信仰而被中共酷刑折磨致死的法轮功学员，要求中共停止迫害法轮功。</p></a></li><li><a href="/mh/articles/2019/7/30/七二零反迫害-希腊法轮功学员讲真相（图）-390810.html" title="七二零反迫害　希腊法轮功学员讲真相（图）2019年07月30日" target="_blank"><img src="/mh/article_images/2019-7-30-mh-greek-athens_f.jpg" /><h1>七二零反迫害　希腊法轮功学员讲真相（图）</h1><p>七月十九日，希腊法轮功学员聚集在雅典的宪法中心广场，揭露中共对法轮功长达二十年的迫害。了解真相的民众一个接一个地问道：“我们如何能帮忙？”</p></a></li><li><a href="/mh/articles/2019/7/30/“还我母亲”（图）-390809.html" title="“还我母亲”（图）2019年07月30日" target="_blank"><img src="/mh/article_images/2019-7-30-mh-meng-hong_f.jpg" /><h1>“还我母亲”（图）</h1><p>我叫李雪松，母亲叫孟红。7月26日下午7点左右，黑龙江女子监狱突然给我的家人打来电话，说孟红血压升高，心脏出现问题，准备钱到哈尔滨医大二院交抢救费。</p></a></li><li><a href="/mh/articles/2019/7/30/医院拍片显示保定看守所涉嫌药物迫害孔红云致死-390828.html" title="医院拍片显示保定看守所涉嫌药物迫害孔红云致死2019年07月30日" target="_blank"><img src="/mh/article_images/2019-6-19-mh-konghongyun-f.jpg" /><h1>医院拍片显示保定看守所涉嫌药物迫害孔红云致死</h1><p>保定市法轮功学员孔红云1月2日给一个学生模样的人讲真相，遭其恶告，被警察绑架，被非法关押在保定看守所，6月12日身亡。</p></a></li><li><a href="/mh/articles/2019/7/30/广东肇庆市余浩辉被绑架-一家老小失去支柱-390802.html" title="广东肇庆市余浩辉被绑架　一家老小失去支柱2019年07月30日" target="_blank"><img src="/mh/article_images/2010-9-26-featurephotos-32--ss.jpg" /><h1>广东肇庆市余浩辉被绑架　一家老小失去支柱</h1><p>广东肇庆市高要区法轮功学员余浩辉七月三日被绑架，被非法关押至今已经近一个月了，家人多次奔走无法见面，不知他是否平安。</p></a></li><li><a href="/mh/articles/2019/7/30/广州市警察非法抓捕多位八旬老人-390830.html" title="广州市警察非法抓捕多位八旬老人2019年07月30日" target="_blank"><img src="/mh/article_images/2019-7-29-mh-guangzhou-elder-f.jpg" /><h1>广州市警察非法抓捕多位八旬老人</h1><p>广州市公安局公共交通分局7月绑架了八名法轮功学员，其中六人年近八旬。黄沙站派出所5月13日对他们立案，7月9日、10日实施绑架。</p></a></li><li><a href="/mh/articles/2019/7/30/七月份四川省法轮功学员被迫害情况-390803.html" title="七月份四川省法轮功学员被迫害情况2019年07月30日" target="_blank"><img src="/mh/article_images/2013-5-4-2010-9-4-pohai-feature.gif" /><h1>七月份四川省法轮功学员被迫害情况</h1><p>今年七月份以来，短短的二十多天，四川省多地发生了对法轮功学员的大规模绑架、非法抄家、骚扰，非法关押等恶性行为，而且迫害至今还在持续。</p></a></li><li><a href="/mh/articles/2019/7/30/原甘肃酒泉监狱六监区的罪恶-390754.html" title="原甘肃酒泉监狱六监区的罪恶2019年07月30日" target="_blank"><img src="/mh/article_images/2010-9-26-featurephotos-44--ss.jpg" /><h1>原甘肃酒泉监狱六监区的罪恶</h1><p>甘肃省酒泉监狱六监区二零零九年前是一个农业监区，地点在城郊酒泉至金塔公路三公里处，是迫害法轮功最邪恶的监区。</p></a></li><li><a href="/mh/articles/2019/7/30/重庆女子劳教所残酷迫害法轮功学员综述（三）-389980.html" title="重庆女子劳教所残酷迫害法轮功学员综述（三）2019年07月30日" target="_blank"><img src="/mh/article_images/2013-12-30-非法监禁3.jpg" /><h1>重庆女子劳教所残酷迫害法轮功学员综述（三）</h1><p>以下是从一九九九年至二零一三年被非法关押在重庆女子劳教所的其他591名法轮功学员遭迫害简况：</p></a></li><li><a href="/mh/articles/2019/7/30/山东招远市国保大队副大队长王玉成恶行-390801.html" title="山东招远市国保大队副大队长王玉成恶行2019年07月30日" target="_blank"><img src="/mh/article_images/2016-1-23-erenbang-1.jpg" /><h1>山东招远市国保大队副大队长王玉成恶行</h1><p>王玉成在北京武警部队当兵提干，2008年转业到招远公安局玲珑分局，之后调入招远国保大队，现任国保大队副大队长，专门负责迫害法轮功。</p></a></li><li><a href="/mh/articles/2019/7/30/辽宁省开原市国保大队长王义绑架、勒索法轮功学员-390805.html" title="辽宁省开原市国保大队长王义绑架、勒索法轮功学员2019年07月30日" target="_blank"><img src="/mh/article_images/2013-12-12-illegal-detain.jpg" /><h1>辽宁省开原市国保大队长王义绑架、勒索法轮功学员</h1><p>二零一九年以来，辽宁省开原市国保大队长王义，带领警察多次绑架、骚扰和勒索法轮功学员，强逼他们写“不炼功的保证”，</p></a></li><li><a href="/mh/articles/2019/7/30/江苏连云港市公安局新浦分局局长孙晓兵遭恶报-390760.html" title="江苏连云港市公安局新浦分局局长孙晓兵遭恶报2019年07月30日" target="_blank"><img src="/mh/article_images/2013-5-22-punishment1_grim_reaper_lightning.jpg" /><h1>江苏连云港市公安局新浦分局局长孙晓兵遭恶报</h1><p>江苏省连云港市连云区政府副区长、市公安局连云分局党委书记、局长、督察长孙晓兵，涉嫌严重违纪违法，目前正被纪律审查和监察调查。</p></a></li><li><a href="/mh/articles/2019/7/30/破相的她容貌恢复如初-390173.html" title="破相的她容貌恢复如初2019年07月30日" target="_blank"><img src="/mh/article_images/2013-8-6-xiulian_chuan_shenqi.png" /><h1>破相的她容貌恢复如初</h1><p>我地有位女同修，容貌较好，二零一八年上半年，她不幸被车撞了，当时不省人事，整个脸被撞伤得很厉害，嘴巴成了“兎子嘴”，眼珠子都快掉出来了，等于毁了容。送去医院抢救，缝了无数针，头肿得很大。</p></a></li><li><a href="/mh/articles/2019/7/30/仅四天，胸膜结核钙化、积水消失-388864.html" title="仅四天，胸膜结核钙化、积水消失2019年07月30日" target="_blank"><img src="/mh/article_images/2018-1-22-qubingjianshen-1.jpg" /><h1>仅四天，胸膜结核钙化、积水消失</h1><p>二零零三年，儿子中专毕业，要去当兵。体检前，儿子先到当地卫生所自检了一下，没想到竟检查出患有胸膜结核……</p></a></li><li><a href="/mh/articles/2019/7/30/学大法做好人-家人跟着变-389365.html" title="学大法做好人　家人跟着变2019年07月30日" target="_blank"><img src="/mh/article_images/2010-9-26-featurephotos-05--ss.jpg" /><h1>学大法做好人　家人跟着变</h1><p>我家开个小卖部，在修大法前，真相册子我也看了几回，但看不懂。后来有一个大姐常到我店买东西，她的皮肤白里透红、光滑细嫩，引起我的注意，我问她：“你用什么化妆品皮肤这么好？”她说：“我不用化妆品，我炼法轮功。”</p></a></li><li><a href="http://www.mhradio.org/showprogram/8512.html" title="明慧广播：天音净乐 第430集 2019年07月30日" target="_blank"><img src="/mh/article_images/2013-3-24-minghui-radio.jpg" /><h1>明慧广播：天音净乐 第430集 </h1><p>音乐：希望的光芒<br>歌曲：迷中醒<br>音乐：正道行</p></a></li>
+							</ul>
+							<div class="more_articles_right_xinwenshishi"><a href="/mh/articles/2019/7/30/todaynews.html"><img src="/pub/cmh2015/images/more_articles.png" /></a></div>
+						<!-- end of $fp_todaynews_greetings --></div>
+					<!-- Display Greetings -->
+					
+					<div id="fp_todaynews_xiulian_jiaoliu_title">
+						<div><a href="/mh/articles/2019/7/30/todaynews.html"><img src="/pub/cmh2015/images/todaynews_text_xiulian_jiaoliu.png" /></a></div>
+					</div>
+					<div id="fp_todaynews_xiulian_jiaoliu">
+						<ul>
+							<li><a href="/mh/articles/2019/7/30/珍惜每一个修炼提高的机会-390680.html" title="珍惜每一个修炼提高的机会2019年07月30日" target="_blank"><img src="/mh/article_images/2010-9-26-featurephotos-06--ss.jpg" /><h1>珍惜每一个修炼提高的机会</h1><p>师父明示：“告诉你一个真理：整个人的修炼过程就是不断的去人的执著心的过程。”最近我有一种感觉，修炼到最后了，面对不同的状况时，如果能抓住每个机会修自己都能提高一步，不然机会一过就很可惜。</p></a></li><li><a href="/mh/articles/2019/7/30/在外地推广神韵-救有缘的众生-390681.html" title="在外地推广神韵　救有缘的众生2019年07月30日" target="_blank"><img src="/mh/article_images/2010-9-26-featurephotos-06--ss.jpg" /><h1>在外地推广神韵　救有缘的众生</h1><p>我于一九九七年在长春和家人一起得法，目前在魁北克城的大学就读MBA。现将今年在墨西哥帮忙推广神韵的修炼心得与同修分享交流，希望能够互相提醒借鉴，共同精進。</p></a></li><li><a href="/mh/articles/2019/7/30/信师信法-390682.html" title="信师信法2019年07月30日" target="_blank"><img src="/mh/article_images/2010-9-26-featurephotos-06--ss.jpg" /><h1>信师信法</h1><p>转眼间，步入大法修炼已经八年，对于修炼的理解也随着时间发生变化。近期在一些过关的过程中，以前对法理解模糊的地方，慢慢的，或是突然的，变清晰了；有些我自认为是比较深的执着心结，在某个不经意的瞬间被打开了。</p></a></li><li><a href="/mh/articles/2019/7/30/在看守所讲真相的一些往事-389760.html" title="在看守所讲真相的一些往事2019年07月30日" target="_blank"><img src="/mh/article_images/2013-2-3-guangchuan-zhenxiang-2.jpg" /><h1>在看守所讲真相的一些往事</h1><p>二零一五年夏，我与几个同修正在交流时被绑架。被关押在看守所期间，针对公安局、检察院人员的提问，我零口供，不签字。在法庭上，我拒绝回答公诉人的提问。最后我被非法判一年半。这一年半是在看守所度过的。</p></a></li><li><a href="/mh/articles/2019/7/30/当主角-律师配合反迫害-389996.html" title="当主角　律师配合反迫害2019年07月30日" target="_blank"><img src="/mh/article_images/2013-5-3-minghui_cultivation_feature_flat.png" /><h1>当主角　律师配合反迫害</h1><p>律师是一个群体，我们要利用聘请律师的机会，向更多的律师讲真相。在与律师接触过程中，要让律师看到大法弟子的风范，穿着和言谈举止要得体，符合大法的标准。律师是常人，我们不能用我们的标准来要求他们。<br></p></a></li><li><a href="http://www.mhradio.org/showprogram/8514.html" title="明慧广播：明慧周刊 915期 2/22019年07月30日" target="_blank"><img src="/mh/article_images/2011-2-5-plum-flower-02.jpg" /><h1>明慧广播：明慧周刊 915期 2/2</h1><p>浅谈为同修负责<br>无私方可彻底否定旧势力<br>名利皆为试金石<br>忆师恩 再精進</p></a></li><li><a href="http://www.mhradio.org/showprogram/8513.html" title="明慧广播：修炼故事（64）2019年07月30日" target="_blank"><img src="/mh/article_images/2011-2-5-plum-flower-02.jpg" /><h1>明慧广播：修炼故事（64）</h1><p>故事的主人公是一位“八零后”。当今的“八零后”，家庭物质条件都比较好，又多是独生子女，从小没吃过苦，大多是在父母的宠爱下长大。</p></a></li><li><a href="/mh/articles/2019/7/30/在协调中修自己-388243.html" title="在协调中修自己2019年07月30日" target="_blank"><img src="/mh/article_images/2013-5-3-cultivation_feature1.png" /><h1>在协调中修自己</h1><p>在慈悲伟大的师尊保护下，走过了二十多年的修炼道路，在今天的助师正法中，大法弟子应该具有自觉协调的整体意识与为法负责、为众生负责的责任感，这是每一位大法弟子都应具有的素质。</p></a></li><li><a href="/mh/articles/2019/7/30/法中提高-走过家庭魔难-377853.html" title="法中提高　走过家庭魔难2019年07月30日" target="_blank"><img src="/mh/article_images/2013-5-3-cultivation_feature1.png" /><h1>法中提高　走过家庭魔难</h1><p>早上炼完五套功法，发完正念，有时再学一会法，六点半左右，我走出卧室。这时，丈夫早就熬好了粥做好了饭，间或还炒个菜，就等我出来开饭呢。看到丈夫今天的变化，我真的是感慨万千……</p></a></li><li><a href="/mh/articles/2019/7/30/医生说“就几个月”-丈夫一直活着已十多年-389758.html" title="医生说“就几个月”　丈夫一直活着已十多年2019年07月30日" target="_blank"><img src="/mh/article_images/2013-8-6-xiulian_chuan_shenqi.png" /><h1>医生说“就几个月”　丈夫一直活着已十多年</h1><p>我是二零零一年左右得法的，虽然修的有些不精進，但是在我身上及家庭中发生了好些神奇的事，见证了大法的伟大。</p></a></li><li><a href="/mh/articles/2019/7/30/师父救了我和两个孩子-389933.html" title="师父救了我和两个孩子2019年07月30日" target="_blank"><img src="/mh/article_images/2013-8-6-xiulian_chuan_shenqi.png" /><h1>师父救了我和两个孩子</h1><p>我母亲是修炼法轮功已有二十年的老弟子了。修炼大法前，母亲曾患多种疾病，每天疲惫不堪，心情低落，脾气暴躁，经常打骂我。炼功后，她就象变了一个人。</p></a></li><li><a href="http://www.mhradio.org/showprogram/8515.html" title="明慧广播：明慧周刊 915期 1/22019年07月30日" target="_blank"><img src="/mh/article_images/2011-2-5-plum-flower-02.jpg" /><h1>明慧广播：明慧周刊 915期 1/2</h1><p>师尊新经文《致加拿大法会》已在明慧网刊登<br>反迫害二十年　法轮功学员继续呼唤正义良知、各界支持<br>中国大陆学员近期遭迫害案例<br>海外学员证实大法、讲真相摘要</p></a></li>
+						</ul>
+						<div class="more_articles_right"><a href="/mh/articles/2019/7/30/todaynews.html"><img src="/pub/cmh2015/images/more_articles.png" /></a></div>
+					<!-- end of $fp_todaynews_xiulian_jiaoliu --></div>
+				
+					
+				<!-- end of #fp_todaynews --></div>
+<!-- ============================================================================================================================================================= -->
+				<div id="fp_categories">
+					<div class="bgNewsByCategory_tm"></div>
+					<div class="bgNewsByCategory_mm">
+						<div id="fp_readybycategory_title">
+							<div><a href="/mh/articles/2019/7/30/todaynews.html"><img src="/pub/cmh2015/images/todays_news_fenlanyuedu.png" /></a></div>
+						</div>
+
+
+						<!-- 1: DaLuXiaoXi / HaiWaiZhiChuang-->
+
+						<div class="bNewsByCategory_content_l">
+							<div class="bNewsByCategory_header"><a href="/mh/fenlei/72/"><img src="/pub/cmh2015/images/category_text_dalu_xiaoxi.png" /></a></div>
+							<ul><li><a href="/mh/articles/2019/7/30/“还我母亲”（图）-390809.html" title="“还我母亲”（图） 2019年07月30日"  target="_blank">“还我母亲”（图）</a></li><li><a href="/mh/articles/2019/7/30/医院拍片显示保定看守所涉嫌药物迫害孔红云致死-390828.html" title="医院拍片显示保定看守所涉嫌药物迫害孔红云致死 2019年07月30日"  target="_blank">医院拍片显示保定看守所涉嫌药物迫害孔红云致死</a></li><li><a href="/mh/articles/2019/7/30/广东肇庆市余浩辉被绑架-一家老小失去支柱-390802.html" title="广东肇庆市余浩辉被绑架　一家老小失去支柱 2019年07月30日"  target="_blank">广东肇庆市余浩辉被绑架　一家老小失去支柱</a></li><li><a href="/mh/articles/2019/7/30/广州市警察非法抓捕多位八旬老人-390830.html" title="广州市警察非法抓捕多位八旬老人 2019年07月30日"  target="_blank">广州市警察非法抓捕多位八旬老人</a></li><li><a href="/mh/articles/2019/7/30/七月份四川省法轮功学员被迫害情况-390803.html" title="七月份四川省法轮功学员被迫害情况 2019年07月30日"  target="_blank">七月份四川省法轮功学员被迫害情况</a></li><li><a href="/mh/articles/2019/7/30/原甘肃酒泉监狱六监区的罪恶-390754.html" title="原甘肃酒泉监狱六监区的罪恶 2019年07月30日"  target="_blank">原甘肃酒泉监狱六监区的罪恶</a></li><li><a href="/mh/articles/2019/7/30/重庆女子劳教所残酷迫害法轮功学员综述（三）-389980.html" title="重庆女子劳教所残酷迫害法轮功学员综述（三） 2019年07月30日"  target="_blank">重庆女子劳教所残酷迫害法轮功学员综述（三）</a></li><li><a href="/mh/articles/2019/7/30/山东招远市国保大队副大队长王玉成恶行-390801.html" title="山东招远市国保大队副大队长王玉成恶行 2019年07月30日"  target="_blank">山东招远市国保大队副大队长王玉成恶行</a></li><li><a href="/mh/articles/2019/7/30/辽宁省开原市国保大队长王义绑架、勒索法轮功学员-390805.html" title="辽宁省开原市国保大队长王义绑架、勒索法轮功学员 2019年07月30日"  target="_blank">辽宁省开原市国保大队长王义绑架、勒索法轮功学员</a></li><li><a href="/mh/articles/2019/7/30/二零一九年七月三十日大陆综合消息-390835.html" title="二零一九年七月三十日大陆综合消息 2019年07月30日"  target="_blank">二零一九年七月三十日大陆综合消息</a></li></ul>
+<div class="more_articles_left"><a href="/mh/fenlei/72/"><img src="/pub/cmh2015/images/more_articles.png" /></a></div>
+						</div>
+						<div class="bgNewsByCategory_separator_m"></div>
+						<div class="bNewsByCategory_content_r">
+							<div class="bNewsByCategory_header"><a href="/mh/fenlei/74/"><img src="/pub/cmh2015/images/category_text_haiwai_zhichuang.png" /></a></div>
+							<ul><li><a href="/mh/articles/2019/7/30/佛州法轮大法交流会召开-390811.html" title="佛州法轮大法交流会召开 2019年07月30日"  target="_blank">佛州法轮大法交流会召开</a></li><li><a href="/mh/articles/2019/7/30/反迫害二十年-佛州法轮功学员烛光夜悼（图）-390812.html" title="反迫害二十年　佛州法轮功学员烛光夜悼（图） 2019年07月30日"  target="_blank">反迫害二十年　佛州法轮功学员烛光夜悼（图）</a></li><li><a href="/mh/articles/2019/7/30/七二零反迫害-希腊法轮功学员讲真相（图）-390810.html" title="七二零反迫害　希腊法轮功学员讲真相（图） 2019年07月30日"  target="_blank">七二零反迫害　希腊法轮功学员讲真相（图）</a></li><li><a href="/mh/articles/2019/7/29/加政要呼吁禁止迫害人权者入境-390761.html" title="加政要呼吁禁止迫害人权者入境 2019年07月29日"  target="_blank">加政要呼吁禁止迫害人权者入境</a></li><li><a href="/mh/articles/2019/7/29/华府反迫害研讨会-法轮功带给人类希望（图）-390762.html" title="华府反迫害研讨会：法轮功带给人类希望（图） 2019年07月29日"  target="_blank">华府反迫害研讨会：法轮功带给人类希望（图）</a></li><li><a href="/mh/articles/2019/7/29/柏林游客-迫害针对的是所有人（图）-390769.html" title="柏林游客：迫害针对的是所有人（图） 2019年07月29日"  target="_blank">柏林游客：迫害针对的是所有人（图）</a></li><li><a href="/mh/articles/2019/7/28/德国学员在音乐节上讲真相-媒体报道-390730.html" title="德国学员在音乐节上讲真相 媒体报道 2019年07月28日"  target="_blank">德国学员在音乐节上讲真相 媒体报道</a></li><li><a href="/mh/articles/2019/7/28/挪威法轮功学员反迫害-民众支持（图）-390731.html" title="挪威法轮功学员反迫害　民众支持（图） 2019年07月28日"  target="_blank">挪威法轮功学员反迫害　民众支持（图）</a></li><li><a href="/mh/articles/2019/7/28/“二十年来法轮功的抗争是为了所有人”（图）-390744.html" title="“二十年来法轮功的抗争是为了所有人”（图） 2019年07月28日"  target="_blank">“二十年来法轮功的抗争是为了所有人”（图）</a></li><li><a href="/mh/articles/2019/7/27/明慧网波兰语网站正式开通-390689.html" title="明慧网波兰语网站正式开通 2019年07月27日"  target="_blank">明慧网波兰语网站正式开通</a></li></ul>
+<div class="more_articles_left"><a href="/mh/fenlei/74/"><img src="/pub/cmh2015/images/more_articles.png" /></a></div>
+						</div>
+						<!-- 2: ShiShiPingLun / TianRenZhiJian -->
+
+						<div class="bNewsByCategory_content_l">
+							<div class="bNewsByCategory_header"><a href="/mh/fenlei/73/"><img src="/pub/cmh2015/images/category_text_shishi_pinglun.png" /></a></div>
+							<ul><li><a href="/mh/articles/2019/7/29/什么是真正的强大--389994.html" title="什么是真正的强大？ 2019年07月29日"  target="_blank">什么是真正的强大？</a></li><li><a href="/mh/articles/2019/7/28/假鉴定-真犯罪-390742.html" title="假鉴定　真犯罪 2019年07月28日"  target="_blank">假鉴定　真犯罪</a></li><li><a href="/mh/articles/2019/7/26/国际社会发声——停止迫害法轮功-390628.html" title="国际社会发声——停止迫害法轮功 2019年07月26日"  target="_blank">国际社会发声——停止迫害法轮功</a></li><li><a href="/mh/articles/2019/7/24/现代观念的危害-390496.html" title="现代观念的危害 2019年07月24日"  target="_blank">现代观念的危害</a></li><li><a href="/mh/articles/2019/7/23/“善有善报，恶有恶报”过时了--390073.html" title="“善有善报，恶有恶报”过时了？ 2019年07月23日"  target="_blank">“善有善报，恶有恶报”过时了？</a></li><li><a href="/mh/articles/2019/7/21/推崇真善忍-声援反迫害-390290.html" title="推崇真善忍　声援反迫害 2019年07月21日"  target="_blank">推崇真善忍　声援反迫害</a></li><li><a href="/mh/articles/2019/7/20/国际社会正义力量支持法轮功反迫害-390288.html" title="国际社会正义力量支持法轮功反迫害 2019年07月20日"  target="_blank">国际社会正义力量支持法轮功反迫害</a></li><li><a href="/mh/articles/2019/7/20/二十年中共真正迫害了谁-390287.html" title="二十年中共真正迫害了谁 2019年07月20日"  target="_blank">二十年中共真正迫害了谁</a></li><li><a href="/mh/articles/2019/7/20/二十年非人迫害-二十年和平抗争-390238.html" title="二十年非人迫害　二十年和平抗争 2019年07月20日"  target="_blank">二十年非人迫害　二十年和平抗争</a></li><li><a href="/mh/articles/2019/7/20/二十年反迫害-真善忍改变世界-390236.html" title="二十年反迫害　真善忍改变世界 2019年07月20日"  target="_blank">二十年反迫害　真善忍改变世界</a></li></ul>
+<div class="more_articles_left"><a href="/mh/fenlei/73/"><img src="/pub/cmh2015/images/more_articles.png" /></a></div>
+						</div>
+						<div class="bgNewsByCategory_separator_m"></div>
+						<div class="bNewsByCategory_content_r">
+							<div class="bNewsByCategory_header"><a href="/mh/fenlei/78/"><img src="/pub/cmh2015/images/category_text_tianren_zhijian.png" /></a></div>
+							<ul><li><a href="/mh/articles/2019/7/30/江苏连云港市公安局新浦分局局长孙晓兵遭恶报-390760.html" title="江苏连云港市公安局新浦分局局长孙晓兵遭恶报 2019年07月30日"  target="_blank">江苏连云港市公安局新浦分局局长孙晓兵遭恶报</a></li><li><a href="/mh/articles/2019/7/29/原湖北咸宁610头目阮明贵已遭恶报死亡-390758.html" title="原湖北咸宁610头目阮明贵已遭恶报死亡 2019年07月29日"  target="_blank">原湖北咸宁610头目阮明贵已遭恶报死亡</a></li><li><a href="/mh/articles/2019/7/29/宁夏公安厅国保总队队长王小平遭报被查-388907.html" title="宁夏公安厅国保总队队长王小平遭报被查 2019年07月29日"  target="_blank">宁夏公安厅国保总队队长王小平遭报被查</a></li><li><a href="/mh/articles/2019/7/29/戏剧性的“巧合”接二连三地发生在家人身上-389583.html" title="戏剧性的“巧合”接二连三地发生在家人身上 2019年07月29日"  target="_blank">戏剧性的“巧合”接二连三地发生在家人身上</a></li><li><a href="/mh/articles/2019/7/28/河南省安阳市多名中共官员、警察遭报被查-390714.html" title="河南省安阳市多名中共官员、警察遭报被查 2019年07月28日"  target="_blank">河南省安阳市多名中共官员、警察遭报被查</a></li><li><a href="/mh/articles/2019/7/28/唐山市不法人员迫害法轮功遭恶报警示录-390705.html" title="唐山市不法人员迫害法轮功遭恶报警示录 2019年07月28日"  target="_blank">唐山市不法人员迫害法轮功遭恶报警示录</a></li><li><a href="/mh/articles/2019/7/27/做江氏集团打手-公安局、派出所人员遭恶报-390419.html" title="做江氏集团打手　公安局、派出所人员遭恶报 2019年07月27日"  target="_blank">做江氏集团打手　公安局、派出所人员遭恶报</a></li><li><a href="/mh/articles/2019/7/27/吉林省检察院检察长杨克勤遭恶报落马-390424.html" title="吉林省检察院检察长杨克勤遭恶报落马 2019年07月27日"  target="_blank">吉林省检察院检察长杨克勤遭恶报落马</a></li><li><a href="/mh/articles/2019/7/27/诚念“法轮大法好”的神奇-383943.html" title="诚念“法轮大法好”的神奇 2019年07月27日"  target="_blank">诚念“法轮大法好”的神奇</a></li><li><a href="/mh/articles/2019/7/26/迫害法轮功-湖北荆门三十名公安人员遭恶报-390559.html" title="迫害法轮功　湖北荆门三十名公安人员遭恶报 2019年07月26日"  target="_blank">迫害法轮功　湖北荆门三十名公安人员遭恶报</a></li></ul>
+<div class="more_articles_left"><a href="/mh/fenlei/78/"><img src="/pub/cmh2015/images/more_articles.png" /></a></div>
+						</div>
+						<!-- 3: ShiWenYueHua / YingSHiGuangBo -->
+						<div class="bNewsByCategory_content_l">
+							<div class="bNewsByCategory_header"><a href="/mh/fenlei/274/"><img src="/pub/cmh2015/images/category_text_shiwen_yuehua.png" /></a></div>
+							<ul><li><a href="/mh/articles/2019/7/20/歌词-洪恩永不忘-390091.html" title="歌词：洪恩永不忘 2019年07月20日"  target="_blank">歌词：洪恩永不忘</a></li><li><a href="/mh/articles/2019/6/26/绘画-梅开春满园-386117.html" title="绘画：梅开春满园 2019年06月26日"  target="_blank">绘画：梅开春满园</a></li><li><a href="/mh/articles/2019/6/18/绘画-牡丹-385204.html" title="绘画：牡丹 2019年06月18日"  target="_blank">绘画：牡丹</a></li><li><a href="/mh/articles/2019/5/20/国画-雪夜-386120.html" title="国画：雪夜 2019年05月20日"  target="_blank">国画：雪夜</a></li><li><a href="/mh/articles/2019/5/19/绘画-感恩大法洪传-385383.html" title="绘画：感恩大法洪传 2019年05月19日"  target="_blank">绘画：感恩大法洪传</a></li><li><a href="/mh/articles/2019/5/18/【庆祝513】工笔画-大法洪传-万朵莲开-385959.html" title="【庆祝513】工笔画：大法洪传 万朵莲开 2019年05月18日"  target="_blank"><span style='margin-left:-6px;'>【庆祝513】工笔画：大法洪传 万朵莲开</span></a></li><li><a href="/mh/articles/2019/5/18/【庆祝513】钻石画-缘归大法-385963.html" title="【庆祝513】钻石画：缘归大法 2019年05月18日"  target="_blank"><span style='margin-left:-6px;'>【庆祝513】钻石画：缘归大法</span></a></li><li><a href="/mh/articles/2019/5/18/【庆祝513】书法-师恩浩荡语难诉-386121.html" title="【庆祝513】书法：师恩浩荡语难诉 2019年05月18日"  target="_blank"><span style='margin-left:-6px;'>【庆祝513】书法：师恩浩荡语难诉</span></a></li><li><a href="/mh/articles/2019/5/17/【庆祝513】绘画-返本归真-大法小弟子-386127.html" title="【庆祝513】绘画：返本归真 大法小弟子 2019年05月17日"  target="_blank"><span style='margin-left:-6px;'>【庆祝513】绘画：返本归真 大法小弟子</span></a></li><li><a href="/mh/articles/2019/5/17/【庆祝513】葫芦烫画-法轮大法好-385969.html" title="【庆祝513】葫芦烫画：法轮大法好 2019年05月17日"  target="_blank"><span style='margin-left:-6px;'>【庆祝513】葫芦烫画：法轮大法好</span></a></li></ul>
+<div class="more_articles_left"><a href="/mh/fenlei/274/"><img src="/pub/cmh2015/images/more_articles.png" /></a></div>
+						</div>
+						<div class="bgNewsByCategory_separator_m"></div>
+						<div class="bNewsByCategory_content_r">
+							<div class="bNewsByCategory_header"><a href="/mh/fenlei/157/"><img src="/pub/cmh2015/images/category_text_yingshi_guangbo.png" /></a></div>
+							<ul><li><a href="http://www.mhradio.org/showprogram/8512.html" title="明慧广播：天音净乐 第430集  2019年07月30日"  target="_blank">明慧广播：天音净乐 第430集 </a></li><li><a href="http://www.mhradio.org/showprogram/8514.html" title="明慧广播：明慧周刊 915期 2/2 2019年07月30日"  target="_blank">明慧广播：明慧周刊 915期 2/2</a></li><li><a href="http://www.mhradio.org/showprogram/8513.html" title="明慧广播：修炼故事（64） 2019年07月30日"  target="_blank">明慧广播：修炼故事（64）</a></li><li><a href="http://www.mhradio.org/showprogram/8515.html" title="明慧广播：明慧周刊 915期 1/2 2019年07月30日"  target="_blank">明慧广播：明慧周刊 915期 1/2</a></li><li><a href="http://www.mhradio.org/showprogram/8512.html" title="明慧广播：天音净乐 第430集 2019年07月29日"  target="_blank">明慧广播：天音净乐 第430集</a></li><li><a href="/mh/articles/2019/7/28/真相短视频-美国国务院将严审、拒发、取消迫害者的签证-390722.html" title="真相短视频：美国国务院将严审、拒发、取消迫害者的签证 2019年07月28日"  target="_blank">真相短视频：美国国务院将严审、拒发、取消迫害者的签证</a></li><li><a href="http://www.mhradio.org/showprogram/8484.html" title="明慧广播：正法修炼交流选编（611） 2019年07月28日"  target="_blank">明慧广播：正法修炼交流选编（611）</a></li><li><a href="http://www.mhradio.org/showprogram/8477.html" title="明慧广播：正法修炼交流选编（610） 2019年07月27日"  target="_blank">明慧广播：正法修炼交流选编（610）</a></li><li><a href="/mh/articles/2019/7/26/真相短视频-全奖入读美国名校-390655.html" title="真相短视频：全奖入读美国名校 2019年07月26日"  target="_blank">真相短视频：全奖入读美国名校</a></li><li><a href="http://www.mhradio.org/showprogram/8509.html" title="明慧广播：明慧小弟子园地（188） 2019年07月26日"  target="_blank">明慧广播：明慧小弟子园地（188）</a></li></ul>
+<div class="more_articles_left"><a href="/mh/fenlei/157/"><img src="/pub/cmh2015/images/more_articles.png" /></a></div>
+						</div>
+						<!-- 4: ChuXueYuanDi / ZhengFaXiuLian -->
+						<div class="bNewsByCategory_content_l">
+							<div class="bNewsByCategory_header"><a href="/mh/fenlei/97/"><img src="/pub/cmh2015/images/category_text_chuxue_yuandi.png" /></a></div>
+							<ul><li><a href="/mh/articles/2019/7/30/仅四天，胸膜结核钙化、积水消失-388864.html" title="仅四天，胸膜结核钙化、积水消失 2019年07月30日"  target="_blank">仅四天，胸膜结核钙化、积水消失</a></li><li><a href="/mh/articles/2019/7/30/学大法做好人-家人跟着变-389365.html" title="学大法做好人　家人跟着变 2019年07月30日"  target="_blank">学大法做好人　家人跟着变</a></li><li><a href="/mh/articles/2019/7/29/去年的圆珠笔帽-389998.html" title="去年的圆珠笔帽 2019年07月29日"  target="_blank">去年的圆珠笔帽</a></li><li><a href="/mh/articles/2019/7/28/三位癌症病人绝处逢生-390064.html" title="三位癌症病人绝处逢生 2019年07月28日"  target="_blank">三位癌症病人绝处逢生</a></li><li><a href="/mh/articles/2019/7/27/我站出来-因为法轮大法好（图）-390588.html" title="我站出来　因为法轮大法好（图） 2019年07月27日"  target="_blank">我站出来　因为法轮大法好（图）</a></li><li><a href="/mh/articles/2019/7/27/当医生的妻子对我说-没想到你又活过来了--389895.html" title="当医生的妻子对我说：没想到你又活过来了！ 2019年07月27日"  target="_blank">当医生的妻子对我说：没想到你又活过来了！</a></li><li><a href="/mh/articles/2019/7/27/师父救了我和丈夫的命-383214.html" title="师父救了我和丈夫的命 2019年07月27日"  target="_blank">师父救了我和丈夫的命</a></li><li><a href="/mh/articles/2019/7/26/身体达到无病一身轻的状态-390021.html" title="身体达到无病一身轻的状态 2019年07月26日"  target="_blank">身体达到无病一身轻的状态</a></li><li><a href="/mh/articles/2019/7/23/大法救了我们全家-376934.html" title="大法救了我们全家 2019年07月23日"  target="_blank">大法救了我们全家</a></li><li><a href="/mh/articles/2019/7/22/万念俱灰时幸得大法救度-390333.html" title="万念俱灰时幸得大法救度 2019年07月22日"  target="_blank">万念俱灰时幸得大法救度</a></li></ul>
+<div class="more_articles_left"><a href="/mh/fenlei/97/"><img src="/pub/cmh2015/images/more_articles.png" /></a></div>
+						</div>
+						<div class="bgNewsByCategory_separator_m"></div>
+						<div class="bNewsByCategory_content_r">
+							<div class="bNewsByCategory_header"><a href="/mh/fenlei/98/"><img src="/pub/cmh2015/images/category_text_zhengfa_xiulian.png" /></a></div>
+							<ul><li><a href="/mh/articles/2019/7/30/破相的她容貌恢复如初-390173.html" title="破相的她容貌恢复如初 2019年07月30日"  target="_blank">破相的她容貌恢复如初</a></li><li><a href="/mh/articles/2019/7/30/珍惜每一个修炼提高的机会-390680.html" title="珍惜每一个修炼提高的机会 2019年07月30日"  target="_blank">珍惜每一个修炼提高的机会</a></li><li><a href="/mh/articles/2019/7/30/在外地推广神韵-救有缘的众生-390681.html" title="在外地推广神韵　救有缘的众生 2019年07月30日"  target="_blank">在外地推广神韵　救有缘的众生</a></li><li><a href="/mh/articles/2019/7/30/信师信法-390682.html" title="信师信法 2019年07月30日"  target="_blank">信师信法</a></li><li><a href="/mh/articles/2019/7/30/在看守所讲真相的一些往事-389760.html" title="在看守所讲真相的一些往事 2019年07月30日"  target="_blank">在看守所讲真相的一些往事</a></li><li><a href="/mh/articles/2019/7/30/当主角-律师配合反迫害-389996.html" title="当主角　律师配合反迫害 2019年07月30日"  target="_blank">当主角　律师配合反迫害</a></li><li><a href="/mh/articles/2019/7/30/在协调中修自己-388243.html" title="在协调中修自己 2019年07月30日"  target="_blank">在协调中修自己</a></li><li><a href="/mh/articles/2019/7/30/法中提高-走过家庭魔难-377853.html" title="法中提高　走过家庭魔难 2019年07月30日"  target="_blank">法中提高　走过家庭魔难</a></li><li><a href="/mh/articles/2019/7/30/医生说“就几个月”-丈夫一直活着已十多年-389758.html" title="医生说“就几个月”　丈夫一直活着已十多年 2019年07月30日"  target="_blank">医生说“就几个月”　丈夫一直活着已十多年</a></li><li><a href="/mh/articles/2019/7/30/师父救了我和两个孩子-389933.html" title="师父救了我和两个孩子 2019年07月30日"  target="_blank">师父救了我和两个孩子</a></li></ul>
+<div class="more_articles_left"><a href="/mh/fenlei/98/"><img src="/pub/cmh2015/images/more_articles.png" /></a></div>
+						</div>
+						<!-- 5: ZiLiaoDianYuanDi / XiaZaiZhongXin -->
+						<div class="bNewsByCategory_ZiLiaoDianYuanDi_XiaZaiZhongXin">
+							<div class="bNewsByCategory_content_l">
+								<div class="bNewsByCategory_header"><a href="/mh/fenlei/298/"><img src="/pub/cmh2015/images/category_text_ziliaodian_yuandi.png" /></a></div>
+								<ul><li><a href="/mh/articles/2019/6/21/新唐人电视台纽约工程部通知-389033.html" title="新唐人电视台纽约工程部通知 2019年06月21日"  target="_blank">新唐人电视台纽约工程部通知</a></li><li><a href="/mh/articles/2019/6/16/自由门7.68版（6月15日）-388765.html" title="自由门7.68版（6月15日） 2019年06月16日"  target="_blank">自由门7.68版（6月15日）</a></li><li><a href="/mh/articles/2019/6/10/亚太新唐人更新参数及更换高清接收机-388504.html" title="亚太新唐人更新参数及更换高清接收机 2019年06月10日"  target="_blank">亚太新唐人更新参数及更换高清接收机</a></li><li><a href="/mh/articles/2019/5/22/更新旧版WinRAR-贺卡设计教程-387693.html" title="更新旧版WinRAR；贺卡设计教程 2019年05月22日"  target="_blank">更新旧版WinRAR；贺卡设计教程</a></li><li><a href="/mh/articles/2019/5/5/真相书籍封面的裱膜方法-热裱-385931.html" title="真相书籍封面的裱膜方法：热裱 2019年05月05日"  target="_blank">真相书籍封面的裱膜方法：热裱</a></li><li><a href="/mh/articles/2019/4/7/自由门7.67版（4月3日）-384837.html" title="自由门7.67版（4月3日） 2019年04月07日"  target="_blank">自由门7.67版（4月3日）</a></li><li><a href="/mh/articles/2019/3/26/明慧网站、天地行论坛使用教程等-384372.html" title="明慧网站、天地行论坛使用教程等 2019年03月26日"  target="_blank">明慧网站、天地行论坛使用教程等</a></li><li><a href="/mh/articles/2019/2/17/元宵节期间神韵晚会大陆收看方法（2019年2月16日）-382869.html" title="元宵节期间神韵晚会大陆收看方法（2019年2月16日） 2019年02月17日"  target="_blank">元宵节期间神韵晚会大陆收看方法（2019年2月16日）</a></li><li><a href="/mh/articles/2019/2/15/自由门7.66版（2月15日）-382796.html" title="自由门7.66版（2月15日） 2019年02月15日"  target="_blank">自由门7.66版（2月15日）</a></li><li><a href="/mh/articles/2019/2/5/自由门7.65版（2月2日）-382107.html" title="自由门7.65版（2月2日） 2019年02月05日"  target="_blank">自由门7.65版（2月2日）</a></li></ul>
+<div class="more_articles_left"><a href="/mh/fenlei/298/"><img src="/pub/cmh2015/images/more_articles.png" /></a></div>
+							</div>
+							<div class="bgNewsByCategory_separator_m"></div>
+							<div class="bNewsByCategory_content_r">
+								<div class="bNewsByCategory_header"><a href="/mh/download.html"><img src="/pub/cmh2015/images/category_text_xiazai_zhongxin.png" /></a></div>
+							<ul>
+	
+								<li><a href="/mh/articles/2019/7/30/2019-7-30.html">今日文章</a>（<a href="/mh/articles/2019/7/30/2019-7-30.zip">无图</a>│<a href="/mh/articles/2019/7/30/2019-7-30-t.zip">含小图</a>│<a href="/mh/articles/2019/7/30/2019-7-30.txt">文本</a>）</li>
+								<li><a href="/mh/fenlei/217/217.zip">新经文</a></li>
+								<li><a href="/mh/fenlei/219/219.zip">师父评语文章下载</a></li>
+								<li><a href="/mh/fenlei/218/218.zip">明慧编辑部文章下载</a></li>
+	
+							</ul>
+							</div>
+						</div>
+					</div> <!--end of bgNewsByCategory_mm-->
+					<div class="bgNewsByCategory_bm"></div>
+
+					<br class="clearfloat"> <!-- ========================================================================== -->
+
+					<!-- ReMenQiKan -->
+					<div id="fp_remen_qikan">
+						<div id="qikantitle">
+							
+						<a href="http://qikan.minghui.org/"><img src ="/pub/cmh2015/images/remen_qikan_tab00.png" /></a>
+							
+						<!-- end of #qikan_tabs -->
+						</div>
+					
+						<div id="qikan_selected_tabcontent">
+							<ul>
+							<li><a href="http://qikan.minghui.org/display.aspx?qikan_type_id=5240" target="_blank"><div><span class="qkimage"><img src="http://qikan.minghui.org/mhqkpage/qikanimage/2019/07/04/zx95-dl-read-ss.png" /></span><span class="qikantext"><h1>真相<i>（2019年7月5日）</i></h1><div class="qktextdesc">街谈巷议：有这么打仗的吗？<br>美国不是避风港<br>明慧网发布《通告》 收集迫害者名单<br>9分钟与18年<br></div></span></div></a></li><li><a href="http://qikan.minghui.org/display.aspx?qikan_type_id=5140" target="_blank"><div><span class="qkimage"><img src="http://qikan.minghui.org/mhqkpage/qikanimage/2019/06/13/mingbai-82-read-ss.png" /></span><span class="qikantext"><h1>明白<i>（2019年6月14日）</i></h1><div class="qktextdesc">二十年和一句话<br>旅加华人毛凤英的辛酸和快乐<br>风雨二十载　同甘共苦一家人<br>“还是你们修法轮功的人放心”</div></span></div></a></li><li><a href="http://qikan.minghui.org/display.aspx?qikan_type_id=5406" target="_blank"><div><span class="qkimage"><img src="http://qikan.minghui.org/mhqkpage/qikanimage/2019/07/15/xiwang37_a5_read-ss.png" /></span><span class="qikantext"><h1>希望<i>（2019年7月16日）</i></h1><div class="qktextdesc">村姑退大军，一妇救一国<br>他再也没挥舞过皮鞭<br>成功并不取决于智商和情商，而是……<br>他登上了好莱坞音乐大奖的领奖台</div></span></div></a></li><li><a href="http://qikan.minghui.org/display.aspx?qikan_type_id=5139" target="_blank"><div><span class="qkimage"><img src="http://qikan.minghui.org/mhqkpage/qikanimage/2019/05/04/tdcs-62-read-a3-ss.png" /></span><span class="qikantext"><h1>天地苍生<i>（2019年5月5日）</i></h1><div class="qktextdesc">大陆爆公司注销潮<br>中国历朝历代收多少税？<br>民国的荣光：“黄金十年”励精图治<br>无毒不在与善者天佑</div></span></div></a></li><li><a href="http://qikan.minghui.org/display.aspx?qikan_type_id=5638" target="_blank"><div><span class="qkimage"><img src="http://qikan.minghui.org/mhqkpage/qikanimage/2019/07/09/huisheng-61-read-ss.png" /></span><span class="qikantext"><h1>慧声<i>（2019年7月10日）</i></h1><div class="qktextdesc">孩子，请守护你对这个世界的好奇<br>横跨美国的少年单车之旅<br>从“刀光剑影”里走出来的艺术少年</div></span></div></a></li><li><a href="http://qikan.minghui.org/display.aspx?qikan_type_id=6272" target="_blank"><div><span class="qkimage"><img src="http://qikan.minghui.org/mhqkpage/qikanimage/2019/07/16/mhhb-161-read-ss.png" /></span><span class="qikantext"><h1>明慧画报<i>（2019年7月17日）</i></h1><div class="qktextdesc">《转法轮》—— 改变上亿人的一本奇书<br>法轮大法弘传亚洲<br>法轮大法弘传欧洲、澳洲</div></span></div></a></li><li><a href="http://qikan.minghui.org/display.aspx?qikan_type_id=5360" target="_blank"><div><span class="qkimage"><img src="http://qikan.minghui.org/mhqkpage/qikanimage/2019/07/26/tchf-10-2in1-read-ss.png" /></span><span class="qikantext"><h1>天赐洪福<i>（2019年7月27日）</i></h1><div class="qktextdesc">卷首一文　机缘巧合<br>人间奇迹　花海缤纷 畅快呼吸<br>绝处逢生　美国西医见证“独一无二”<br></div></span></div></a></li><li><a href="http://qikan.minghui.org/display.aspx?qikan_type_id=7500" target="_blank"><div><span class="qkimage"><img src="http://qikan.minghui.org/mhqkpage/qikanimage/2019/07/06/jzz-27-2in1-read-ss.png" /></span><span class="qikantext"><h1>金种子<i>（2019年7月6日）</i></h1><div class="qktextdesc">晚归<br>还是家里的那根顶梁柱<br>我变成了四邻八庄都称赞的好人<br>小刚脱险记</div></span></div></a></li><li><a href="http://qikan.minghui.org/display.aspx?qikan_type_id=5178" target="_blank"><div><span class="qkimage"><img src="http://qikan.minghui.org/mhqkpage/qikanimage/2019/07/26/mhzb_755_pdf-ss.png" /></span><span class="qikantext"><h1>明慧周报大陆版<i>（2019年7月26日）</i></h1><div class="qktextdesc">德国外交部发布公告 谴责中共迫害法轮功<br>法轮功学员将恶人名单递交美国国务院 要求对其拒发签证<br>撼不动的正信　二十年坚持和平反迫害<br>百岁老人谢师恩</div></span></div></a></li><li><a href="http://qikan.minghui.org/display.aspx?qikan_type_id=5151" target="_blank"><div><span class="qkimage"><img src="http://qikan.minghui.org/mhqkpage/qikanimage/2019/07/21/mhzb_556_read-ss.png" /></span><span class="qikantext"><h1>明慧周报海外版<i>（2019年7月22日）</i></h1><div class="qktextdesc">反迫害20年 纽约集会烛光夜悼<br>二十年和一句话<br>新学员：“法轮功教功班非常好”<br>美肿瘤学会论文：炼法轮功延长癌患存活时间</div></span></div></a></li><li><a href="http://qikan.minghui.org/display.aspx?category_id=2&is_tuijian=true&yuyan_id=2" target="_blank"><div><span class="qkimage"><img src="http://www.minghui.org/mh/article_images/2019-7-18-mhi2019_preview_v14_page_01--ss.png" /></span><span class="qikantext"><h1>明慧国际<i>（2019年7月20日）</i></h1><div class="qktextdesc">旨在帮助世人了解法轮功真相，明白为什么无论自己的职业和兴趣是什么，法轮功真相都和自己息息相关。</div></span></div></a></li><li><a href="http://qikan.minghui.org/display.aspx?qikan_type_id=5179" target="_blank"><div><span class="qkimage"><img src="http://qikan.minghui.org/mhqkpage/qikanimage/2019/07/26/mhweekly915_read-ss.png" /></span><span class="qikantext"><h1>明慧周刊<i>（2019年7月26日）</i></h1><div class="qktextdesc">师尊新经文《致加拿大法会》已在明慧网刊登<br>反迫害二十年　法轮功学员继续呼唤正义良知、各界支持<br>法轮功学员将恶人名单递交美国国务院<br>回望“七·二零”　见证中共反人类罪行（下）</div></span></div></a></li>
+							</ul>
+						<!-- end of #qikan_selected_tabcontent --></div>
+                       <div class="more_articles_right"><a href="http://qikan.minghui.org/"><img src="/pub/cmh2015/images/more_articles.png" /></a></div>
+					</div>
+				
+				<!-- end of #fp_categories --></div>
+			<!-- end of #fp_container1_1 --></div>
+<!-- ############################################################################################################################################################# -->
+			<div id="fp_container1_2">
+			
+				﻿<div id="bgShifu_photo">
+	<a href="http://media.minghui.org/gb/0001/Jan/19/Master_Li_after_July_99.html"><img src="/pub/cmh2015/images/shifu_photo_278x198b.png" alt="李洪志师父近照：静观学员与世人" />
+	<div id="bgShifu_photo_caption">一九九九年七月二十日後，李洪志师父<br>离开纽约，在山中静观世间<br>（二零零零年一月十九日发表）</div></a>
+</div> <!--bShifu_photo-->
+			<div id="fp_rightbar">
+	<div id="bShifu_NewJingwen">
+		<div class="bgRightbar_tm">
+			<div class="rightbar_header_no_bullet"><img src='/pub/cmh2015/images/yellowblock.png'  class='fp_rightbaryellowblock' /><a href="/mh/fenlei/356/"><img src="/pub/cmh2015/images/rightbar_text_dafa_xinjingwen.png" style='height:14px;' /></a></div>
+			
+		</div>
+		<div class="bgRightbar_mm">
+			<div class="rightbar_content">
+				<ul><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/21/390268.html" title="致加拿大法会 2019年07月21日" target="_blank">致加拿大法会</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/5/27/387903.html" title="《洪吟·五》 2019年05月27日" target="_blank">《洪吟·五》</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/5/25/二零一九年纽约法会讲法-387870.html" title="二零一九年纽约法会讲法 2019年05月25日" target="_blank">二零一九年纽约法会讲法</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2018/11/27/致越南学员-377761.html" title="致越南学员 2018年11月27日" target="_blank">致越南学员</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2018/11/24/致台湾交流会-377639.html" title="致台湾交流会 2018年11月24日" target="_blank">致台湾交流会</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2018/11/5/法轮大法炼功音乐（2018年版）-376726.html" title="法轮大法炼功音乐（2018年版） 2018年11月05日" target="_blank">法轮大法炼功音乐（2018年版）</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2018/10/28/376355.html" title="二零一八年新唐人与大纪元法会 2018年10月28日" target="_blank">二零一八年新唐人与大纪元法会</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2018/10/14/致二零一八年亚洲法会-375618.html" title="致二零一八年亚洲法会 2018年10月14日" target="_blank">致二零一八年亚洲法会</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2018/9/29/致欧洲法会-375135.html" title="致欧洲法会 2018年09月29日" target="_blank">致欧洲法会</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2018/6/28/二零一八年华盛顿DC讲法-370391.html" title="二零一八年华盛顿DC讲法 2018年06月28日" target="_blank">二零一八年华盛顿DC讲法</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2018/4/24/关于法轮大法在常人社会中定义问题-364525.html" title="关于法轮大法在常人社会中定义问题 2018年04月24日" target="_blank">关于法轮大法在常人社会中定义问题</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2017/10/1/致巴黎欧洲法会的贺词-354343.html" title="致巴黎欧洲法会的贺词 2017年10月01日" target="_blank">致巴黎欧洲法会的贺词</a></li></ul>
+			</div> <!--end of rightbar_content-->
+		</div> <!--end of bgRightbar_mm-->
+		<div class="bgRightbar_bm"><div class="more_articles_left_rightbar"><a href="/mh/fenlei/356/"><img src="/pub/cmh2015/images/more_articles.png" /></a></div></div>
+	</div> <!-- end of bShifu_NewJingWen -->
+
+	<br class="clearfloat"> <!-- ========================================================================== -->
+	<div class="rightbarhr" ></div>
+
+	<div id="bMHEditorial">
+		<div class="bgRightbar_tm">
+			<div class="rightbar_header_no_bullet"><img src='/pub/cmh2015/images/yellowblock.png' class='fp_rightbaryellowblock' /><a href="/mh/fenlei/218/"><img src="/pub/cmh2015/images/rightbar_text_minghui_bianjibu.png"  /></a></div>
+		</div>
+		<div class="bgRightbar_mm">
+			<div class="rightbar_content">
+				<ul><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/14/清醒头脑-停止干扰和自扰-390017.html" title="清醒头脑 停止干扰和自扰 2019年07月14日" target="_blank">清醒头脑 停止干扰和自扰</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/6/28/明慧网“死亡案例”网页更新-389322.html" title="明慧网“死亡案例”网页更新 2019年06月28日" target="_blank">明慧网“死亡案例”网页更新</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/6/25/通报-389205.html" title="通报 2019年06月25日" target="_blank">通报</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/6/13/飞天艺术学院舞蹈班招生通知-388696.html" title="飞天艺术学院舞蹈班招生通知 2019年06月13日" target="_blank">飞天艺术学院舞蹈班招生通知</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/5/31/通告-388111.html" title="通告 2019年05月31日" target="_blank">通告</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/5/20/法轮功禁止杀生和自杀-387593.html" title="法轮功禁止杀生和自杀 2019年05月20日" target="_blank">法轮功禁止杀生和自杀</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/3/5/二零一九年世界法轮大法日征稿通知-383441.html" title="二零一九年世界法轮大法日征稿通知 2019年03月05日" target="_blank">二零一九年世界法轮大法日征稿通知</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/2/2/飞天艺术学院音乐班及飞天大学音乐系招生通知-381666.html" title="飞天艺术学院音乐班及飞天大学音乐系招生通知 2019年02月02日" target="_blank">飞天艺术学院音乐班及飞天大学音乐系招生通知</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/2/2/飞天艺术学院舞蹈班招生通知-381667.html" title="飞天艺术学院舞蹈班招生通知 2019年02月02日" target="_blank">飞天艺术学院舞蹈班招生通知</a></li></ul>
+			</div> <!--rightbar_content-->
+		</div> <!--bgRightbar_mm-->
+		<div class="bgRightbar_bm"><div class="more_articles_left_rightbar"><a href="/mh/fenlei/218/"><img src="/pub/cmh2015/images/more_articles.png" /></a></div></div>
+	</div> <!-- end of bMHEditorial -->
+
+	<br class="clearfloat"> <!-- ========================================================================== -->
+	<div class="rightbarhr" ></div>
+
+	<div id="bShifu_PingZhu">
+		<div class="bgRightbar_tm">
+			<div class="rightbar_header_no_bullet"><img src='/pub/cmh2015/images/yellowblock.png' class='fp_rightbaryellowblock' /><a href="/mh/fenlei/219/"><img src="/pub/cmh2015/images/rightbar_text_shifu_pingyu_wenzhang.png"  style='height:14px;' /></a></div>
+		</div>
+		<div class="bgRightbar_mm">
+			<div class="rightbar_content">
+				<ul><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2018/10/4/师父评语文章-375372.html" title="师父评语文章 2018年10月04日" target="_blank">师父评语文章</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2015/12/27/关于挂广告的补充通知◎师父评语-321231.html" title="关于挂广告的补充通知◎师父评语 2015年12月27日" target="_blank">关于挂广告的补充通知◎师父评语</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2015/9/7/关于诉江的通知-315340.html" title="关于诉江的通知 2015年09月07日" target="_blank">关于诉江的通知</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2013/4/25/传看假经文就是乱法◎师父评语-272490.html" title="传看假经文就是乱法◎师父评语 2013年04月25日" target="_blank">传看假经文就是乱法◎师父评语</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2013/3/7/显示心不去危险深◎师父评语-270731.html" title="显示心不去危险深◎师父评语 2013年03月07日" target="_blank">显示心不去危险深◎师父评语</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2013/2/27/证实什么-◎师父评语-270464.html" title="证实什么？◎师父评语 2013年02月27日" target="_blank">证实什么？◎师父评语</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2012/12/19/你是修炼人吗-◎师父评语-266732.html" title="你是修炼人吗？◎师父评语 2012年12月19日" target="_blank">你是修炼人吗？◎师父评语</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2010/9/9/229437.html" title="跪在师父法像面前掷爻就算请示？◎师父评语 2010年09月09日" target="_blank">跪在师父法像面前掷爻就算请示？◎师父评语</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2009/11/14/212590.html" title="大法经文只能用原文原声 绝对不能用其它录音 ◎师父加注 2009年11月14日" target="_blank">大法经文只能用原文原声 绝对不能用其它录音 ◎师父加注</a></li></ul>
+			</div> <!--rightbar_content-->
+		</div> <!--bgRightbar_mm-->
+		<div class="bgRightbar_bm"><div class="more_articles_left_rightbar"><a href="/mh/fenlei/219/"><img src="/pub/cmh2015/images/more_articles.png" /></a></div></div>
+	</div> <!-- end of bShifu_PingZhu -->
+
+	<br class="clearfloat"> <!-- ========================================================================== -->
+	<div class="rightbarhr" ></div>
+
+	<div id="bTuiJian_JiaoLiu">
+		<div class="bgRightbar_tm">
+			<div class="rightbar_header_no_bullet"><img src='/pub/cmh2015/images/yellowblock.png' class='fp_rightbaryellowblock' /><a href="/mh/review/jiaoliu"><img src="/pub/cmh2015/images/rightbar_text_tuijian_jiaoliu.png"  style='height:14px;' /></a></div>
+		</div>
+		<div class="bgRightbar_mm">
+			<div class="rightbar_content">
+				<ul><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/26/安装和使用监控摄像头的安全常识-390610.html" title="安装和使用监控摄像头的安全常识 2019年07月26日" target="_blank">安装和使用监控摄像头的安全常识</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/23/抓住重点、搜集主要迫害者名单-390421.html" title="抓住重点、搜集主要迫害者名单 2019年07月23日" target="_blank">抓住重点、搜集主要迫害者名单</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/23/手机监控和间谍软件-390494.html" title="手机监控和间谍软件 2019年07月23日" target="_blank">手机监控和间谍软件</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/15/方圆几里都知道法轮大法好-389810.html" title="方圆几里都知道法轮大法好 2019年07月15日" target="_blank">方圆几里都知道法轮大法好</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/15/也谈“检察院与法院人员很多未接触到真相”-389986.html" title="也谈“检察院与法院人员很多未接触到真相” 2019年07月15日" target="_blank">也谈“检察院与法院人员很多未接触到真相”</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/15/延长的寿命-389775.html" title="延长的寿命 2019年07月15日" target="_blank">延长的寿命</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/6/28/立即行动起来-配合天象变化-389252.html" title="立即行动起来　配合天象变化 2019年06月28日" target="_blank">立即行动起来　配合天象变化</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/6/27/另外空间所见-加强正念-分清它我-389249.html" title="另外空间所见：加强正念　分清它我 2019年06月27日" target="_blank">另外空间所见：加强正念　分清它我</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/6/23/提醒在海外的大陆学员摒弃党文化-389087.html" title="提醒在海外的大陆学员摒弃党文化 2019年06月23日" target="_blank">提醒在海外的大陆学员摒弃党文化</a></li></ul>
+			</div> <!--rightbar_content-->
+		</div> <!--bgRightbar_mm-->
+		<div class="bgRightbar_bm"><div class="more_articles_left_rightbar"><a href="/mh/review/jiaoliu"><img src="/pub/cmh2015/images/more_articles.png" /></a></div></div>
+	</div> <!-- end of bTuiJian_JiaoLiu -->
+
+	<br class="clearfloat"> <!-- ========================================================================== -->
+	<div class="rightbarhr" ></div>
+
+	<div id="bReLan_ShiShi">
+		<div class="bgRightbar_tm">
+			<div class="rightbar_header_no_bullet"><img src='/pub/cmh2015/images/yellowblock.png' class='fp_rightbaryellowblock' /><a href="/mh/review/shishi"><img src="/pub/cmh2015/images/rightbar_text_relan_shishi.png"  style='height:18px ' /></a></div>
+		</div>
+		<div class="bgRightbar_mm">
+			<div class="rightbar_content">
+				<ul><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/29/加政要呼吁禁止迫害人权者入境-390761.html" title="加政要呼吁禁止迫害人权者入境 2019年07月29日" target="_blank">加政要呼吁禁止迫害人权者入境</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/24/现代观念的危害-390496.html" title="现代观念的危害 2019年07月24日" target="_blank">现代观念的危害</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/22/撼不动的正信-二十年坚持反迫害（图）-390404.html" title="撼不动的正信　二十年坚持反迫害（图） 2019年07月22日" target="_blank">撼不动的正信　二十年坚持反迫害（图）</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/21/德国外交部发布公告谴责中共迫害法轮功-390329.html" title="德国外交部发布公告谴责中共迫害法轮功 2019年07月21日" target="_blank">德国外交部发布公告谴责中共迫害法轮功</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/21/法轮功学员将恶人名单递交美国国务院-390336.html" title="法轮功学员将恶人名单递交美国国务院 2019年07月21日" target="_blank">法轮功学员将恶人名单递交美国国务院</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/19/明慧二十周年报告（9）-390134.html" title="明慧二十周年报告（9） 2019年07月19日" target="_blank">明慧二十周年报告（9）</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/18/美国总统在白宫会见受迫害法轮功学员-390191.html" title="美国总统在白宫会见受迫害法轮功学员 2019年07月18日" target="_blank">美国总统在白宫会见受迫害法轮功学员</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/18/明慧二十周年报告（8）-390133.html" title="明慧二十周年报告（8） 2019年07月18日" target="_blank">明慧二十周年报告（8）</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/17/明慧二十周年报告（7）-390131.html" title="明慧二十周年报告（7） 2019年07月17日" target="_blank">明慧二十周年报告（7）</a></li></ul>
+			</div> <!--rightbar_content-->
+		</div> <!--bgRightbar_mm-->
+		<div class="bgRightbar_bm"><div class="more_articles_left_rightbar"><a href="/mh/review/shishi"><img src="/pub/cmh2015/images/more_articles.png" /></a></div></div>
+	</div> <!-- end of bReLan_ShiShi -->
+
+
+
+	<br class="clearfloat"> <!-- ========================================================================== -->
+	<div class="rightbarhr" ></div>
+
+	<div id="bXiuLianGuShi">
+		<div class="bgRightbar_tm">
+			<div class="rightbar_header_no_bullet"><img src='/pub/cmh2015/images/yellowblock.png' class='fp_rightbaryellowblock' /><a href="/mh/review/xiuliangushi"><img src="/pub/cmh2015/images/rightbar_text_minghui_xiuliangushi.png"  style='height:14px;' /></a></div>
+		</div>
+		<div class="bgRightbar_mm">
+			<div class="rightbar_content">
+				<ul><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/5/17/【庆祝513】越南学员-我幸运的找到了大法-387435.html" title="【庆祝513】越南学员：我幸运的找到了大法 2019年05月17日" target="_blank">【庆祝513】越南学员：我幸运的找到了大法</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/5/15/【庆祝513】“法轮大法好”的奇迹如神话-386075.html" title="【庆祝513】“法轮大法好”的奇迹如神话 2019年05月15日" target="_blank">【庆祝513】“法轮大法好”的奇迹如神话</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/5/14/【庆祝513】我和亲人们的感恩-386440.html" title="【庆祝513】我和亲人们的感恩 2019年05月14日" target="_blank">【庆祝513】我和亲人们的感恩</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/5/13/【庆祝513】全切的乳房长起来了-386074.html" title="【庆祝513】全切的乳房长起来了 2019年05月13日" target="_blank">【庆祝513】全切的乳房长起来了</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/5/13/【庆祝513】六叶幸运草-386439.html" title="【庆祝513】六叶幸运草 2019年05月13日" target="_blank">【庆祝513】六叶幸运草</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/5/11/【庆祝513】新学员-修大法起死回生-386076.html" title="【庆祝513】新学员：修大法起死回生 2019年05月11日" target="_blank">【庆祝513】新学员：修大法起死回生</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/5/11/【庆祝513】历经大难得洪福-385975.html" title="【庆祝513】历经大难得洪福 2019年05月11日" target="_blank">【庆祝513】历经大难得洪福</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/5/10/【庆祝513】话说我们屯-386437.html" title="【庆祝513】话说我们屯 2019年05月10日" target="_blank">【庆祝513】话说我们屯</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/5/9/【庆祝513】长夜尽头是彩霞-385979.html" title="【庆祝513】长夜尽头是彩霞 2019年05月09日" target="_blank">【庆祝513】长夜尽头是彩霞</a></li></ul>
+			</div> <!--rightbar_content-->
+		</div> <!--bgRightbar_mm-->
+		<div class="bgRightbar_bm"><div class="more_articles_left_rightbar"><a href="/mh/review/xiuliangushi"><img src="/pub/cmh2015/images/more_articles.png" /></a></div></div>
+	</div> <!-- end of bXiuLianGuShi -->
+
+	<br class="clearfloat"> <!-- ========================================================================== -->
+	<div class="rightbarhr" ></div>
+
+	<div id="bMingHui_ZhouKan">
+		<div class="bgRightbar_tm">
+			<div class="rightbar_header_no_bullet"><img src='/pub/cmh2015/images/yellowblock.png' class='fp_rightbaryellowblock' style='margin-bottom:3px !important;' /><a href="http://qikan.minghui.org/display.aspx?qikan_type_id=5179"><img src="/pub/cmh2015/images/rightbar_text_minghui_zhoukan.png"  style='height:14px' /></a></div>
+		</div>
+		<div class="bgRightbar_mm">
+			<div class="rightbar_content">
+				<ul><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://qikan.minghui.org/qikan.aspx?id=193720" target="_blank">第915期<span>（2019年7月26日）</span> </a><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://qikan.minghui.org/qikan.aspx?id=193600" target="_blank">第914期<span>（2019年7月19日）</span> </a><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://qikan.minghui.org/qikan.aspx?id=193511" target="_blank">第913期<span>（2019年7月12日）</span> </a><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://qikan.minghui.org/qikan.aspx?id=193413" target="_blank">第912期<span>（2019年7月5日）</span> </a><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://qikan.minghui.org/qikan.aspx?id=193334" target="_blank">第911期<span>（2019年6月28日）</span> </a><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://qikan.minghui.org/qikan.aspx?id=193254" target="_blank">第910期<span>（2019年6月21日）</span> </a><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://qikan.minghui.org/qikan.aspx?id=193168" target="_blank">第909期<span>（2019年6月14日）</span> </a><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://qikan.minghui.org/qikan.aspx?id=193083" target="_blank">第908期<span>（2019年6月7日）</span> </a><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://qikan.minghui.org/qikan.aspx?id=192997" target="_blank">第907期<span>（2019年5月31日）</span> </a></ul>
+			</div> <!--rightbar_content-->
+		</div> <!--bgRightbar_mm-->
+		<div class="bgRightbar_bm"><div class="more_articles_left_rightbar"><a href="http://qikan.minghui.org/display.aspx?qikan_type_id=5179"><img src="/pub/cmh2015/images/more_articles.png" /></a></div></div>
+	</div> <!-- end of bMingHui_ZhouKan -->
+
+	<br class="clearfloat"> <!-- ========================================================================== -->
+	<div class="rightbarhr" ></div>
+	<div id="bMinghui_Dalu_Fahui">
+		<div class="bgRightbar_tm">
+			<div class="rightbar_header_no_bullet"><img src='/pub/cmh2015/images/yellowblock.png' class='fp_rightbaryellowblock' /><a href="/mh/fenlei/252/"><img src="/pub/cmh2015/images/rightbar_text_minghui_dalu_fahui.png"  style='height:14px;' /></a></div>
+		</div>
+		<div class="bgRightbar_mm">
+			<div class="rightbar_content">
+				<div><a href="/mh/fenlei/352/">2018</a><span class="rightbar_col2"><a href="/mh/fenlei/287/">2009</a></span></div>
+				<div><a href="/mh/fenlei/351/">2017</a><span class="rightbar_col2"><a href="/mh/fenlei/258/">2008</a></span></div>
+				<div><a href="/mh/fenlei/350/">2016</a><span class="rightbar_col2"><a href="/mh/fenlei/256/">2007</a></span></div>
+				<div><a href="/mh/fenlei/348/">2015</a><span class="rightbar_col2"><a href="/mh/fenlei/255/">2006</a></span></div>
+				<div><a href="/mh/fenlei/341/">2014</a><span class="rightbar_col2"><a href="/mh/fenlei/254/">2005</a></span></div>
+				<div><a href="/mh/fenlei/340/">2013</a><span class="rightbar_col2"><a href="/mh/fenlei/253/">2004</a></span></div>
+				<div><a href="/mh/fenlei/312/">2012</a></div>
+				<div><a href="/mh/fenlei/309/">2011</a></div>
+				<div><a href="/mh/fenlei/308/">2010</a></div>
+			</div> <!--rightbar_content-->
+		</div> <!--bgRightbar_mm-->
+	</div> <!-- end of bMinghui_Dalu_Fahui -->
+
+
+	<br class="clearfloat"> <!-- ========================================================================== -->
+	<div class="rightbarhr" ></div>
+		<div id="bRecommended_Qikan">
+			<div class="bgRightbar_tm">
+				<div class="rightbar_header_no_bullet"><img src='/pub/cmh2015/images/yellowblock.png' class='fp_rightbaryellowblock' /><a href="http://qikan.minghui.org/display.aspx?category_id=2&is_tuijian=true&yuyan_id=1"><img src='/pub/cmh2015/images/rightbar_text_tuijian_qikan.png' /></a>
+			</div>
+			</div>
+			<div class="bgRightbar_mm">
+				<div class="rightbar_content">
+					
+					<ul><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://qikan.minghui.org/qikan.aspx?id=177962" title="明慧特刊：中共活摘器官" target="_blank">明慧特刊：中共活摘器官</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://qikan.minghui.org/qikan.aspx?id=175848" title="明慧期刊：三退问答选编" target="_blank">明慧期刊：三退问答选编</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://qikan.minghui.org/qikan.aspx?id=171543" title="明慧期刊：三退手册（2016年6月更新）" target="_blank">明慧期刊：三退手册（2016年6月更新）</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://qikan.minghui.org/qikan.aspx?id=161178" title="明慧期刊：真相特刊（澄清谎言与疑问合集）" target="_blank">明慧期刊：真相特刊（澄清谎言与疑问合集）</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://qikan.minghui.org/qikan.aspx?id=172134" title="明慧特刊：起诉江泽民（2016年6月更新）" target="_blank">明慧特刊：起诉江泽民（2016年6月更新）</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://qikan.minghui.org/qikan.aspx?id=164126" title="世纪骗局——天安门自焚伪案揭秘（2016年1月12日更新）" target="_blank">世纪骗局——天安门自焚伪案揭秘（2016年1月12日更新）</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href=" http://qikan.minghui.org/qikan.aspx?id=163768" title="三折真相传单（大陆／海外版）（2015年11月更新）" target="_blank">三折真相传单（大陆／海外版）（2015年11月更新）</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://qikan.minghui.org/qikan.aspx?id=171022" title="真相传单：给有缘人的一封信（2016年6月23日更新）" target="_blank">真相传单：给有缘人的一封信（2016年6月23日更新）</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://qikan.minghui.org/qikan.aspx?id=168421" title="海外景点真相展板一套（14张）" target="_blank">海外景点真相展板一套（14张）</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://qikan.minghui.org/qikan.aspx?id=178076" title="真相传单：为什么看法轮功资料" target="_blank">真相传单：为什么看法轮功资料</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://qikan.minghui.org/qikan.aspx?id=178810 " title="真相展板图片一套（10张）" target="_blank">真相展板图片一套（10张）</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://qikan.minghui.org/qikan.aspx?id=178729" title="三退画刊" target="_blank">三退画刊</a></li></ul>
+				
+				</div>
+				<!--rightbar_content-->
+			</div>
+			<!--bgRightbar_mm-->
+				<div class="bgRightbar_bm"><div class="more_articles_left_rightbar"><a href="http://qikan.minghui.org/display.aspx?category_id=2&is_tuijian=true&yuyan_id=1"><img src="/pub/cmh2015/images/more_articles.png" /></a></div></div>
+		</div>
+	<br class="clearfloat"> <!-- ========================================================================== -->
+	<div class="rightbarhr" ></div>
+	<div id="bMinghui_Congshu">
+		<div class="bgRightbar_tm">
+			<div class="rightbar_header_no_bullet"><img src='/pub/cmh2015/images/yellowblock.png' class='fp_rightbaryellowblock' /><a href="http://www.tiantibooks.org/collections/sharing"><img src="/pub/cmh2015/images/rightbar_text_minghui_congshu.png"  style='height:14px;'/></a></div>
+		</div>
+		<div class="bgRightbar_mm">
+			<div class="rightbar_content">
+			<ul>
+				<li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://www.tiantibooks.org/collections/sharing/products/jue-chu-feng-sheng-chinese" title="2003年，有位法轮功学员的父亲得了绝症，入院治疗。有法轮功学员听说后，专为他挑选了一些典型的修大法康复的文章，以《绝处逢生》为名送给他。他很高兴，同病室的人也很高兴，因为“绝处逢生”的名字让他们感觉很吉祥，内容也很有说服力。不久，这位父亲出院了，也开始修炼法轮大法了。2004年7月明慧丛书编辑部正式推出《绝处逢生》一书。">绝处逢生</a></li>
+				<li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://www.tiantibooks.org/collections/sharing/products/xiu-vol-i-chinese" title="二零零六年十二月圣诞节，明慧网《修》丛书卷一正式出版，卷二也将于新年之际面世。《修&#8226;卷一》收录了一九九五年至一九九六年之间大陆大法弟子的修炼心得和故事七十七篇。更多详情，请参阅：《修》丛书正式出版发行（图）">修</a></li>
+				<li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://www.tiantibooks.org/collections/sharing/products/lian-vol-i-chinese" title="明慧网《修》、《炼》两套丛书，精选一九九二年大法传出以来世界各地大法弟子的修炼心得体会和理性切磋文章编辑成书。一九九九年七月二十日之前成文的收入《修》丛书，“七.二零”之后成文的收入《炼》丛书。">炼</a></li>
+				<li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://www.tiantibooks.org/collections/sharing/products/fo-guang-pu-zhao-chinese" title="明慧丛书新书 《佛光普照》 于二零一一年七月十六日出版。该书是明慧网二零一零年“世界法轮大法日”专题征稿选登，内容包括见证文章、美术作品和珍贵历史图片。">佛光普照</a></li>
+				<li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://www.tiantibooks.org/collections/sharing/products/tong-hua-fa-guang-chinese" title="《同化法光》是一本关于现代人修炼的故事集锦，作者来自大陆、台湾、欧美，有华裔、也有西方各族裔，分属不同的社会阶层和背景。生活在现代社会的人们，往往不得不面对各种压力和焦虑，也难免遭受各种病痛的折磨，在忙碌之余，也会追问人生的意义到底是什么。《同化法光》一书中的各个故事的主人公也经历了这种困扰和迷茫……">同化法光</a></li>
+				<li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://www.tiantibooks.org/collections/sharing/products/life-and-hope-renewed-the-healing-power-of-falun-dafa" title="《绝处逢生》英文版（内容少于中文版）。法轮功祛病健身故事集。">Life and Hope Renewed</a></li>
+				<li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://www.tiantibooks.org/collections/sharing/products/hearts-and-minds-uplifted" title="法轮功学员修炼体会和故事集。英文。">Hearts and Mind Uplifted</a></li>
+				<li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://www.minghui.org/mh/articles/2003/12/29/62794.html" title="第一章：一位大陆留学生心中的仇和恨；什么是『群体灭绝罪』？；追查迫害法轮功国际组织在美成立；江泽民被告上美国伊利诺州北区联邦法庭；法轮功学员控告江泽民案件原告律师访谈录；被迫害致死的法轮功学员分类统计表；江泽民及其610办公室在道德法庭受到审判；……结束语：刚刚开始，远未结束">起诉江泽民</a></li>
+				<li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://www.minghui.org/mh/articles/2003/6/29/53067.html" title="法轮功自1992年由李洪志先生传出后至今十一年时间，已经传遍了世界五大洲的60多个国家和地区，有上亿人修炼。法轮功在世界各地广受欢迎，迄今为止授予法轮功及李洪志先生的各项奖励超过1000项。本文用科学的事实向读者展现法轮功的真实面貌，以帮助您从现代医学试验和古典中医理论几方面了解法轮功对健康的贡献、祛病健身的奇效。（技术帮助：Windows 7 用户，可能需要右点击文件，然后点击  [ Unblock ] 以便阅读。）">法轮大法修炼效果的生物医学报告</a></li>
+				</ul>
+			</div> <!--rightbar_content-->
+		</div> <!--bgRightbar_mm-->
+		<div class="bgRightbar_bm"><div class="more_articles_left_rightbar"><a href="/mhbooks/1.html"><img src="/pub/cmh2015/images/more_articles.png" /></a></div></div>
+	</div> <!-- end of bMinghui_Congshu -->
+
+	<br class="clearfloat"> <!-- ========================================================================== -->
+	<div class="rightbarhr" ></div>
+
+	<div id="bRemen_Minghui_Guangbo">
+		<div class="bgRightbar_tm">
+			<div class="rightbar_header_no_bullet"><img src='/pub/cmh2015/images/yellowblock.png' class='fp_rightbaryellowblock' /><a href="http://www.mhradio.org"><img src="/pub/cmh2015/images/rightbar_text_remen_minghui_guangbo.png"  style='height:14px;'/></a></div>
+		</div>
+		<div class="bgRightbar_mm">
+			<div class="rightbar_content">
+			<ul>
+				<li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://www.mhradio.org/showprogram/3064.html" target="_blank">天音净乐第157集【师恩颂】</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://www.mhradio.org/showprogram/3669.html" target="_blank">密勒日巴佛修炼故事（15）</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://www.mhradio.org/showprogram/3134.html" target="_blank">天音净乐第162集【雄姿震天门】</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://www.mhradio.org/showprogram/3038.html" target="_blank">天音净乐 第155集 【新年特辑二】</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://www.mhradio.org/showprogram/3811.html" target="_blank">明慧简讯 (01/27/2011)</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://www.mhradio.org/showprogram/3549.html" target="_blank">密勒日巴佛修炼故事（5）</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://www.mhradio.org/showprogram/4655.html" target="_blank">第八届大陆大法弟子修炼心得交流会（13）</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://www.mhradio.org/showprogram/4488.html" target="_blank">天音净乐第248集【法轮圣王】</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://www.mhradio.org/showprogram/1272.html" target="_blank">天音净乐（第62集）【思故国】</a></li>
+			</ul>
+			</div> <!--rightbar_content-->
+		</div> <!--bgRightbar_mm-->
+		<div class="bgRightbar_bm"><div class="more_articles_left_rightbar"><a href="http://www.mhradio.org"><img src="/pub/cmh2015/images/more_articles.png" /></a></div></div>
+	</div> <!-- end of bRemen_Minghui_Guangbo -->
+
+	<br class="clearfloat"> <!-- ========================================================================== -->
+	<div class="rightbarhr" ></div>
+<div id="bMinghui_Wangqun">
+	<div class="bgRightbar_tm">
+		<div class="rightbar_header_no_bullet"><img src='/pub/cmh2015/images/yellowblock.png' class='fp_rightbaryellowblock' /><a href="/mh/subsites.html"><img src="/pub/cmh2015/images/rightbar_text_minghui_wangqun.png"  style='height:14px;'/></a></div>
+	</div>
+	<div class="bgRightbar_mm">
+		<div class="rightbar_content">
+			<ul>
+				<li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://qikan.minghui.org/display.aspx?qikan_type_id=5179" title="明慧周刊">明慧周刊</a></li>
+				<li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://qikan.minghui.org/display.aspx?qikan_type_id=5178" title="明慧周报（大陆版）">明慧周报（大陆版）</a></li>
+				<li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://zhoubao.minghui.org/mh/haizb/index.html" title="明慧周报（海外版）">明慧周报（海外版）</a></li>
+				<li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="http://library.minghui.org/" title="明慧资料馆">明慧资料馆</a></li>
+				<li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/subsites.html" title="English and Other Language Minghui">英文和其他语种明慧网</a></li>
+			</ul>
+		</div><!--rightbar_content-->
+	</div><!--bgRightbar_mm-->
+	<div class="bgRightbar_bm">
+		<div class="more_articles_left_rightbar"><a href="/mh/subsites.html"><img src="/pub/cmh2015/images/more_articles.png" /></a></div>
+	</div>
+</div> <!-- end of bMinghui_Wangqun -->
+<!-- begin week relanwenzhang -->
+<br class="clearfloat"> <!-- ========================================================================== -->
+	<div class="rightbarhr" ></div>
+	<div id="BengZhouReLanBang">
+		<div class="bgRightbar_tm">
+			<div class="rightbar_header_no_bullet"><img src='/pub/cmh2015/images/yellowblock.png' class='fp_rightbaryellowblock' /><a href="/mh/articles/2019/7/30/stats_week.html"><img src="/pub/cmh2015/images/rightbar_benzhourelan.png" /></a></div>
+		</div>
+		<div class="bgRightbar_mm">
+			<div class="rightbar_content">
+				<ul><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/28/真相短视频-美国国务院将严审、拒发、取消迫害者的签证-390722.html" title="真相短视频：美国国务院将严审、拒发、取消迫害者的签证 2019年07月28日" target="_blank">真相短视频：美国国务院将严审、拒发、取消迫害者的签证</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/23/手机监控和间谍软件-390494.html" title="手机监控和间谍软件 2019年07月23日" target="_blank">手机监控和间谍软件</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/24/现代观念的危害-390496.html" title="现代观念的危害 2019年07月24日" target="_blank">现代观念的危害</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/26/学师父新经文《致加拿大法会》有感-390613.html" title="学师父新经文《致加拿大法会》有感 2019年07月26日" target="_blank">学师父新经文《致加拿大法会》有感</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/28/二零一九年七月二十八日大陆综合消息-390723.html" title="二零一九年七月二十八日大陆综合消息 2019年07月28日" target="_blank">二零一九年七月二十八日大陆综合消息</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/26/安装和使用监控摄像头的安全常识-390610.html" title="安装和使用监控摄像头的安全常识 2019年07月26日" target="_blank">安装和使用监控摄像头的安全常识</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/26/真相短视频-全奖入读美国名校-390655.html" title="真相短视频：全奖入读美国名校 2019年07月26日" target="_blank">真相短视频：全奖入读美国名校</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/24/美国会中国问题委员会发表声明敦促中共停止迫害法轮功-390514.html" title="美国会中国问题委员会发表声明敦促中共停止迫害法轮功 2019年07月24日" target="_blank">美国会中国问题委员会发表声明敦促中共停止迫害法轮功</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/22/敢放下-390362.html" title="敢放下 2019年07月22日" target="_blank">敢放下</a></li></ul>
+			</div> <!--rightbar_content-->
+		</div> <!--bgRightbar_mm-->
+		<div class="bgRightbar_bm"><div class="more_articles_left_rightbar"><a href="/mh/articles/2019/7/30/stats_week.html"><img src="/pub/cmh2015/images/more_articles.png" /></a></div></div>
+	</div> <!-- end of BengZhouReLanBang -->
+
+
+<!-- begin benyurelanwenzhang -->
+<br class="clearfloat"> <!-- ========================================================================== -->
+	<div class="rightbarhr" ></div>
+	<div id="BengYueReLanBang">
+		<div class="bgRightbar_tm">
+			<div class="rightbar_header_no_bullet"><img src='/pub/cmh2015/images/yellowblock.png' class='fp_rightbaryellowblock' /><a href="/mh/articles/2019/7/30/stats_month.html"><img src="/pub/cmh2015/images/rightbar_benyuerelan.png" /></a></div>
+		</div>
+		<div class="bgRightbar_mm">
+			<div class="rightbar_content">
+				<ul><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/21/法轮功学员将恶人名单递交美国国务院-390336.html" title="法轮功学员将恶人名单递交美国国务院 2019年07月21日" target="_blank">法轮功学员将恶人名单递交美国国务院</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/8/古人戒色鉴言-389737.html" title="古人戒色鉴言 2019年07月08日" target="_blank">古人戒色鉴言</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/21/德国外交部发布公告谴责中共迫害法轮功-390329.html" title="德国外交部发布公告谴责中共迫害法轮功 2019年07月21日" target="_blank">德国外交部发布公告谴责中共迫害法轮功</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/8/二零一九年七月八日大陆综合消息-389752.html" title="二零一九年七月八日大陆综合消息 2019年07月08日" target="_blank">二零一九年七月八日大陆综合消息</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/21/忆师恩-再精進-390227.html" title="忆师恩　再精進 2019年07月21日" target="_blank">忆师恩　再精進</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/8/在矛盾中一定要修自己-373235.html" title="在矛盾中一定要修自己 2019年07月08日" target="_blank">在矛盾中一定要修自己</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/21/修去党文化从读法开始-390226.html" title="修去党文化从读法开始 2019年07月21日" target="_blank">修去党文化从读法开始</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/8/背法帮我闯难关-389553.html" title="背法帮我闯难关 2019年07月08日" target="_blank">背法帮我闯难关</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/7/21/认识到党文化的危害-389989.html" title="认识到党文化的危害 2019年07月21日" target="_blank">认识到党文化的危害</a></li></ul>
+			</div> <!--rightbar_content-->
+		</div> <!--bgRightbar_mm-->
+		<div class="bgRightbar_bm"><div class="more_articles_left_rightbar"><a href="/mh/articles/2019/7/30/stats_month.html"><img src="/pub/cmh2015/images/more_articles.png" /></a></div></div>
+	</div> <!-- end of benyurelanwenzhang -->
+
+
+<!-- begin 17yearsrelanwenzhang -->
+<br class="clearfloat"> <!-- ========================================================================== -->
+	<div class="rightbarhr" ></div>
+	<div id="17yearsReLanBang">
+		<div class="bgRightbar_tm">
+			<div class="rightbar_header_no_bullet"><img src='/pub/cmh2015/images/yellowblock.png' class='fp_rightbaryellowblock' /><a href="/mh/articles/2019/7/30/stats_17years.html"><img src="/pub/cmh2015/images/rightbar_17year-relan.png" /></a></div>
+		</div>
+		<div class="bgRightbar_mm">
+			<div class="rightbar_content">
+				<ul><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2018/11/5/法轮大法炼功音乐（2018年版）-376726.html" title="法轮大法炼功音乐（2018年版） 2018年11月05日" target="_blank">法轮大法炼功音乐（2018年版）</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2018/6/30/所有大法弟子须知-370462.html" title="所有大法弟子须知 2018年06月30日" target="_blank">所有大法弟子须知</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2018/7/1/致病业中的同修-370463.html" title="致病业中的同修 2018年07月01日" target="_blank">致病业中的同修</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/4/25/现阶段一些同修仍被色欲干扰的原因-385516.html" title="现阶段一些同修仍被色欲干扰的原因 2019年04月25日" target="_blank">现阶段一些同修仍被色欲干扰的原因</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/4/25/养花的教训-385482.html" title="养花的教训 2019年04月25日" target="_blank">养花的教训</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/4/25/跳出人世间的框框看家人和亲友-385483.html" title="跳出人世间的框框看家人和亲友 2019年04月25日" target="_blank">跳出人世间的框框看家人和亲友</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2019/3/16/一次静心学法后-383911.html" title="一次静心学法后 2019年03月16日" target="_blank">一次静心学法后</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2018/10/15/二零一八年十月十五日大陆综合消息-375829.html" title="二零一八年十月十五日大陆综合消息 2018年10月15日" target="_blank">二零一八年十月十五日大陆综合消息</a></li><li><img src= '/pub/cmh2015/images/arrowblue.png' class='arrowblue' /><a href="/mh/articles/2018/9/14/提醒国内同修-注意必要的安全措施--373829.html" title="提醒国内同修：注意必要的安全措施！ 2018年09月14日" target="_blank">提醒国内同修：注意必要的安全措施！</a></li></ul>
+			</div> <!--rightbar_content-->
+		</div> <!--bgRightbar_mm-->
+		<div class="bgRightbar_bm"><div class="more_articles_left_rightbar"><a href="/mh/articles/2019/7/30/stats_17years.html"><img src="/pub/cmh2015/images/more_articles.png" /></a></div></div>
+	</div> <!-- end of 17yearsrelanwenzhang -->
+
+<!-- begin linianqianbaiming -->
+<br class="clearfloat"> <!-- ========================================================================== -->
+	<div class="rightbarhr" ></div>
+<div id="linianqianbaiming">
+	<div class="bgRightbar_tm">
+		<div class="rightbar_header_no_bullet"><img src="/pub/cmh2015/images/yellowblock.png" class="fp_rightbaryellowblock" /><a href="/mh/yearlyrank/yr2015.html"><img src="/pub/cmh2015/images/linianqianbaiming.png" /></a></div>
+	</div>
+	<div class="bgRightbar_mm">
+		<div class="rightbar_content" id="LiNianQianBaiMingYearList">
+			<div>
+			<span id="year2019"><a href="/mh/yearlyrank/yr2019.html">2019</a></span>
+			<span id="year2010" class="col2"><a href="/mh/yearlyrank/yr2010.html">2010</a></span>
+			<span id="year2001" class="col3"><a href="/mh/yearlyrank/yr2001.html">2001</a></span>
+			</div>
+			<div>
+			<span id="year2018"><a href="/mh/yearlyrank/yr2018.html">2018</a></span>
+			<span id="year2009" class="col2"><a href="/mh/yearlyrank/yr2009.html">2009</a></span>
+			<span id="year2000" class="col3"><a href="/mh/yearlyrank/yr2000.html">2000</a></span>
+			</div>
+			<div>
+			<span id="year2017"><a href="/mh/yearlyrank/yr2017.html">2017</a></span>
+			<span id="year2008" class="col2"><a href="/mh/yearlyrank/yr2008.html">2008</a></span>
+			</div>
+			<div>
+			<span id="year2016"><a href="/mh/yearlyrank/yr2016.html">2016</a></span>
+			<span id="year2007" class="col2"><a href="/mh/yearlyrank/yr2007.html">2007</a></span>
+			</div>
+			<div>
+			<span id="year2015"><a href="/mh/yearlyrank/yr2015.html">2015</a></span>
+			<span id="year2006" class="col2"><a href="/mh/yearlyrank/yr2006.html">2006</a></span>
+			</div>
+			<div>
+			<span id="year2014"><a href="/mh/yearlyrank/yr2014.html">2014</a></span>
+			<span id="year2005" class="col2"><a href="/mh/yearlyrank/yr2005.html">2005</a></span>
+			</div>
+			<div>
+			<span id="year2013"><a href="/mh/yearlyrank/yr2013.html">2013</a></span>
+			<span id="year2004" class="col2"><a href="/mh/yearlyrank/yr2004.html">2004</a></span>
+			</div>
+			<div>
+			<span id="year2012"><a href="/mh/yearlyrank/yr2012.html">2012</a></span>
+			<span id="year2003" class="col2"><a href="/mh/yearlyrank/yr2003.html">2003</a></span>
+			</div>
+			<div>
+			<span id="year2011"><a href="/mh/yearlyrank/yr2011.html">2011</a></span>
+			<span id="year2002" class="col2"><a href="/mh/yearlyrank/yr2002.html">2002</a></span>
+			</div>
+		</div> <!--rightbar_content-->
+	</div> <!--bgRightbar_mm-->
+	<div class="bgRightbar_bm"></div>
+</div> <!-- end of linianqianbaiming -->
+<br class="clearfloat"> 
+<!-- end of #fp_rightbar --></div>
+			<br class="clearfloat"> <!-- ========================================================================== -->
+			<!-- end of #fp_container1_2 --></div>
+		<!-- end of #fp_container1 --></div>
+
+
+		<br class="clearfloat" />
+		<div id="footer">
+			<div id="fp_redianzhuanti" >
+				<div id="rdzttitle">							
+					<a href="/mh/rdzt.html"><img src ="/pub/cmh2015/images/todaynews_redianzhuanti.png" /></a>							
+				<!-- end of #rdzttitle --></div>
+				<div id="rdztcontent">
+			
+				﻿<ul>
+	<li><a href="http://www.minghui.org/mh/fenlei/189/"><img src="/pub/cmh2015/images/leftbar/_1-falun.png" alt="法轮功简介" /><h5>法轮功简介</h5></a></li>
+	<li><a href="http://package.minghui.org/mh/packages/425/"><img src="/pub/cmh2015/images/leftbar/3-396386-425.jpg" alt="明慧专题：“4.25大上访因由" /><h5>4.25大上访因由</h5></a></li>
+	<li><a href="http://package.minghui.org/mh/packages/zifen/"><img src="/pub/cmh2015/images/leftbar/zifen.jpg" alt="明慧专题：是自焚还是骗局？" /><h5>是自焚还是骗局？</h5></a></li>
+	<li><a href="http://package.minghui.org/mh/packages/1400/"><img src="/pub/cmh2015/images/leftbar/2-396387-1400deathcases.jpg" alt="明慧专题：1400例造假" /><h5>1400例造假</h5></a></li>
+	<li><a href="https://library.minghui.org/deathcase/Html/DeathCase/DeathDate/"><img src="/pub/cmh2015/images/leftbar/death.jpg" alt="明慧专题：“被迫害致死者名单" /><h5>4334位被迫害致死</h5></a></li>
+	<br>
+	<li><a href="http://www.falundafa.org/"><img src="/pub/cmh2015/images/Hot_Topic_falundafa.jpg" /><h5>在线阅读法轮功书籍</h5></a></li>
+	<li><a href="http://www.tiantibooks.org/?sl=zh"><img src="/pub/cmh2015/images/tiantibooks.png" /><h5>法轮功书籍专卖店</h5></a></li>
+	<li><a href="http://www.minghui.org/mh/sujiang/index.html"><img src="/pub/cmh2015/images/leftbar/justice.jpg" alt="起诉江泽民" /><h5>起诉江泽民</h5></a><h6 id="fp_sujiang_number">209,908</h6><div id="fp_sujiang_number_bk"></div></li>
+	<li><a href="http://qikan.minghui.org/display.aspx?category_id=3&zhuanti_id=5"><img src="/mh/article_images/2014-12-24-MH3tui-collage3--ss.png" /><h5>三退好．您退了吗？</h5></a><h6 id="fp_santui">338,408,103</h6></li>
+	<li><a href="http://package.minghui.org/mh/packages/organ-harvest/"><img src="/pub/cmh2015/images/leftbar/6-449635-organ-harvest.jpg" alt="明慧专题：中共活体摘取法轮功学员器官" /><h5>前所未有的罪恶</h5></a></li>
+	<br>
+	<li><a href="http://library.minghui.org/category/35,,,1.htm"><img src="/pub/cmh2015/images/leftbar/fawanghuihui-1.jpg" alt="恶人榜 " /><h5>恶人榜</h5></a></li>
+	<li><a href="http://www.minghui.org/mh/fenlei/221/"><img src="/pub/cmh2015/images/leftbar/7-380604-punishment.jpg" alt="恶人恶报" /><h5>恶人恶报</h5></a></li>
+	<li><a href="http://library.minghui.org/category/2,93,,1.htm"><img src="/pub/cmh2015/images/leftbar/torture.jpg" alt="迫害手段" /><h5>迫害手段</h5></a></li>
+	<li><a href="http://www.minghui.org/mh/articles/2013/6/13/275294.html"><img src="/pub/cmh2015/images/leftbar/wanzifu.jpg" alt="历史悠久的卍字符" /><h5>历史悠久的卍字符</h5></a></li>
+	<li><a href="https://library.minghui.org"><img src="/pub/cmh2015/images/leftbar/minghuiwangqun.jpg" alt="明慧网群" /><h5>明慧网群</h5></a></li>
+	<br>
+</ul>
+			
+				<!-- end of #rdztcontent --></div>
+			</div>
+			
+			﻿<div class="footer black">
+	<div class="footer_left">
+		<div class="footer_list1">
+			<span class="footercopyrighttitle"><b>明慧网版权所有<span class="en"> © </span>1999-2019</b></span>
+			<span class="footerguanyuwomen"><a href="/mh/about-us.html"><b>关于我们</b></a></span>
+			<span class="footerontactwomen"><a href="/mh/contact-us.html"><b>联系我们</b></a></span>
+
+	</div>
+	</div>
+	<div class="footer_right" id="footer_right">
+		<ul class="footer_subsites">
+			<li><a href="http://big5.minghui.org/" onclick="javascript:return change_language('b5');"><b>正體中文</b></a></li>
+			<li><a href="http://www.minghui.org/"  onclick="javascript:return change_language('gb');"><b>简体中文</b></a></li>
+		</ul>
+		<ul class="footer_mhintl">
+			<li><a href="http://bs.minghui.org/" title="波斯尼亚语" target="_blank">Bosanski</a></li>
+			<li><a href="http://de.minghui.org/" title="德语" target="_blank">Deutsch</a></li>
+			<li><a href="http://en.minghui.org/" title="英语" target="_blank">English</a></li>
+			<li><a href="http://es.minghui.org/" title="西班牙语" target="_blank">Español</a></li>
+			<li><a href="http://fa.minghui.org/" title="波斯语" target="_blank">فارسی</a></li>
+			<li><a href="http://fr.minghui.org/" title="法语" target="_blank">Francais</a></li>
+			<li class="col2 col2reset"><a href="http://he.minghui.org" title="希伯来语" target="_blank">עברית</a></li>
+			<li class="col2"><a href="http://hr.minghui.org/" title="克罗地亚语" target="_blank">Hrvatski</a></li>
+			<li class="col2"><a href="http://id.minghui.org/" title="印尼语" target="_blank">Indonesian</a></li>
+			<li class="col2"><a href="http://it.minghui.org/" title="意大利语" target="_blank">Italiano</a></li>
+			<li class="col2"><a href="http://jp.minghui.org/" title="日语" target="_blank">日本語</a></li>
+			<li class="col2"><a href="http://minghui.or.kr/" title="韩语" target="_blank">한국어</a></li>
+			<li class="col3 col3reset"><a href="https://pl.minghui.org/" title="波兰语版" target="_blank">Polski</a></li>
+			<li class="col3"><a href="http://pt.minghui.org" title="葡萄牙语" target="_blank">Português</a></li>
+			<li class="col3"><a href="http://ru.minghui.org/" title="俄语" target="_blank">Русский</a></li>
+			<li class="col3"><a href="http://sk.minghui.org/" title="斯洛伐克语" target="_blank">Slovenčina</a></li>
+			<li class="col3"><a href="http://sr.minghui.org/" title="塞尔维亚语" target="_blank">Српски</a></li>
+			<li class="col3"><a href="http://vn.minghui.org" title="越南语" target="_blank">tiếng Việt</a></li>
+		</ul>
+	</div>
+</div>
+			
+		<!-- end #footer --></div>
+		<br class="clearfloat">
+    <!-- end #content --></div>
+
+    <div id="header">
+	
+	﻿<link rel="stylesheet" type="text/css" href="/pub/cmh2015/css/banner-menu.css?v=2" />
+<div id="banner-menu">
+        <div class="banner_links">
+            <a class="banner1" href="http://gb.falundafa.org" title="法轮大法网站"></a>
+            <a class="banner2" href="/" title="法轮大法明慧网"></a>
+        </div>
+    	<div class="menubar_links">
+    		<div class="zhuanti_top">
+                <div class="zhuanti_link"><a href="http://library.minghui.org/category/32,94,,1.htm">4334迫害致死名单</a><span class="zhuanti_separator"> | </span><a href="http://package.minghui.org/mh/packages/zifen/">天安门“自焚”真相</a><span class="zhuanti_separator"> | </span><a href="http://package.minghui.org/mh/packages/425/">“4.25”大上访因由</a><span class="zhuanti_separator"> | </span><a href="http://package.minghui.org/mh/packages/1400/">1400例造假</a><span class="zhuanti_separator"> | </span><a href="http://qikan.minghui.org/display.aspx?category_id=3&zhuanti_id=5">338408103人声明三退</a><span class="zhuanti_separator"> | </span><a href="http://en.minghui.org/">English</a><span class="zhuanti_separator"> | </span><a href="#footer_right">Other Languages</a></div>
+                <div class="zhuanti_line"></div>
+            </div>    
+			<div class="menubar_top">
+		            <a href="http://www.minghui.org/mh/fenlei/72/" title="大陆消息"><span class="menu1">大陆消息</span></a>
+			    <span class="menubar_separator">|</span>
+		            <a href="http://www.minghui.org/mh/fenlei/74/" title="海外之窗"><span class="menu2">海外之窗</span></a>
+			    <span class="menubar_separator">|</span>
+		            <a href="http://www.minghui.org/mh/fenlei/73/" title="时事评论"><span class="menu3">时事评论</span></a>
+			    <span class="menubar_separator">|</span>
+		            <a href="http://www.minghui.org/mh/fenlei/80/" title="明慧期刊"><span class="menu4">明慧期刊</span></a>
+			    <span class="menubar_separator">|</span>
+		            <a href="http://www.minghui.org/mh/fenlei/78/" title="天人之间"><span class="menu5">天人之间</span></a>
+			    <span class="menubar_separator">|</span>
+		            <a href="http://www.minghui.org/mh/fenlei/274/" title="诗文乐画"><span class="menu6">诗文乐画</span></a>
+			    <span class="menubar_separator">|</span>
+		            <a href="http://mhradio.org/" title="明慧广播"><span class="menu7">明慧广播</span></a>
+		        <span class="menubar_separator">|</span>
+		            <a href="http://www.minghui.org/mh/fenlei/355/" title="明慧视频"><span class="menu7">明慧视频</span></a>
+			</div>
+			<div class="menubar_bottom">
+		            <a href="http://www.minghui.org/mh/fenlei/97/" title="初学园地"><span class="menu8">初学园地</span></a>
+			    <span class="menubar_separator">|</span>
+					<a href="http://www.minghui.org/#rdzttitle" title="热点专题"><span class="menu10">热点专题</span> </a>
+			    <span class="menubar_separator">|</span>
+		            <a href="http://www.minghui.org/mh/fenlei/98/" title="正法修炼"><span class="menu9">正法修炼</span></a>
+			    <span class="menubar_separator">|</span>
+		            <a href="http://www.minghui.org/mh/fenlei/298/" title="资料点园地"><span class="menu10">资料点园地</span></a>
+			    <span class="menubar_separator">|</span>
+		            <a href="http://www.minghui.org/mh/sitemap.html" title="网站地图"><span class="menu11">网站地图</span></a>
+			    <span class="menubar_separator">|</span>
+			     <a href="https://library.minghui.org" title="明慧网群"><span class="menu12">明慧网群</span></a>
+			    <span class="menubar_separator">|</span>
+		            <a href="http://search.minghui.org/cgi-bin/search.php" title="检索"><span class="menu13">检索</span></a>
+			</div>
+    	</div>
+</div>
+<script type="text/javascript">
+function change_language(strLanguage) {
+	var targetURL = window.location.toString();
+	switch (strLanguage) {
+		case 'b5':
+			if (targetURL.indexOf("lang=")> 0) {
+				targetURL = targetURL.replace("lang=gb", "lang=b5");
+			} else {
+				if (targetURL.indexOf("cgi-bin")>0) {
+					targetURL = targetURL.replace("search.minghui.org/cgi-bin/search", "search.minghui.org/cgi-bin/big5/search");
+				} else {
+					targetURL = targetURL.replace(/http\:[\\\/][\\\/][^\/]+\//gi, "http://big5.minghui.org/");
+				}
+			}
+			break;
+		default:
+			if (targetURL.indexOf("lang=")> 0) {
+				targetURL = targetURL.replace("lang=b5", "lang=gb");
+			} else {
+				if (targetURL.indexOf("cgi-bin")>0) {
+					targetURL = targetURL.replace("http://search.minghui.org/cgi-bin/big5/search", "http://search.minghui.org/cgi-bin/search");
+				} else {
+					targetURL = targetURL.replace(/http\:[\\\/][\\\/][^\/]+\//gi, "http://www.minghui.org/");
+				}
+			}
+	}
+	if (targetURL != window.location.toString()) {
+		window.location.assign(targetURL);
+	}
+	return false;
+}
+</script>
+
+	
+	        <div id="searchbox">
+            <form action='http://search.minghui.org/cgi-bin/search.php' method='get' accept-charset="UTF-8">
+            <input type="text" value="" maxlength="255" name="str" class="inputtext"><input type="image" src="/pub/cmh2015/images/button_search.png" title="启动检索" class="inputimage">
+            </form>
+        <!-- end searchbox --></div>
+
+	
+    <!-- end #header --></div>
+<!-- end #master_container --></div>
+
+<script type="text/javascript"> var i = /^(localhost|127\.|192\.|172\.|10\.|\w+[\.]?$)/; var v = /http(s|)/; if (!(i.test(document.location.host)) && (v.test(document.location.protocol))) { var u = "http://stats.minghui.org/"; document.write(decodeURIComponent("%3Cimg src='" + u + "mhstats.php?site=cmh&lang=gb&q=") + encodeURI(window.location) + decodeURIComponent("' style='display%3Anone%3Bborder%3A0%3Bheight%3A0%3Bwidth%3A0%3B' %2F%3E")); } </script>
+
+</body>
+</html>
+
